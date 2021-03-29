@@ -1,0 +1,3720 @@
+(carboplatin)||carboplatin
+*carbamazepine||carbamazepine
+0.9% sodium chloride injection||sodium chloride
+20% mannitol injection||mannitol
+3% sodium chloride injection||sodium chloride
+gilenya (fingolimod)||fingolimod
+gilenya (fingolimod) capsule||fingolimod
+minirinmelt||desmopressin
+minocycline hcl||minocycline
+gilenya (fty) capsule||fingolimod
+minocycline\minocycline hydrochloride||minocycline
+422 (anagrelide)||anagrelide
+433 (carbamazepine)||carbamazepine
+gilenya (fty)capsule||fingolimod
+489 (lisdexamfetamine dimesylate)||lisdexamfetamine
+revlimid (lenalidomide)||lenalidomide
+minoxidil (amallc)||minoxidil
+5 fluorouracil||fluorouracil
+cialis (tadalafil)||tadalafil
+5% glucose  injection||dextrose, unspecified form
+cibenzoline succinate||cibenzoline
+ciclofosfamida (120a)||cyclophosphamide
+5% sodium chloride injection||sodium chloride
+revlimid (lenalidomide) (capsules)||lenalidomide
+ciclosporin (ciclosporin)||cyclosporine
+5-fluorouracil (5-fu)||fluorouracil
+miralax (macrogol)||polyethylene glycol
+ciclosporin a||cyclosporine
+5-fluorouracil [fluorouracil]||fluorouracil
+mirapex la||pramipexole
+revolade tab||eltrombopag
+mirena iud||levonorgestrel
+5-fu (fluorouracil)||fluorouracil
+reyataz caps||atazanavir
+5-fu [fluorouracil]||fluorouracil
+mirtazapin actavis||mirtazapine
+reyataz caps 300 mg||atazanavir
+mirtazapine (mirtazapine)||mirtazapine
+503 (guanfacine hydrochloride)||guanfacine
+mirtazapine (unknown)||mirtazapine
+mirtazapine 15mg||mirtazapine
+5?fluorouracil||fluorouracil
+mirtazapine 30mg||mirtazapine
+5?fluorouracil [fluorouracil]||fluorouracil
+cinacalcet hcl||cinacalcet
+mirtazapine film-coated tablet||mirtazapine
+mirtazapine hydrochloride||mirtazapine
+5?fu [fluorouracil]||fluorouracil
+mirtazapine odt||mirtazapine
+mirtazapine tablet||mirtazapine
+6 mercaptopurine||mercaptopurine
+mirtazapine tablets 15 mg||mirtazapine
+6-mercaptopurine monohydrate||mercaptopurine
+ginseng nos||adenosine
+6?mercaptopurine monohydrate||mercaptopurine
+8-tetrahydrocannabinol||dronabinol
+81 mg aspirin||acetylsalicylic acid
+cipramil [citalopram hydrobromide]||citalopram
+9-tetrahydrocannabinol||dronabinol
+mitomycin-c||mitomycin
+ciprobay||benzyl alcohol
+mitoxantrone hcl||mitoxantrone
+ciprobay 500 mg||benzyl alcohol
+ciproflaxin||benzyl alcohol
+mixed amphetamine salts||amphetamine
+abacavir succinate||abacavir
+glatiramer acetate||acetate
+abacavir sulphate||abacavir
+glatiramer acetate injection||acetate
+gleevec (imatinib)||imatinib
+ribapak (ribavirin)||ribavirin
+abilify (aripiprazole)||aripiprazole
+gleevec (imatinib) unknown||imatinib
+ribasphere (ribavirin)||ribavirin
+abilify discmelt||aripiprazole
+abilify tabs||aripiprazole
+ciprofloxacn||benzyl alcohol
+abilify tabs 10 mg||aripiprazole
+ciprofloxin||benzyl alcohol
+ribavirin (ribavirin)||ribavirin
+abilify tabs 15 mg||aripiprazole
+modafinil (modafinil)||modafinil
+ciprolex||benzyl alcohol
+abilify tabs 2 mg||aripiprazole
+modafinil tablets usp||modafinil
+ciproxan||benzyl alcohol
+ribavirin (ribavirin) capsule||ribavirin
+abilify tabs 5 mg||aripiprazole
+ciproxin||benzyl alcohol
+abiraterone 250mg apotex||abiraterone
+ribavirin (warrick)||ribavirin
+ciproxin 500 mg||benzyl alcohol
+abiraterone 250mg tab||abiraterone
+ciproxin 500 mg film-coated tablets||benzyl alcohol
+ribavirin 200 mg||ribavirin
+ciproxine||benzyl alcohol
+cis-platinum||platinum
+ribavirin 200 mg tablets||ribavirin
+cisatracurium besilate||cisatracurium
+gliclazide (gliclazide)||gliclazide
+moduretic||amiloride
+cisatracurium mylan||cisatracurium
+ribavirin 200mg||ribavirin
+moduretic 5-50||amiloride
+gliclazide mr||gliclazide
+moduretic 5?50||amiloride
+ribavirin cap 200mg||ribavirin
+cisplatin (119875)||cisplatin
+ribavirin capsule||ribavirin
+cisplatin (cisplatin)||cisplatin
+ribavirin film coated tablets||ribavirin
+cisplatin (cisplatin) (cisplatin)||cisplatin
+cisplatin (cisplatin) (hq specialty)||cisplatin
+ribavirin tab 200mg||ribavirin
+cisplatin (manufacturer unknown)||cisplatin
+cisplatin (manufacturer unknown) (cisplatin) (cisplatin)||cisplatin
+cisplatin (unknown)||cisplatin
+cisplatin accord||cisplatin
+cisplatin for inj||cisplatin
+glimepiride (glimepiride)||glimepiride
+cisplatin mylan||cisplatin
+cisplatin teva||cisplatin
+cisplatine||cisplatin
+cisplatine accord||cisplatin
+cisplatine mylan||cisplatin
+cisplatine teva||cisplatin
+acebutolol hcl||acebutolol
+cisplatinum||cisplatin
+rifadine||rifampicin
+citalopram (citalopram)||citalopram
+rifampicin (unknown)||rifampicin
+citalopram (unknown)||citalopram
+rifampicin capsules||rifampicin
+citalopram film-coated tablet||citalopram
+citalopram hbr||citalopram
+aceon (perindopril erbumine) tablet||perindopril
+monoammonium glycyrrhizinate||glycyrrhizic acid
+citalopram hcl||citalopram
+citalopram hydrobromide (unknown)||citalopram
+rifampin (manufacturer unknown)||rifampicin
+glipizide (glipizide)||glipizide
+citalopram hydrobromide (watson laboratories)||citalopram
+citalopram hydrobromide - bp||citalopram
+acetaminophen (acetaminophen)||acetaminophen
+citalopram hydrobromide ? bp||citalopram
+acetaminophen (paracetamol)||acetaminophen
+citalopram hydrobromide unk||citalopram
+acetaminophen (unknown)||acetaminophen
+citalopram hydrochloride||citalopram
+acetaminophen 650mg er 544||acetaminophen
+citalopram mylan||citalopram
+citicoline sodium||citicoline
+rilpivirine hydrochloride||rilpivirine
+glucagon emergency kit||water
+citracal [calcium citrate]||calcium
+montelukast sod||montelukast
+citracal maximum||chloroxylenol
+mopral (omeprazole)||omeprazole
+mopral [omeprazole]||omeprazole
+rinderon (betamethasone)||betamethasone
+morphine (manufacturer unknown)||morphine
+glucophage (metformin hydrochloride)||metformin
+morphine (morphine)||morphine
+rinderon [betamethasone]||betamethasone
+clamoxyl (amoxicillin)||clavulanic acid
+morphine (morphine) (unknown) (morphine)||morphine
+morphine (unknown)||morphine
+glucosamin||dextrose, unspecified form
+morphine er||morphine
+clarinex-d||desloratadine
+morphine hcl||morphine
+glucosamin chondroitin||dextrose, unspecified form
+acetyl l carnitine||levocarnitine
+acetyl l-carnitine||levocarnitine
+morphine hydrochloride||morphine
+clarithromycin (clarithromycin)||clarithromycin
+acetyl salicylic acid||benzethonium
+morphine hydrochloride hydrate||morphine
+clarithromycin (unknown)||clarithromycin
+morphine hydrochloride trihydrate||morphine
+morphine intrathecal||morphine
+clarithromycin 500mg||clarithromycin
+ringers lactate||sodium chloride
+morphine ir||morphine
+clarithromycin film-coated tablet||clarithromycin
+acetylsalicylic acid (> 100 mg)||acetylsalicylic acid
+clarithromycin mylan||clarithromycin
+morphine salt not specified||morphine
+acetylsalicylic acid (acetylsalicylic acid)||acetylsalicylic acid
+claritin (loratadine)||loratadine
+acetylsalicylic acid (cardio)||acetylsalicylic acid
+morphine sul||morphine
+riociguat (guanylate cyclase stimulator)||riociguat
+acetylsalicylic acid (unknown)||acetylsalicylic acid
+claritin (united states)||loratadine
+acetylsalicylic acid (} 100 mg)||acetylsalicylic acid
+morphine sulf||morphine
+acetylsalicylic acid enteric coated||acetylsalicylic acid
+morphine sulfate (aellc)||morphine
+claritin allergic||loratadine
+acetylsalicylic acid(<=100 mg)||acetylsalicylic acid
+acetylsalicylic acid({=100 mg)||acetylsalicylic acid
+claritin d||loratadine
+morphine sulfate (morphine sulfate)||morphine
+claritin liqui?gels||loratadine
+acetylsalicylic acid(}100 mg)||acetylsalicylic acid
+claritin liquigels||loratadine
+morphine sulfate (morphine sulfate) injection||morphine
+risedronate sodium - bp||risedronic acid
+claritin reditabs 12hr||loratadine
+morphine sulfate (morphine sulfate) unknown||morphine
+risedronate sodium ? bp||risedronic acid
+morphine sulfate (similar to nda 19-516)||morphine
+claritin-d||loratadine
+risedronate sodium unk||risedronic acid
+claritin-d nos||loratadine
+morphine sulfate (similar to nda 19?516)||morphine
+claritin-d-12||loratadine
+morphine sulfate (unknown)||morphine
+morphine sulfate cr||morphine
+risperdal (risperidone)||risperidone
+claritin-d-24||loratadine
+glucose 5%||dextrose, unspecified form
+claritin?d 24 hour||loratadine
+glucose injection||dextrose, unspecified form
+claritin?d nos||loratadine
+glucotrol (glipizide)||glipizide
+morphine sulfate ir||morphine
+claritine||loratadine
+risperidone (risperidone)||risperidone
+morphine sulfate unk||morphine
+risperidone (unknown)||risperidone
+risperidone film-coated tablets||risperidone
+morphine sulphate||morphine
+aciclovir (aciclovir)||acyclovir
+glutathione reduced||glutathione
+risperidone mylan||risperidone
+aciclovir mylan||acyclovir
+mosapride citrate||mosapride
+aciclovir sodium||acyclovir
+glyburide (glibenclamide)||glyburide
+cleanal||benzethonium
+mosapride citrate hydrate||mosapride
+clemizole penicillin||clemizole
+ritalina||methylphenidate
+ritaline||methylphenidate
+glycerol\paraffin||glycerin
+ritaline lp||methylphenidate
+glyceryl trinitrate (glyceryl trinitrate)||nitroglycerin
+ritodrine hydrochloride||ritodrine
+motrin (ibuprofen)||ibuprofen
+glycopyrrolate [glycopyrronium bromide]||glycopyrronium
+ritonavir (ritonavir)||ritonavir
+clexane (enoxaparin sodium)||enoxaparin
+glycopyrrolate [glycopyrronium]||glycopyrronium
+glycopyrronium bromide||glycopyrronium
+clindamycin (clindamycin)||clindamycin
+clindamycin hcl||clindamycin
+clobazam (clobazam)||clobazam
+rivaroxaban (rivaroxaban 20mg tab)||rivaroxaban
+acidum folicum streuli||folic acid
+moxifloxacin (manufacturer unknown)||moxifloxacin
+moxifloxacin hcl||moxifloxacin
+rivotril (clonazepam)||clonazepam
+moxifloxacin iv||moxifloxacin
+clodronate disodium||clodronic acid
+moxifloxacin oral||moxifloxacin
+aciphex (rabeprazole sodium)||rabeprazole
+moxifloxacine||moxifloxacin
+goodsense aspirin||acetylsalicylic acid
+clomifene citrate||clomifene
+aciphex (rabeprazole)||rabeprazole
+clonazepam (aellc)||clonazepam
+aclidinium bromide||aclidinium
+clonazepam (clonazepam)||clonazepam
+gosereline||goserelin
+clonazepam (clonazepam) (clonazepam)||clonazepam
+robaxin (methocarbamol)||methocarbamol
+clonazepam (unknown)||clonazepam
+robaxin-750||methocarbamol
+clonazepam 0.5mg||clonazepam
+clonazepam 1mg||clonazepam
+robitussin (guaifenesin)||guaifenesin
+clonazepam accord||clonazepam
+clonazepam actavis||clonazepam
+actavis clonazepam||clonazepam
+clonazepam tablets usp||clonazepam
+granisetron hcl||granisetron
+rocephine||ceftriaxone
+clonazepam teva||clonazepam
+clonidine (clonidine)||clonidine
+clonidine hcl||clonidine
+rolapitant hydrochloride||rolapitant
+clonidine hcl er||clonidine
+mst [morphine sulfate]||morphine
+ropinirole er||ropinirole
+ropinirole hcl||ropinirole
+clopidogrel (clopidogrel)||clopidogrel
+clopidogrel (unknown)||clopidogrel
+mtx [methotrexate]||methotrexate
+clopidogrel besilate||clopidogrel
+clopidogrel besylate||clopidogrel
+ropivacaine (manufacturer unknown)||ropivacaine
+clopidogrel bisulfate 75 mg||clopidogrel
+clopidogrel bisulphate||clopidogrel
+mucinex (guaifenesin)||guaifenesin
+rosuvastatin (rosuvastatin)||rosuvastatin
+clopidogrel film coated tablets||clopidogrel
+clopidogrel hydrochloride||clopidogrel
+green tea extract||allantoin
+activase||triclosan
+grisetin (flutamide)||flutamide
+mucinex er||guaifenesin
+actonel (risedronate sodium)||risedronic acid
+rosuvastatin film-coated tablet||rosuvastatin
+rosuvastatin tablet||rosuvastatin
+clopidogrel sulfate||clopidogrel
+rosuvastatin teva||rosuvastatin
+actos (pioglitazone hydrochloride)||pioglitazone
+rosuvastatine||rosuvastatin
+clopidogrel tablets usp||clopidogrel
+rosuvastatine [rosuvastatin]||rosuvastatin
+guaifenesin 600 mg 498||guaifenesin
+mucosal||guaifenesin
+clorotrimeton||chlorine
+guanfacine er||guanfacine
+guanfacine hcl||guanfacine
+clotrimazole vaginal cream usp 1% 7 day||clotrimazole
+rozex (metronidazole)||metronidazole
+clotrimazole vaginal cream usp 2% 3 day||clotrimazole
+cloxacillin sodium||cloxacillin
+clozapin hexal||clozapine
+mucosta (rebamipide)||rebamipide
+clozapine (clozapine)||clozapine
+acyclovir (aciclovir)||acyclovir
+clozapine (unknown)||clozapine
+clozapine accord||clozapine
+acyclovir (aciclovir) (aciclovir)||acyclovir
+clozapine mylan||clozapine
+rupatadine fumarate||rupatadine
+multi complete||chlorpheniramine
+acyclovir (aciclovir) (tablets)||acyclovir
+clozapine odt||clozapine
+clozapine tablet||clozapine
+acyclovir (aciclovir) (unknown)||acyclovir
+clozapine teva||clozapine
+clozaril (clozapine)||clozapine
+acyclovir (acyclovir)||acyclovir
+haldol decanoas||haloperidol
+acyclovir (unknown)||acyclovir
+co aprovel||irbesartan
+sabril     (tablet)||vigabatrin
+acyclovir [aciclovir sodium]||acyclovir
+co atenolol||atenolol
+halobetasol prop||ulobetasol
+sabril (tablet)||vigabatrin
+acyclovir [aciclovir]||acyclovir
+haloperidol (haloperidol) (haloperidol)||haloperidol
+co diovan||valsartan
+haloperidol (unknown)||haloperidol
+acyclovir abbott vial||acyclovir
+haloperidol injection (manufacturer unknown)||haloperidol
+acyclovir sodium (manufacturer unknown)||acyclovir
+co-amoxicillin||clavulanic acid
+hartmann's solution||minoxidil
+adalat cr||nifedipine
+co-aprovel||irbesartan
+adalat crono||nifedipine
+adalat l||nifedipine
+salbutamol (salbutamol)||salbutamol
+salbutamol (unknown)||salbutamol
+salbutamol sulfate||salbutamol
+adalat xl||nifedipine
+hctz (hydrochlorothiazide)||hydrochlorothiazide
+salbutamol sulphate||salbutamol
+adalat-cr||nifedipine
+salbutamol teva||salbutamol
+adalate||nifedipine
+co-diovan||valsartan
+multivitamin (16)||cholecalciferol
+helixate fs||levomenthol
+saline [sodium chloride]||sodium chloride
+multivitamin (multivitamins)||cholecalciferol
+helixate nexgen||levomenthol
+multivitamin (vitamins nos)||cholecalciferol
+saline oral otc||sodium chloride
+salmeterol xinafoate||salmeterol
+multivitamin [vitamins nos]||cholecalciferol
+multivitamin adult||cholecalciferol
+co?diovan||valsartan
+salofalk [mesalazine]||mesalazine
+adcirca (tadalafil)||tadalafil
+multivitamin adults||cholecalciferol
+salofalk gr||mesalazine
+adcirca (tadalafil) (unknown)||tadalafil
+multivitamin daily||cholecalciferol
+adco-simvastatin||simvastatin
+cocaine (cocaine)||cocaine
+multivitamin for women||cholecalciferol
+adderall tablets||amphetamine
+samsca (tolvaptan) tablet||tolvaptan
+samsca 30 mg||tolvaptan
+multivitamins (multivitamins)||cholecalciferol
+heparin (heparin)||heparin
+multivitamins (multivitamins) (tablets)||cholecalciferol
+adenuric (febuxostat)||febuxostat
+heparin (manufacturer unknown)||heparin
+codeine (codeine)||codeine
+codeine (unknown)||codeine
+multivitamins (multivitamins) (unknown)||cholecalciferol
+codeine contin||codeine
+heparin flush||heparin
+codeine hydrochloride||codeine
+codeine linctus||codeine
+heparin lmw||heparin
+heparin na lock||heparin
+multivitamins [vitamins nos]||cholecalciferol
+heparin sodium (manufacturer unknown)||heparin
+multivitamins;minerals||cholecalciferol
+heparin sodium porcine||heparin
+sarpogrelate hydrochloride||sarpogrelate
+multivitaminum||cholecalciferol
+heparin-ratiopharm||heparin
+heparine choay||heparin
+saxagliptin hydrochloride||saxagliptin
+heparine sodique||heparin
+colace (docusate sodium)||docusate
+mupirocin ointment||mupirocin
+adrenaline [epinephrine]||epinephrine
+colchicine (colchicine)||colchicine
+heparinoid||heparin
+mupirocin ointment usp 2%||mupirocin
+colchicine opocalcium||colchicine
+adriamycin [doxorubicin]||doxorubicin
+colecalciferol (vitamin d)||cholecalciferol
+colestipol hcl||colestipol
+colgate duraphat||sodium fluoride
+adult aspirin||acetylsalicylic acid
+scopolamine [hyoscine]||scopolamine
+adult multivitamin||cholecalciferol
+muscle relaxer||levomenthol
+scopolamine butylbromide||scopolamine
+scopolamine hbr||scopolamine
+colistimethate (manufacturer unknown)||colistimethate
+colistimethate [colistimethate sodium]||colistimethate
+scopolamine transdermal system||scopolamine
+herbal extract nos||levomenthol
+colistin sulfate||colistin
+sea water||water
+herbal nos||levomenthol
+herbal preparation||levomenthol
+herbal supplements||levomenthol
+advil (ibuprofen)||ibuprofen
+advil 12hour||ibuprofen
+combigan[r]||timolol
+advil [ibuprofen]||ibuprofen
+advil cold||ibuprofen
+advil liqui?gels||ibuprofen
+advilmed enfants et nourrissons||ibuprofen
+combivent mdi||ipratropium
+aerius (canada)||desloratadine
+heroin (diamorphine) (diamorphine)||diamorphine
+aerius (desloratadine)||desloratadine
+cometriq (cabozantinib) capsule||cabozantinib
+comparator bendamustine||bendamustine
+mvw complete formulation d3000||chlorpheniramine
+comparator carboplatin||carboplatin
+selective serotonin reuptake inhibitors||serotonin
+selegiline hcl||selegiline
+comparator cytarabine||cytarabine
+comparator daunorubicin||daunorubicin
+afinitor (rad)||everolimus
+selenica r||selenium
+mycelex troche||clotrimazole
+comparator docetaxel||docetaxel
+selenica-r||selenium
+afinitor (rad) unknown||everolimus
+myco[phenolate||phenol
+comparator enalapril||enalapril
+comparator fulvestrant||fulvestrant
+comparator letrozole||letrozole
+comparator paclitaxel||paclitaxel
+mycophenolate 250mg||mycophenolic acid
+comparator pemetrexed||pemetrexed
+mycophenolate 500mg||mycophenolic acid
+afrin [oxymetazoline]||oxymetazoline
+compazine (prochlorperazine edisylate)||prochlorperazine
+afrin spray||oxymetazoline
+mycophenolate mof cap 250mg||mycophenolic acid
+compazine (prochlorperazine maleate)||prochlorperazine
+compazine [prochlorperazine edisylate]||prochlorperazine
+mycophenolate mof tab||mycophenolic acid
+mycophenolate mof tab 500mg||mycophenolic acid
+complete multi vit||chlorpheniramine
+senna leaf||sennosides
+sennalax||sennosides
+compounded baclofen||baclofen
+sennapur||sennosides
+compounded baclofen intrathecal||baclofen
+sennaride||sennosides
+compounded testosterone pellet||testosterone
+hidroclorotiazida (1343a)||hydrochlorothiazide
+airomir [salbutamol sulfate]||salbutamol
+sennoside a||sennosides
+airomir [salbutamol]||salbutamol
+senokot?s||sennosides
+mycophenolate sodium||mycophenolic acid
+hidroxicloroquina (2143a)||hydroxychloroquine
+hidroxicloroquina sulfato||hydroxychloroquine
+albumin tannate||phenylephrine
+serenase (haloperidol)||haloperidol
+mycostatine||nystatin
+high cholesterol medication||cholesterol
+control plp||chloroxylenol
+controloc||chloroxylenol
+albuterol (salbutamol sulfate)||salbutamol
+albuterol (salbutamol)||salbutamol
+albuterol [salbutamol sulfate]||salbutamol
+copaxone (glatiramer acetate)||acetate
+albuterol [salbutamol]||salbutamol
+albuterol aer||salbutamol
+albuterol aer hfa||salbutamol
+mylan fentanyl transdermal system||fentanyl
+albuterol inhalation powder||salbutamol
+copper iud||cupric chloride
+seropram (citalopram hydrobromide)||citalopram
+albuterol inhalational powder||salbutamol
+coppertone||cupric chloride
+seroquel (quetiapine fumarate)||quetiapine
+albuterol inhaler||salbutamol
+mylan furosemide 40||furosemide
+coppertone kids continuous spray spf-50||cupric chloride
+serostim [(somatropin (rdna origin) for injection)]||water
+albuterol mdi||salbutamol
+albuterol neb||salbutamol
+coppertone sensitive skin lotion spf-50||cupric chloride
+mylan pantoprazole||pantoprazole
+albuterol nebulizer||salbutamol
+albuterol sulfate (salbutamol sulfate)||salbutamol
+sertralin [sertraline]||sertraline
+albuterol sulfate inhalation powder||salbutamol
+albuterol sulfate nebulizer||salbutamol
+albuterol sulphate||salbutamol
+sertraline (sertraline)||sertraline
+sertraline (sertraline) (sertraline)||sertraline
+sertraline (unknown)||sertraline
+sertraline 50mg||sertraline
+alcohol (ethanol)||isopropyl alcohol
+sertraline accord||sertraline
+coq10 (ubidecarenone)||ubidecarenone
+coq10 [ubidecarenone]||ubidecarenone
+coralan||sodium fluoride
+myorisan 40 mg||isotretinoin
+aldactone (spironolactone)||spironolactone
+aldactone (united states)||spironolactone
+aldactone a||spironolactone
+sevelamer salt not specified||sevelamer
+cordarone x||amiodarone
+aldactone tablets||spironolactone
+coreg (carvedilol)||carvedilol
+aldactone-a||spironolactone
+sevoflurane baxter||sevoflurane
+coricidin hbp flu||chlorpheniramine
+myser (difluprednate)||difluprednate
+horse chestnut||levomenthol
+myser [difluprednate]||difluprednate
+horse chestnut extract||levomenthol
+shark cartilage||sodium fluoride
+n acetyl cysteine||cysteine
+shark liver oil||sodium fluoride
+n-acetyl cysteine||cysteine
+n?acetylcysteine||acetylcysteine
+correctol nos||bisacodyl
+alendronate (alendronate sodium)||alendronic acid
+nab-paclitaxel||paclitaxel
+alendronate sodium (watson laboratories)||alendronic acid
+nab?paclitaxel||paclitaxel
+alendronate sodium ir||alendronic acid
+shower to shower talcum powder||talc
+alendronate sodium tablets||alendronic acid
+shower to shower talcum product||talc
+alendronate sodium tablets usp||alendronic acid
+alendronate sodium tablets usp 70mg||alendronic acid
+alendronate sodium- (unknown)||alendronic acid
+sildenafil (sildenafil)||sildenafil
+alendronic acid (alendronic acid)||alendronic acid
+sildenafil (unknown)||sildenafil
+alendronic acid (unknown)||alendronic acid
+sildenafil 20 mg||sildenafil
+alendronic acid 70||alendronic acid
+nafamostat mesilate||nafamostat
+sildenafil 20mg||sildenafil
+naftidrofuryl oxalate||naftidrofuryl
+alendronic acid tablets||alendronic acid
+sildenafil 20mg tab||sildenafil
+sildenafil tab 20 mg||sildenafil
+naixan [naproxen]||naproxen
+sildenafil tab 20mg||sildenafil
+naloxegol oxalate||naloxegol
+namenda (memantine hydrochloride)||memantine
+silodosin - bp||silodosin
+silodosine||silodosin
+cortiment [budesonide]||budesonide
+aleve (naproxen sodium)||naproxen
+naprosyn e||naproxen
+naprosyne||naproxen
+aleve caplet||naproxen
+aleve gelcap||naproxen
+naproxen (naproxen)||naproxen
+cortiment mmx||budesonide
+aleve liquid gels 220 mg||naproxen
+naproxen (unknown)||naproxen
+simcora||niacin
+aleve liquid gels 220mg||naproxen
+naproxen 500mg||naproxen
+cortisolu||hydrocortisone
+naproxen dr||naproxen
+aleve tablet||naproxen
+naproxen sod||naproxen
+naproxen sodium ({= 220 mg)||naproxen
+naproxen sodium 220 mg||naproxen
+naproxen sodium 220 mg 368||naproxen
+naproxen tablet||naproxen
+alfuzosin hcl||alfuzosin
+naproxene||naproxen
+alfuzosin hcl er||alfuzosin
+alginac||alginic acid
+naratriptan hcl||naratriptan
+simvastatin (simvastatin)||simvastatin
+simvastatin (simvastatin) (simvastatin)||simvastatin
+simvastatin (unknown)||simvastatin
+simvastatin (zocor)||simvastatin
+simvastatin 20 mg||simvastatin
+nasal spray||phenylephrine
+alimemazine tartrate||alimemazine
+simvastatin 20mg||simvastatin
+nasal spray ii||phenylephrine
+simvastatin 40 mg||simvastatin
+human insulin (rdna origin) regular||sodium fluorophosphate
+simvastatin 40mg||simvastatin
+simvastatin accord||simvastatin
+simvastatin actavis||simvastatin
+aliskiren fumarate||aliskiren
+simvastatin film-coated tablet||simvastatin
+simvastatin tablet||simvastatin
+simvastatin tablets usp 20 mg||simvastatin
+simvastatin(simvastatin)||simvastatin
+all other non-therapeutic products||coal tar
+simvastatina (1023a)||simvastatin
+all other therapeutic product||coal tar
+all other therapeutic products||coal tar
+all other therapeutics||coal tar
+sinemet l.p||levodopa
+all-trans retinoic acid||tretinoin
+allegra (fexofenadine hydrochloride)||fexofenadine
+natriumchloride||sodium chloride
+sinemet lp||levodopa
+sinemet plus||levodopa
+singulair (montelukast sodium)||montelukast
+allegra d||fexofenadine
+singulair (montelukast sodium) tablet||montelukast
+allegra d?12 hour||fexofenadine
+allegra?d||fexofenadine
+natural tears||benzalkonium
+allegra?d 24 hour||fexofenadine
+naturalyte||benzalkonium
+allergy medication||fexofenadine
+allergy pill||fexofenadine
+allergy shot||fexofenadine
+humira (abbott)||isopropyl alcohol
+allergy shots||fexofenadine
+coumadin (warfarin sodium)||warfarin
+humira pen||isopropyl alcohol
+coumadin (warfarin sodium) (tablets)||warfarin
+humira pre-filled syringe||isopropyl alcohol
+nebivolol hcl - bp||nebivolol
+coumadin (warfarin sodium) (unknown)||warfarin
+nebivolol hydrochloride||nebivolol
+sirolimus tab 0.5mg||sirolimus
+coumadin (warfarin)||warfarin
+sirolimus tab 1mg||sirolimus
+nebulized albuterol||salbutamol
+coumadin ^boots^||warfarin
+coumadin tabs||warfarin
+coumadin tabs 2 mg||warfarin
+allopurinol (allopurinol)||allopurinol
+allopurinol (allopurinol) (allopurinol)||allopurinol
+coumadin tabs 5 mg||warfarin
+nefazodone hcl||nefazodone
+skelaxin [metaxalone]||metaxalone
+allopurinol (allopurinol) (unknown)||allopurinol
+skelaxine||metaxalone
+allopurinol (allopurinol) tablet||allopurinol
+coumadine||warfarin
+nefopam hydrochloride||nefopam
+allopurinol (unknown)||allopurinol
+nefopam medisol||nefopam
+allopurinol arrow||allopurinol
+sleeping pill||diphenhydramine
+nefopam mylan||nefopam
+allopurinol tablets||allopurinol
+allopurinol teva||allopurinol
+slo-niacin||niacin
+allopurinolo||allopurinol
+nelfinavir mesilate||nelfinavir
+nelfinavir mesylate||nelfinavir
+humulin regular||sodium fluorophosphate
+smz-tmp||tmp
+smz-tmp ds||tmp
+smz?tmp||tmp
+alogliptin benzoate||alogliptin
+alopurinol (318a)||allopurinol
+neostelin green||allantoin
+coversyl [perindopril erbumine]||perindopril
+hyaluronate na||hyaluronic acid
+sodium alginate||alginic acid
+hyaluronate sodium||hyaluronic acid
+alpha-methyldopa||methyldopa
+sodium bicarbonate (sodium bicarbonate)||sodium bicarbonate
+cozaar comp||losartan
+sodium chlor||chlorine
+sodium chloride (manufacturer unknown)||sodium chloride
+alprazolam (aellc)||alprazolam
+sodium chloride (sodium chloride)||sodium chloride
+hydralazine (hydralazine)||hydralazine
+alprazolam (alprazolam)||alprazolam
+sodium chloride 0.45% solu. for  i.v. infu. in viaflex||sodium chloride
+alprazolam (alprazolam) (alprazolam)||alprazolam
+sodium chloride 0.9%||sodium chloride
+alprazolam (unknown)||alprazolam
+nesina tablets 25mg||alogliptin
+sodium chloride 0.9% intravenous infusion bp||sodium chloride
+alprazolam actavis||alprazolam
+sodium chloride 0.9% solu. for  i.v. infu. in viaflex||sodium chloride
+alprazolam mylan||alprazolam
+sodium chloride 7%||sodium chloride
+alprazolam tablets||alprazolam
+sodium chloride injection||sodium chloride
+alprazolam tablets 0.5 mg||alprazolam
+hydrea caps 500 mg||hydroxyurea
+sodium chloride injection usp 0264-7800-09||sodium chloride
+alprazolam tablets usp||alprazolam
+sodium chloride iv||sodium chloride
+hydrocerin||ethanol
+hydrochloorthiazide||ethanol
+sodium clodronate||clodronic acid
+altace (ramipril)||ramipril
+hydrochlorathiazide||ethanol
+sodium docusate||docusate
+neurobion forte||pyridoxine
+hydrochloride||ethanol
+sodium ferric citrate||tetraferric tricitrate decahydrate
+hydrochloroquine||ethanol
+sodium fusidate||fusidic acid
+hydrochlorot||ethanol
+neurontin (gabapentin)||gabapentin
+hydrochloroth||ethanol
+sodium heparin||heparin
+neurontin (united states)||gabapentin
+cranberry plus vitamin c||ascorbic acid
+sodium hyaluronate||hyaluronic acid
+hydrochlorothiazid||ethanol
+sodium hypochlorite||hypochlorite
+alverine citrate||alverine
+sodium perchlorate||perchlorate
+sodium phosphate||sodium phosphate, monobasic, unspecified form
+creatine monohydrate||creatine
+sodium picosulfate||picosulfuric acid
+amantadine (amantadine)||amantadine
+sodium picosulfate hydrate||picosulfuric acid
+amaryl (glimepiride)||glimepiride
+sodium picosulphate||picosulfuric acid
+amaryl m||glimepiride
+nevirapine (nevirapine)||nevirapine
+sodium rabeprazole||rabeprazole
+ambien (zolpidem tartrate)||zolpidem
+sodium risedronate hydrate||risedronic acid
+sodium selenite||selenium
+sodium valproate||valproic acid
+ambien (zolpidem tartrate) (unknown)||zolpidem
+sodium valproate (unknown)||valproic acid
+ambien (zolpidem tartrate) (zolpidem tartrate)||zolpidem
+sofosbuvir 400mg gilead||sofosbuvir
+nexium (esomeprazole)||esomeprazole
+nexium (esomeprazole) (esomeprazole)||esomeprazole
+ambrisentan 10mg||ambrisentan
+ambrisentan 10mg actavis pharma||ambrisentan
+nexium (esomeprazole) (unknown)||esomeprazole
+ambrisentan 5mg actavis pharma||ambrisentan
+ambrisentan tablets||ambrisentan
+ambroxol hcl||ambroxol
+nexium 1-2-3||esomeprazole
+ambroxol hydrochloride||ambroxol
+hydrochlorthiazid||ethanol
+nexium [esomeprazole sodium]||esomeprazole
+hydrochlorthiazide||ethanol
+hydrochlorzide||ethanol
+hydrocholothiazide 25 mg tablet||ethanol
+nexium capsule||esomeprazole
+nexium hp||esomeprazole
+nexium i.v||esomeprazole
+nexium mups||esomeprazole
+niacin (nicotinic acid)||niacin
+niacin er||niacin
+hydrochorothiazide||ethanol
+niaspan (coated)||niacin
+niaspan (coated) 1000mg||niacin
+amikacine mylan||amikacin
+hydroco||ethanol
+niaspan (coated) 500mg||niacin
+niaspan (nicotinic acid)||niacin
+solian||desogestrel
+hydroco apap||ethanol
+amiloride hcl||amiloride
+solifenacine||solifenacin
+hydrocobamine||ethanol
+cubicin (daptomycin)||daptomycin
+hydrocodeine||ethanol
+nicoderm cq 14mg||nicotine
+nicoderm cq 21mg||nicotine
+nicoderm cq clear 14mg||nicotine
+nicoderm cq clear 21mg||nicotine
+amiodarone (amiodarone)||amiodarone
+nicoderm cq clear 7mg||nicotine
+solu cortef||hydrocortisone
+amiodarone 200mg||amiodarone
+nicorette fruit chill otc 4mg||nicotine
+amiodarone hcl (manufacturer unknown)||amiodarone
+solu medrol||methylprednisolone
+amiodarone hcl injection||amiodarone
+nicorette minis mint 2 mg||nicotine
+amiodarone hcl tablet 200 mg||amiodarone
+nicorette nicotine polacrilex lozenge||nicotine
+cvs vitamin d||cholecalciferol
+amiodarone hydrochloride 200 mg tablet||amiodarone
+solu?cortef||hydrocortisone
+solu?medrol||methylprednisolone
+amiodarone hydrochloride teva||amiodarone
+nicorette otc 2mg||nicotine
+nicorette otc 4mg||nicotine
+cyanocobalamin (cyanocobalamin)||8-epi-cyanocobalamin
+amiodarone tablets||amiodarone
+amiodarone teva||amiodarone
+amiodarone zydus||amiodarone
+nicorette quickmist||nicotine
+cyclizine hydrochloride||cyclizine
+amitriptyline (amitriptyline)||amitriptyline
+amitriptyline accord||amitriptyline
+solupred (prednisolone metasulfobenzoate sodium)||prednisolone
+solupred (prednisolone sodium metazoate)||prednisolone
+nicotinell||nicotine
+amitriptyline hcl||amitriptyline
+nicotrol inhaler||nicotine
+solupred (prednisolone sodium sulfobenzoate)||prednisolone
+amitriptyline hcl tablets usp||amitriptyline
+solupred (prednisolone)||prednisolone
+solupred [prednisolone metasulfobenzoate sodium]||prednisolone
+amitriptyline pamoate||amitriptyline
+nifedipine (nifedipine) (nifedipine)||nifedipine
+solupred [prednisolone]||prednisolone
+cyclobenzaprine (cyclobenzaprine)||cyclobenzaprine
+nifedipine cr||nifedipine
+solutions for parenteral nutrition||minoxidil
+cyclobenzaprine hydrochloride (actavis laboratories fl)||cyclobenzaprine
+nifedipine l||nifedipine
+cyclobenzaprine tablets||cyclobenzaprine
+nifedipine xl||nifedipine
+amlodin (amlodipine besylate)||amlodipine
+hydrocortancyl||ethanol
+hydrocorticone||ethanol
+hydrocortison||ethanol
+soma (carisoprodol)||carisoprodol
+cyclopentolate hcl||cyclopentolate
+amlodipin [amlodipine besilate]||amlodipine
+cyclophosphamide (cyclophosphamide)||cyclophosphamide
+amlodipina [amlodipine]||amlodipine
+cyclophosphamide (cyclophosphamide) (cyclophosphamide)||cyclophosphamide
+amlodipine (amlodipine besilate)||amlodipine
+cyclophosphamide (manufacturer unknown)||cyclophosphamide
+amlodipine (amlodipine)||amlodipine
+niraparib capsule||niraparib
+amlodipine (amlodipine) (amlodipine)||amlodipine
+cyclophosphamide (manufacturer unknown) (cyclophosphamide) (cyclophosphamide)||cyclophosphamide
+amlodipine (amlodipine) (unknown)||amlodipine
+somatuline autogel 120mg||lanreotide
+amlodipine (unknown)||amlodipine
+somatuline autogel 60mg||lanreotide
+cyclophosphamide (unknown)||cyclophosphamide
+amlodipine 10 mg||amlodipine
+amlodipine [amlodipine besilate]||amlodipine
+cyclophosphamide cap 50mg||cyclophosphamide
+amlodipine b||amlodipine
+amlodipine besilate||amlodipine
+cyclophosphamide hydrate||cyclophosphamide
+nitro [glyceryl trinitrate]||nitroglycerin
+nitro patch||levomenthol
+hydrocortone||ethanol
+cyclophosphamide injection 1g||cyclophosphamide
+amlodipine besylate (amlodipine besilate)||amlodipine
+sorafenib (raf kinase inhibitor)||sorafenib
+amlodipine besylate tablets||amlodipine
+hydrodiuril||ethanol
+cyclophosphamide monohydrate||cyclophosphamide
+amlodipine besylate tablets 10mg||amlodipine
+amlodipine besylate tablets 5 mg||amlodipine
+hydromol||ethanol
+cyclophosphamide tablets usp||cyclophosphamide
+amlodipine besylate tablets 5mg||amlodipine
+hydromorph||ethanol
+hydromorphine||ethanol
+cyclosporine (ciclosporin)||cyclosporine
+amlodipine maleate||amlodipine
+hydromorphon||ethanol
+amlodipine mesilate||amlodipine
+cyclosporine (unknown)||cyclosporine
+amlodipino (2503a)||amlodipine
+hydromorphon al||ethanol
+nitrofurantoin monohydrate||nitrofurantoin
+cyclosporine (watson laboratories)||cyclosporine
+sotalol hcl||sotalol
+nitroglycerin (glyceryl trinitrate)||nitroglycerin
+cyclosporine cap 100mg||cyclosporine
+cyclosporine cap 100mg md||cyclosporine
+cyclosporine cap 25mg mod||cyclosporine
+amnesteem capsules||isotretinoin
+cyclosporine cap mod 100mg||cyclosporine
+nitrostat (glyceryl trinitrate)||nitroglycerin
+spasfon (phloroglucinol)||phloroglucinol
+spasfon (phloroglucinol\trimethylphloroglucinol)||phloroglucinol
+spasfon [phloroglucinol;trimethylphloroglucinol]||phloroglucinol
+spasfon [phloroglucinol]||phloroglucinol
+cymbalta (duloxetine hydrochloride)||duloxetine
+hydromorphonhydrochlorid beta||ethanol
+amoxclav [amoxicillin;clavulanic acid]||clavulanic acid
+hydroval||ethanol
+amoxi-clavulanico||clavulanic acid
+amoxicillin (amoxicillin)||clavulanic acid
+amoxicillin 500mg||clavulanic acid
+hydroxychlor||ethanol
+amoxicillin capsule||clavulanic acid
+amoxicillin capsules usp 500 mg||clavulanic acid
+no treatment received||pyrithione
+amoxicillin clavulanate||clavulanic acid
+amoxicillin clavulanic acid||clavulanic acid
+cyproheptadine hcl||cyproheptadine
+spiractin (spironolactone)||spironolactone
+amoxicillin hydrate||clavulanic acid
+spiramycine||spiramycin
+amoxicillin sodium||clavulanic acid
+cytarabine (cytarabine)||cytarabine
+spiriva (tiotropium bromide)||tiotropium
+cytarabine (manufacturer unknown)||cytarabine
+amoxicillin trihydrate||clavulanic acid
+spiriva (tiotropium bromide) (tiotropium bromide)||tiotropium
+cytarabine (manufacturer unknown) (cytarabine) (cytarabine)||cytarabine
+spiriva combi||tiotropium
+cytarabine accord||cytarabine
+cytarabine ebewe||cytarabine
+cytarabine hydrochloride||cytarabine
+amoxicillin-clavulanat||clavulanic acid
+cytarabine kabi||cytarabine
+hydroxyz||ethanol
+amoxicillin-clavulanate||clavulanic acid
+cytotect||misoprostol
+nolvadex d||tamoxifen
+cytoxan (cyclophosphamide)||cyclophosphamide
+hydroxyz hcl||ethanol
+amoxicillin-clavulanic acid||clavulanic acid
+non-pmn buprenorphine||buprenorphine
+non-pmn morphine sulfate||morphine
+hydroxyz pam||ethanol
+amoxicillin-pot clavulanate||clavulanic acid
+d-alpha tocopherol||tocopherol
+amoxicillin;clavulanic acid||clavulanic acid
+spironolactone (aldactone)||spironolactone
+spironolactone (spironolactone)||spironolactone
+d?alpha tocopherol||tocopherol
+spironolactone (unknown)||spironolactone
+noradrenaline [norepinephrine]||norepinephrine
+spironolactone arrow||spironolactone
+dabrafenib capsule||dabrafenib
+spironolactone teva||spironolactone
+noradrenaline mylan||norepinephrine
+dacarbazine (dacarbazine) injection||dacarbazine
+spironolactone-hctz||spironolactone
+dacarbazine (manufacturer unknown)||dacarbazine
+daclatasvir dihydrochloride||daclatasvir
+norethindrone [norethisterone]||norethisterone
+sprycel (cml) tabs 100 mg||dasatinib
+amphetamine salts||amphetamine
+hyoscine butylbromide||scopolamine
+sprycel (cml) tabs 50 mg||dasatinib
+hyoscine hydrobromide||scopolamine
+dafalgan (paracetamol)||acetaminophen
+st. joseph aspirin||acetylsalicylic acid
+dafalgan codeine||codeine
+amphetamines||amphetamine
+normal saline||sodium chloride
+normal saline (sodium chloride)||sodium chloride
+hypericum perforatum||st. john's wort
+daflon (diosmin)||diosmin
+stalevo 100||entacapone
+daflon [diosmin]||diosmin
+hypertonic saline||sodium chloride
+statex (morphine sulfate)||morphine
+statex [morphine sulfate]||morphine
+daily multivitamin||cholecalciferol
+amphotericin b lipid complex||amphotericin b
+noroxine||norfloxacin
+amphotericin b liposomal||amphotericin b
+stemetil [prochlorperazine]||prochlorperazine
+nortriptyline (nortriptyline)||nortriptyline
+nortriptyline hydrochloride (watson laboratories)||nortriptyline
+i.v. solutions||minoxidil
+norvasc (amlodipine besilate)||amlodipine
+norvasc od||amlodipine
+steroid antibacterials||benzalkonium
+dalbavancin hcl unk||dalbavancin
+dalfampridine 10mg er tab||dalfampridine
+dalfampridine er||dalfampridine
+dalfampridine er 10mg aurobindo pharma||dalfampridine
+daliresp (roflumilast)||roflumilast
+novalgin (metamizole sodium)||metamizole
+anacin nos||caffeine
+dalteparin sodium||dalteparin
+danaparoid sodium||danaparoid
+stool softener (docusate sodium)||docusate
+ibuprofen (amallc)||ibuprofen
+anadin paracetamol||acetaminophen
+stool softener (docusate)||docusate
+ibuprofen (ibuprofen)||ibuprofen
+stool softeners||docusate
+ibuprofen (non-specific)||ibuprofen
+dapagliflozin propanediol monohydrate||dapagliflozin
+novamin (prochlorperazine maleate)||prochlorperazine
+anagrelide hcl||anagrelide
+ibuprofen (unknown)||ibuprofen
+ibuprofen 200 mg 604||ibuprofen
+analgesic (unspecified)||levomenthol
+dapsone unk||dapsone
+novamin (prochlorperazine)||prochlorperazine
+analgesics||levomenthol
+daptomycin accord||daptomycin
+ibuprofen 600mg||ibuprofen
+darifenacin hydrobromide||darifenacin
+ibuprofen [ibuprofen]||ibuprofen
+anastrozole (anastrozole)||anastrozole
+darunavir ethanolate||darunavir
+suboxone 8 mg||buprenorphine
+anastrozole (manufacturer unknown)||anastrozole
+suboxone film||buprenorphine
+ibuprofen al||ibuprofen
+anastrozole (unknown)||anastrozole
+suboxone tablet||buprenorphine
+ibuprofen capsules 200 mg||ibuprofen
+anastrozole accord||anastrozole
+suboxone unspecified||buprenorphine
+ibuprofen film-coated tablets||ibuprofen
+dasatinib monohydrate||dasatinib
+novatrex (methotrexate)||methotrexate
+sucralfate - bp||sucralfate
+sucralfate unk||sucralfate
+ibuprofen unknown product||ibuprofen
+daunorubicin hcl||daunorubicin
+sufentanil mylan||sufentanil
+anesthetics||benzocaine
+novo heparin||heparin
+ibuprofeno (1769a)||ibuprofen
+sugammadex sodium||sugammadex
+decadron (dexamethasone)||dexamethasone
+sulbactam sodium||sulbactam
+icaps areds||copper
+icaps lo||copper
+sulfacetamide unk||sulfacetamide
+decadron [dexamethasone]||dexamethasone
+icaps lz||copper
+antacids||magnesium carbonate
+icaps mv||copper
+anti-cholesterol medication||cholesterol
+sulfamethoxazole-trime||sulfamethoxazole
+deferoxamine mesilate||deferoxamine
+idarubicin hcl||idarubicin
+idarubicin hydrochloride (manufacturer unknown)||idarubicin
+deflazacorte||deflazacort
+antibiotics||bacitracin
+antibiotics (antibiotics)||bacitracin
+antibiotics nos||bacitracin
+ifosfamide (ifosfamide)||ifosfamide
+delavirdine mesylate||delavirdine
+ifosfamide (manufacturer unknown)||ifosfamide
+ifosfamide eg||ifosfamide
+delix (ramipril)||ramipril
+delix [ramipril]||ramipril
+sumatriptan (sumatriptan succinate)||sumatriptan
+ifosfamide injection 2g||ifosfamide
+antifungals||miconazole
+sumatriptan (sumatriptan succinate) tablet||sumatriptan
+sumatriptan (sumatriptan)||sumatriptan
+sumatriptan succinate tablet||sumatriptan
+sumatriptan succinate tablets||sumatriptan
+sumatriptan tablet||sumatriptan
+antimicrobial (unspecified)||benzalkonium
+sunitinib malate||sunitinib
+denosine [ganciclovir]||ganciclovir
+nozinan [levomepromazine]||methotrimeprazine
+imatinib 400mg  tab (x30)||imatinib
+imatinib 400mg tab (x30)||imatinib
+np thyroid||levothyroxine
+depakene [valproate sodium]||valproic acid
+super b complex [vitamin b complex]||flavin mononucleotide
+imatinib mes||imatinib
+super b-complex||pantothenic acid
+depakene-r||valproic acid
+imatinib mes tab 100mg||imatinib
+antithymocyte immunoglobulin (horse)||levomenthol
+imatinib mes tab 400mg||imatinib
+depakine [valproic acid]||valproic acid
+imatinib mesilate||imatinib
+antra [omeprazole]||omeprazole
+imatinib mesylate 400mg teva pharmaceuticals usa||imatinib
+depakote (valproate semisodium)||valproic acid
+imatinib mesylate tablets||imatinib
+depas (etizolam)||etizolam
+depas [etizolam]||etizolam
+anzatax (paclitaxel)||paclitaxel
+depo provera||medroxyprogesterone acetate
+depo testosterone||testosterone
+apap codeine||codeine
+symbicort pmdi||budesonide
+imidapril hydrochloride||imidapril
+symbicort turbuhaler||budesonide
+depo?medrol||methylprednisolone
+depo?provera||medroxyprogesterone acetate
+synarela||nafarelin
+apixaban (apixaban 5mg tab)||apixaban
+depo?testosterone||testosterone
+synthroid (levothyroxine sodium)||levothyroxine
+imipramine hcl||imipramine
+synthroid (levothyroxine sodium) (levothyroxine sodium)||levothyroxine
+synthroid (levothyroxine sodium) (unknown)||levothyroxine
+imiquimod cream 5%||imiquimod
+apo amitriptyline||amitriptyline
+apo celecoxib||celecoxib
+imitrex (sumatriptan succinate)||sumatriptan
+apo esomeprazole||esomeprazole
+imitrex (sumatriptan)||sumatriptan
+apo folic acid||folic acid
+apo furosemide||furosemide
+imitrex df||sumatriptan
+apo gabapentin||gabapentin
+imitrex spray||sumatriptan
+apo hydromorphone||hydromorphone
+systane eyedrops||propylene glycol
+apo hydroxychloroquine||hydroxychloroquine
+desipramine hcl||desipramine
+apo ibuprofen||ibuprofen
+systane geldrops||propylene glycol
+systane pf||propylene glycol
+apo leflunomida||leflunomide
+apo metoprolol||metoprolol
+apo mometasone||mometasone
+apo mycophenolate||mycophenolic acid
+desmopressin kyowa||desmopressin
+apo naproxen||naproxen
+apo prednisone||prednisone
+desoxyn (methamphetamine hcl)||metamfetamine
+apo quinine||quinine
+apo ranitidine||ranitidine
+desvenlafaxine succinate monohydrate||desvenlafaxine
+apo risedronate||risedronic acid
+apo rosuvastatin||rosuvastatin
+apo sulfatrim||sulfamethoxazole
+nuvigil (armodafinil)||armodafinil
+apo tramadol||tramadol
+tacrolimus (tacrolimus)||tacrolimus
+tacrolimus (unknown)||tacrolimus
+apo-carbamazepine||carbamazepine
+apo-clonazepam||clonazepam
+tacrolimus (watson laboratories)||tacrolimus
+apo-clozapine||clozapine
+tacrolimus 0.5mg||tacrolimus
+nystatin (nystatin)||nystatin
+apo-cyclosporine||cyclosporine
+tacrolimus 1mg||tacrolimus
+nystatin powder||nystatin
+tacrolimus 1mg cap||tacrolimus
+apo-doxepin||doxepin
+tacrolimus cap||tacrolimus
+nystatin suspension||nystatin
+tacrolimus cap 0.5mg||tacrolimus
+apo-folic acid||folic acid
+tacrolimus cap 1mg||tacrolimus
+apo-furosemide||furosemide
+tacrolimus cap 5mg||tacrolimus
+apo-hydroxyzine||hydroxyzine
+tacrolimus capsules||tacrolimus
+tacrolimus hydrate||tacrolimus
+dexametasona (722a)||dexamethasone
+tacrolimus monohydrate||tacrolimus
+apo-lorazepam||lorazepam
+tacrolimus mr4 capsules||tacrolimus
+apo-metformin||metformin
+tacrolimus ointment||tacrolimus
+dexamethason [dexamethasone]||dexamethasone
+apo-oxazepam||oxazepam
+tacrolimus systemic||tacrolimus
+dexamethasone (dexamethasone)||dexamethasone
+apo-prednisone||prednisone
+dexamethasone (dexamethasone) (dexamethasone)||dexamethasone
+tadalafil 20mg||tadalafil
+dexamethasone (dexamethasone) (tablets)||dexamethasone
+tadalafil 20mg tab||tadalafil
+ocean nasal||phenylephrine
+apo-sulfasalazine||sulfasalazine
+dexamethasone (dexamethasone) (unknown)||dexamethasone
+tadalafil tab 20 mg||tadalafil
+dexamethasone (unknown)||dexamethasone
+tadalafil tablet||tadalafil
+apo-sulfatrim||sulfamethoxazole
+dexamethasone (watson laboratories)||dexamethasone
+dexamethasone injection (manufacturer unknown)||dexamethasone
+apo-trazodone||trazodone
+apo?amitriptyline||amitriptyline
+apo?azathioprine||azathioprine
+dexamethasone iv||dexamethasone
+tagamet hb (otc)||cimetidine
+dexamethasone mylan||dexamethasone
+dexamethasone oral||dexamethasone
+apo?leflunomide||leflunomide
+apo?naproxen||naproxen
+apo?prednisone||prednisone
+dexamethasone salt not specified||dexamethasone
+dexamethasone sodium||dexamethasone
+apo?sulfatrim||sulfamethoxazole
+imodium a?d||dimethicone
+takepron (lansoprazole)||lansoprazole
+dexamethasone(dexamethasone)||dexamethasone
+dexamfetamine sulfate||dextroamphetamine
+apomorphine hydrochloride||apomorphine
+apple cider vinegar||acetic acid
+talcid||talc
+implanon nxt||etonogestrel
+dexilant (dexlansoprazole)||dexlansoprazole
+talion (bepotastine besylate)||bepotastine
+dexilant dr||dexlansoprazole
+talion [bepotastine besilate]||bepotastine
+imuran (azathioprine)||azathioprine
+dextroamphetamine [dexamfetamine]||dextroamphetamine
+dextroamphetamine-amphetamine (aellc)||dextroamphetamine
+dextromethorphan (unknown)||dextromethorphan
+aquaphor ointment||petrolatum
+aquaphoril||petrolatum
+dextromethorphan polistirex er os||dextromethorphan
+tamoxifen (unknown)||tamoxifen
+imurel [azathioprine]||azathioprine
+tamoxifen citrate (actavis laboratories fl)||tamoxifen
+dextrose 5%||dextrose, unspecified form
+tamoxifene base||tamoxifen
+dextrose injections usp 0264-7510-00 0264-7510-20||dextrose, unspecified form
+tamsulosin (tamsulosin)||tamsulosin
+tamsulosin 0.4 mg||tamsulosin
+tamsulosin 0.4mg||tamsulosin
+tamsulosin hcl||tamsulosin
+tamsulosin hydrochloride capsules usp 0.4 mg||tamsulosin
+tamsulosin hydrochloride od||tamsulosin
+incivo (telaprevir)||telaprevir
+tamsulosine [tamsulosin]||tamsulosin
+tamsulosine hcl||tamsulosin
+arcapta (indacaterol) unknown||indacaterol
+indacaterol maleate||indacaterol
+diamicron lm||gliclazide
+aredia (pamidronate disodium)||pamidronic acid
+diammonium glycyrrhizinate||glycyrrhizic acid
+indapamide (indapamide)||indapamide
+diamorphine hydrochloride||diamorphine
+tantum verde||benzydamine
+indapamide (unknown)||indapamide
+indapamide hemihydrate||indapamide
+olanzapina teva||olanzapine
+tapenta (tapentadol)||tapentadol
+dianeal low calcium||calcium
+olanzapine (olanzapine)||olanzapine
+tapentadol hydrochloride||tapentadol
+aricept (donepezil hydrochloride)||donepezil
+olanzapine (unknown)||olanzapine
+aripiprazole  10 mg||aripiprazole
+indinavir sulfate||indinavir
+aripiprazole (aripiprazole)||aripiprazole
+olanzapine 10mg||olanzapine
+dianeal pd2 (ultrabag)||chloroxylenol
+aripiprazole (dual chamber)||aripiprazole
+dianeal-n pd-2 1.5 pd solution||minoxidil
+aripiprazole (unknown)||aripiprazole
+olanzapine 5mg||olanzapine
+aripiprazole im depot||aripiprazole
+dianeal-n pd-2 2.5 pd solution||minoxidil
+indocid [indometacin]||indomethacin
+aripiprazole tablet||aripiprazole
+olanzapine film-coated tablet||olanzapine
+dianeal-n pd-4 1.5 pd solution||minoxidil
+target nicotine||nicotine
+aripiprazole tablets||aripiprazole
+dianeal-n pd-4 2.5 pd solution||minoxidil
+indocin i.v||indomethacin
+olanzapine for injection (0517-0955-01)||olanzapine
+targinact||oxycodone
+indomethacin [indometacin]||indomethacin
+olanzapine long-acting im||olanzapine
+armodafinil tablets||armodafinil
+olanzapine pamoate||olanzapine
+diastat [diazepam]||diazepam
+olanzapine tablet||olanzapine
+armour thyroid||levothyroxine
+tasigna (amn107) capsule||nilotinib
+diastat acudial||diazepam
+armour thyroid (thyroid)||levothyroxine
+inexium (esomeprazole sodium)||esomeprazole
+aromasin (exemestane)||exemestane
+diazepam (diazepam)||diazepam
+aromasine||exemestane
+diazepam (diazepam) (diazepam)||diazepam
+tavegil [clemastine]||clemastine
+diazepam (unknown)||diazepam
+inexium [esomeprazole sodium]||esomeprazole
+arotinolol hydrochloride||arotinolol
+diazepam (watson laboratories)||diazepam
+tavor (lorazepam)||lorazepam
+diazepam tablets||diazepam
+diazepam tablets usp||diazepam
+diazepam teva||diazepam
+tazobactam sodium||tazobactam
+diazoxide capsules 25 mg ^msd^||diazoxide
+asa (acetylsalicylic acid)||acetylsalicylic acid
+tea tree oil||glycerin
+asa (acetylsalicylic acid) (unknown)||acetylsalicylic acid
+diclofenac (diclofenac sodium)||diclofenac
+diclofenac (diclofenac)||diclofenac
+diclofenac (unknown)||diclofenac
+diclofenac diethylamine||diclofenac
+olmesartan ag||olmesartan
+diclofenac diethylammonium salt||diclofenac
+olmesartan film coated tablets||olmesartan
+diclofenac gel||diclofenac
+tecfidera 240 mg biogen idec||dimethyl fumarate
+diclofenac na||diclofenac
+olmesartan hct ag||olmesartan
+tecfidera 240mg biogen idec||dimethyl fumarate
+diclofenac retard||diclofenac
+diclofenac sodium er||diclofenac
+ascorbic acid (vitamin c)||ascorbic acid
+olmesartan medoxomil tablets||olmesartan
+diclofenac sodium gel||diclofenac
+ascorutin||ascorbic acid
+diclophenac||phenobarbital
+olmesartan od||olmesartan
+olmetec (olmesartan medoxomil)||olmesartan
+asenapine maleate - bp||asenapine
+asenapine maleate ? bp||asenapine
+dicyclomine [dicycloverine hydrochloride]||dicyclomine
+tegretol (carbamazepine) unknown||carbamazepine
+olmetec 20 mg||olmesartan
+asenapine maleate unk||asenapine
+tegretol cr||carbamazepine
+olmetec 40 mg||olmesartan
+dicyclomine [dicycloverine]||dicyclomine
+tegretol lp||carbamazepine
+tegretol retard||carbamazepine
+olmetec hct||olmesartan
+dicycloverine hydrochloride||dicyclomine
+tegretol-xr||carbamazepine
+olmetec od||olmesartan
+teicoplanine||teicoplanin
+olmetec tablets 20mg||olmesartan
+telaprevir (telaprevir)||telaprevir
+aspara potassium||potassium
+olopatadine hcl||olopatadine
+temazepam (temazepam)||temazepam
+olopatadine hydrochloride od||olopatadine
+temazepam capsules||temazepam
+temazepam capsules usp||temazepam
+difenidol hydrochloride||diphenidol
+innohep (tinzaparin sodium)||tinzaparin
+aspegic [acetylsalicylic acid]||acetylsalicylic acid
+differin gel||adapalene
+aspercreme nos||lidocaine
+temesta (lorazepam)||lorazepam
+temesta [lorazepam]||lorazepam
+temocapril hydrochloride||temocapril
+temozolomide 100mg||temozolomide
+omega 3 (fish oil)||capsaicin
+temozolomide 100mg cap||temozolomide
+aspirin "bayer"||acetylsalicylic acid
+omega 3 6 9||capsaicin
+temozolomide 140mg cap||temozolomide
+aspirin (acetylsalicyclic acid)||acetylsalicylic acid
+temozolomide 180mg cap||temozolomide
+omega 3 6 9 complex||capsaicin
+diflucan (fluconazole)||fluconazole
+aspirin (acetylsalicylic acid)||acetylsalicylic acid
+temozolomide 20mg cap||temozolomide
+aspirin (acetylsalicylic acid) (acetylsalicylic acid)||acetylsalicylic acid
+temozolomide 250mg cap||temozolomide
+diflucortolone valerate||difluocortolone
+aspirin (acetylsalicylic acid) (enteric-coated tablet)||acetylsalicylic acid
+temozolomide cap 100mg||temozolomide
+aspirin (acetylsalicylic acid) (tablets)||acetylsalicylic acid
+temozolomide cap 140mg||temozolomide
+aspirin (acetylsalicylic acid) (unknown) (acetylsalicylic acid)||acetylsalicylic acid
+temozolomide cap 180mg||temozolomide
+aspirin (aspirin)||acetylsalicylic acid
+omega 3 [fish oil]||capsaicin
+aspirin (baby)||acetylsalicylic acid
+aspirin (cardio)||acetylsalicylic acid
+teneligliptin hydrobromide hydrate||teneligliptin
+aspirin (e.c.)||acetylsalicylic acid
+omega 3 acid||capsaicin
+aspirin (e.c.) [acetylsalicylic acid]||acetylsalicylic acid
+tenofovir (tenofovir) unknown||tenofovir
+omega 3 acid ethyl esters||capsaicin
+aspirin (unknown)||acetylsalicylic acid
+tenofovir disofoxil fumarate||tenofovir
+aspirin 100 mg||acetylsalicylic acid
+omega 3 fatty acid||capsaicin
+tenormine||atenolol
+aspirin [acetylsalicylic acid]||acetylsalicylic acid
+omega 3 fish oil||capsaicin
+aspirin ^bayer^||acetylsalicylic acid
+omega 3 fish oil [fish oil]||capsaicin
+aspirin adult||acetylsalicylic acid
+aspirin bayer||acetylsalicylic acid
+omega 3 fish oils||capsaicin
+aspirin buffered||acetylsalicylic acid
+aspirin cardio||acetylsalicylic acid
+omega 3 krill oil||capsaicin
+digoxin (digoxin)||digoxin
+aspirin cardio 100 mg||acetylsalicylic acid
+omega 3-6-9||capsaicin
+omega 369||capsaicin
+aspirin children||acetylsalicylic acid
+digoxine nativelle||digoxin
+omega 3?6?9||capsaicin
+aspirin coated||acetylsalicylic acid
+dihydrocodeine bitartrate||dihydrocodeine
+terazosin hcl||terazosin
+aspirin e.c||acetylsalicylic acid
+terbinafine (terbinafine)||terbinafine
+aspirin ec low dose||acetylsalicylic acid
+dihydrocodeine tartrate||dihydrocodeine
+terbinafine 250mg||terbinafine
+omega-3 acid ethyl esters||omega-3 fatty acids
+terbinafine hcl||terbinafine
+aspirin ec low dose 81 mg||acetylsalicylic acid
+omega-3 acids||omega-3 fatty acids
+insulin regular||sodium fluorophosphate
+diisopropylamine dichloroacetate||dichloroacetic acid
+omega-3 fish oil||omega-3 fatty acids
+insulin regular hm||sodium fluorophosphate
+aspirin enteric coated k.p||acetylsalicylic acid
+dilantin (phenytoin sodium)||phenytoin
+omega-3 marine triglycerides||omega-3 fatty acids
+terbutaline sulphate||terbutaline
+omega-3 triglycerides||omega-3 fatty acids
+tercian [cyamemazine tartrate]||cyamemazine
+aspirin low||acetylsalicylic acid
+dilaudid (hydromorphone hydrochloride)||hydromorphone
+aspirin protect||acetylsalicylic acid
+tercian [cyamemazine]||cyamemazine
+terconazole vaginal cream 0.4%||terconazole
+aspirin protect 100 mg||acetylsalicylic acid
+dilaudid (hydromorphone)||hydromorphone
+aspirin(acetylsalicylic acid)||acetylsalicylic acid
+dilaudid injection||hydromorphone
+aspirin-81||acetylsalicylic acid
+dilaudid tablet||hydromorphone
+aspirin-low||acetylsalicylic acid
+tessalon perle||benzonatate
+tessalon perles||benzonatate
+diltiazem (diltiazem)||diltiazem
+aspirine||acetylsalicylic acid
+testosterone cream||testosterone
+testosterone cyp||testosterone
+omeprazol (2141a)||omeprazole
+diltiazem (unknown)||diltiazem
+aspirine (acetylsalicylic acid)||acetylsalicylic acid
+omeprazol [omeprazole]||omeprazole
+testosterone enantate||testosterone
+omeprazol actavis||omeprazole
+diltiazem er||diltiazem
+aspirine protect||acetylsalicylic acid
+omeprazol e||omeprazole
+testosterone gel||testosterone
+diltiazem hcl er||diltiazem
+aspirinetas||acetylsalicylic acid
+omeprazole (actavis laboratories fl)||omeprazole
+omeprazole (omeprazole)||omeprazole
+diltiazem hcl er capsules||diltiazem
+aspirinetta||acetylsalicylic acid
+omeprazole (omeprazole) (omeprazole)||omeprazole
+omeprazole (omeprazole) (unknown)||omeprazole
+diltiazem hcl exte-rel||diltiazem
+omeprazole (prilosec)||omeprazole
+ass (acetylsalicylic acid)||acetylsalicylic acid
+omeprazole (unknown)||omeprazole
+diltiazem hydrochloride r||diltiazem
+teva rosuvastatin||rosuvastatin
+omeprazole 20mg||omeprazole
+omeprazole 40 mg||omeprazole
+diltiazem xr||diltiazem
+omeprazole 40mg||omeprazole
+omeprazole [omeprazole sodium]||omeprazole
+astelin (azelastine hydrochloride)||azelastine
+thalomid (thalidomide) (capsules)||thalidomide
+omeprazole mylan||omeprazole
+omeprazole otc||omeprazole
+omeprazole sodium||omeprazole
+theophylline er||theophylline
+omeprazole(omeprazole)||omeprazole
+dimetindene maleate||dimetindene
+omeprazolo||omeprazole
+asverin (tipepidine hibenzate)||tipepidine
+atarax (hydroxyzine hydrochloride)||hydroxyzine
+ipratropium br||ipratropium
+atarax-p||hydroxyzine
+diovan (valsartan)||valsartan
+therapeutic radiopharmaceutical (unspecified)||coal tar
+therapeutic radiopharmaceuticals||coal tar
+atasol [paracetamol]||acetaminophen
+ipratropiumbromid||ipratropium
+diovan amlo||valsartan
+therapeutic radiopharmaceuticals (therapeutic radiopharmaceuticals)||coal tar
+omontys (peginesatide) solution for injection||minoxidil
+irbesartan (irbesartan)||irbesartan
+diovan amlo fix||valsartan
+irbesartan hctz||irbesartan
+diovan d||valsartan
+irbesartan hydrochloride||irbesartan
+thiamine (thiamine)||thiamine
+diovan triple||valsartan
+thiamine hcl||thiamine
+thiamine mononitrate||thiamine
+irbesartan tablets||irbesartan
+diovane||valsartan
+atenolol (atenolol)||atenolol
+atenolol (atenolol) (atenolol)||atenolol
+irinotecan (irinotecan)||irinotecan
+diphenhydram||diphenhydramine
+atenolol (unknown)||atenolol
+irinotecan (manufacturer unknown)||irinotecan
+thioguanine (6-tg)||tioguanine
+irinotecan (unknown)||irinotecan
+diphenhydramin||diphenhydramine
+atenolol arrow||atenolol
+irinotecan accord||irinotecan
+ondansetron (manufacturer unknown)||ondansetron
+diphenhydramine (diphenhydramine)||diphenhydramine
+irinotecan hcl||irinotecan
+atenolol tablets||atenolol
+ondansetron (ondansetron)||ondansetron
+irinotecan hospira||irinotecan
+ondansetron (ondansetron) unknown||ondansetron
+diphenhydramine (watson laboratories)||diphenhydramine
+atenolol tablets usp||atenolol
+irinotecan hydrochloride trihydrate||irinotecan
+ondansetron 4mg||ondansetron
+irinotecan liposome||irinotecan
+diphenhydramine [diphenhydramine hydrochloride]||diphenhydramine
+ondansetron 8mg||ondansetron
+irinotecan mylan||irinotecan
+ondansetron accord||ondansetron
+diphenhydramine hydrochloride 25 mg 479||diphenhydramine
+atenololo||atenolol
+diphenhydramine unknown product||diphenhydramine
+ondansetron aurobindo||ondansetron
+iron (iron)||iron
+ondansetron dr reddy||ondansetron
+iron (unspecified)||iron
+ondansetron hcl (ondansetron hydrochloride)||ondansetron
+thyroid hormones||levothyroxine
+iron [iron]||iron
+thyroid medication||levothyroxine
+ondansetron hydrochloride dihydrate||ondansetron
+thyroid medicine||levothyroxine
+ativan (lorazepam)||lorazepam
+thyroid pill||levothyroxine
+iron fumarate||iron
+ondansetron kabi||ondansetron
+thyroid preparations||levothyroxine
+dipotassium clorazepate||clorazepic acid
+ondansetron odt drla||ondansetron
+thyroid therapy||levothyroxine
+iron infusion||iron
+atopica (animal health)||cetylpyridinium
+ondansetron orally disintegrating tablets||ondansetron
+iron pill||iron
+ondansetron teva||ondansetron
+ondansetrone dr. reddy's||ondansetron
+thyroxine (levothyroxine sodium)||levothyroxine
+iron pills||iron
+ondansetrone hikma||ondansetron
+iron sulfate||iron
+thyroxine sodium||levothyroxine
+ondasetron [ondansetron]||ondansetron
+iron sulphate||iron
+atorvastatin (atorvastatin)||atorvastatin
+iron supplement||iron
+atorvastatin (atorvastatin) (atorvastatin)||atorvastatin
+one a day multivitamin||cholecalciferol
+tianeptine sodium||tianeptine
+atorvastatin (unknown)||atorvastatin
+iron supplements||iron
+atorvastatin 10 mg||atorvastatin
+tiapridal||tiapride
+tiapride hydrochloride||tiapride
+atorvastatin 10mg||atorvastatin
+atorvastatin 20 mg||atorvastatin
+atorvastatin 20mg||atorvastatin
+atorvastatin 40 mg||atorvastatin
+distigmine bromide||distigmine
+atorvastatin 40mg||atorvastatin
+distilled water||water
+irsogladine maleate||irsogladine
+isavuconazonium sulfate||isavuconazonium
+atorvastatin mylan||atorvastatin
+atorvastatin pfizer||atorvastatin
+atorvastatin tablets||atorvastatin
+onglyza tabs||saxagliptin
+atorvastatin teva||atorvastatin
+onglyza tabs 5 mg||saxagliptin
+divalproex er||valproic acid
+atorvastatina (7400a)||atorvastatin
+atorvastatina [atorvastatin]||atorvastatin
+atorvastatine [atorvastatin]||atorvastatin
+atorvastatine arrow||atorvastatin
+atorvastatine pfizer||atorvastatin
+tilidine hydrochloride||tilidine
+dobutamine hcl||dobutamine
+docetaxel (docetaxel)||docetaxel
+docetaxel (manufacturer unknown)||docetaxel
+docetaxel (taxotere)||docetaxel
+atracurium (unknown)||atracurium
+opana er 20mg||oxymorphone
+timolol unk||timolol
+docetaxel (unknown)||docetaxel
+atracurium hospira||atracurium
+atropine sulphate||atropine
+opana er 30mg||oxymorphone
+docetaxel actavis||docetaxel
+opana er 40mg||oxymorphone
+docetaxel hospira||docetaxel
+atrovent (ipratropium bromide)||ipratropium
+docetaxel hydrate||docetaxel
+isoniazid (isoniazid)||isoniazid
+docetaxel pfizer||docetaxel
+docetaxel sagent||docetaxel
+tinactin spray powder||tolnaftate
+atrovent inhaler||ipratropium
+isoniazide||isoniazid
+docetaxel sanofi-aventis||docetaxel
+docetaxel sun||docetaxel
+augmentin bd||clavulanic acid
+tinzaparine sodique||tinzaparin
+augmentin duo||clavulanic acid
+tioconazole 6.5% 426||tioconazole
+augmentin duo forte||clavulanic acid
+augmentine||clavulanic acid
+augmentine [amoxicillin;clavulanic acid]||clavulanic acid
+opsumit (macitentan)||macitentan
+docusate (docusate)||docusate
+isosorbide mn||isosorbide dinitrate
+docusate sod||docusate
+isosorbide mono||isosorbide dinitrate
+tiotropium (tiotropium)||tiotropium
+docusate sodium (docusate sodium)||docusate
+isosorbide mononite||isosorbide dinitrate
+avapro (irbesartan)||irbesartan
+tiotropium bromide||tiotropium
+avapro hct||irbesartan
+isosorbidemononitraat||isosorbide dinitrate
+tiotropium bromide monohydrate||tiotropium
+tirosint-sol||levothyroxine
+oracilline||phenoxymethylpenicillin
+isotonic sodium chloride||sodium chloride
+tisseel vh||calcium chloride
+isotretinoin not otherwise specified||isotretinoin
+oral baclofen||baclofen
+titanoreine||titanium
+avodart (dutasteride)||dutasteride
+oral treprostinil||treprostinil
+avonex (interferon beta-1a)||isopropyl alcohol
+avonex pen||isopropyl alcohol
+tizanidine (tizanidine)||tizanidine
+itopride hydrochloride||itopride
+tmp-smx||tmp
+ivabradine hydrochloride||ivabradine
+ayr saline||sodium chloride
+azacitidine injectable||azacitidine
+dolutegravir sodium||dolutegravir
+azathioprine (azathioprine)||azathioprine
+ornithine aspartate||ornithine
+azathioprine (unknown)||azathioprine
+dominal (prothipendyl hydrochloride)||prothipendyl
+jakavi tablets||ruxolitinib
+jamp calcium||calcium
+tofacitinib citrate||tofacitinib
+jamp vitamin d||cholecalciferol
+domperidone (domperidone)||domperidone
+azelastine hcl||azelastine
+domperidone maleate||domperidone
+januvia tablets 50mg||sitagliptin
+jardiance duo||empagliflozin
+donepezil (donepezil)||donepezil
+donepezil (unknown)||donepezil
+azithromycin (azithromycin)||azithromycin
+donepezil hcl||donepezil
+azithromycin 250 mg||azithromycin
+tolterodine l-tartrate||tolterodine
+osimertinib mesilate||osimertinib
+azithromycin anhydrous||azithromycin
+donormyl (doxylamine succinate)||doxylamine
+topalgic (tramadol hydrochloride)||tramadol
+azithromycin usp||azithromycin
+topalgic [tramadol hydrochloride]||tramadol
+azithromycine anhydre||azithromycin
+ostelin vitamin d||cholecalciferol
+azitromicina (7019a)||azithromycin
+topamax (topiramate)||topiramate
+johnsons baby powder (talc)||talc
+topicorte||desoximetasone
+topiramate (topiramate)||topiramate
+topiramate (unknown)||topiramate
+topiramate tablets||topiramate
+juvederm ultra||chloroxylenol
+toprol (metoprolol succinate)||metoprolol
+juvederm ultra plus||chloroxylenol
+toprol xl (metoprolol succinate)||metoprolol
+juvederm ultra xc||chloroxylenol
+other therapeutic products||coal tar
+toprol xl tablets||metoprolol
+azulfidine en||sulfasalazine
+azulfidine en?tabs||sulfasalazine
+azulfidine-en||sulfasalazine
+oxacillin sodium||oxacillin
+oxaliplatin (eloxatin)||oxaliplatin
+torem [torasemide]||torasemide
+oxaliplatin (manufacturer unknown)||oxaliplatin
+oxaliplatin (manufacturer unknown) (oxaliplatin) (oxaliplatin)||oxaliplatin
+oxaliplatin (oxaliplatin)||oxaliplatin
+dosulepin hydrochloride||dosulepin
+oxaliplatin (oxaliplatin) (oxaliplatin)||oxaliplatin
+oxaliplatin (unknown)||oxaliplatin
+b complete||chlorpheniramine
+oxaliplatin accord||oxaliplatin
+oxaliplatin hospira||oxaliplatin
+oxaliplatin teva||oxaliplatin
+oxaliplatine accord||oxaliplatin
+doxazosin (doxazosin)||doxazosin
+oxaliplatine hospira||oxaliplatin
+b complex [vitamin b complex]||flavin mononucleotide
+doxazosin mesilate||doxazosin
+oxaliplatine teva||oxaliplatin
+oxaliplatino sun||oxaliplatin
+doxepin (doxepin) (doxepin)||doxepin
+oxaliplatino teva||oxaliplatin
+tpn [amino acids nos;carbohydrates nos;minerals nos;vitamins nos]||amino acids
+doxepine||doxepin
+tracleer (bosentan)||bosentan
+tracleer (bosentan) (unknown)||bosentan
+kaletra tablets||ritonavir
+tracleer (bosentan) tablet||bosentan
+doxil [pegylated liposomal doxorubicin hydrochloride]||doxorubicin
+b-complex [vitamin b nos]||pantothenic acid
+doxorubicin (doxorubicin)||doxorubicin
+trajenta duo||linagliptin
+oxinorm (oxycodone hydrochloride)||oxycodone
+doxorubicin (doxorubicin) (doxorubicin)||doxorubicin
+oxinorm [oxycodone hydrochloride]||oxycodone
+tramadol (similar to nda 21-745)||tramadol
+doxorubicin (doxorubicin) injection||doxorubicin
+tramadol (tramadol hydrochloride)||tramadol
+doxorubicin (manufacturer unknown)||doxorubicin
+tramadol (tramadol)||tramadol
+b12 active||triclosan
+tramadol (tramadol) (tramadol)||tramadol
+doxorubicin (unknown)||doxorubicin
+kalium verla||potassium
+tramadol (unknown)||tramadol
+tramadol 50 mg||tramadol
+doxorubicin hcl||doxorubicin
+doxorubicin hydrochloride (caelyx)||doxorubicin
+kaliumcitrat||potassium
+tramadol 50mg||tramadol
+tramadol [tramadol hydrochloride]||tramadol
+kaliumklorid||potassium
+tramadol actavis||tramadol
+doxorubicin hydrochloride (doxil)||doxorubicin
+oxybutynin (oxybutynin)||oxybutynin
+b12-active||triclosan
+tramadol base||tramadol
+tramadol hcl cf||tramadol
+doxorubicin liposomal||doxorubicin
+tramadol hydrochloride (aellc)||tramadol
+doxorubicin nos||doxorubicin
+tramadol hydrochloride (unknown)||tramadol
+oxybutynin er||oxybutynin
+tramadol hydrochloride tablets||tramadol
+doxorubicin teva||doxorubicin
+oxybutynin hydrochloride||oxybutynin
+b6 natural||benzalkonium
+doxorubicina (202a)||doxorubicin
+oxybutynin pch - bp||oxybutynin
+tramadol retard||tramadol
+oxybutynin unk||oxybutynin
+doxorubicine [doxorubicin]||doxorubicin
+baby aspirin||acetylsalicylic acid
+oxycodone (oxycodone)||oxycodone
+tramadole||tramadol
+doxorubicine accord||doxorubicin
+oxycodone (oxycodone) (oxycodone)||oxycodone
+tramadolor||tramadol
+baby aspirin (acetylsalicylic acid)||acetylsalicylic acid
+oxycodone (oxycodone) (unknown) (oxycodone)||oxycodone
+doxorubicine hydrochloride||doxorubicin
+oxycodone (unknown)||oxycodone
+baby asprin||acetylsalicylic acid
+doxorubicine teva||doxorubicin
+oxycodone er||oxycodone
+oxycodone hcl (oxycodone hydrochloride)||oxycodone
+trametinib tablet||trametinib
+oxycodone hcl 15mg||oxycodone
+oxycodone hcl 30mg||oxycodone
+oxycodone hcl capsules||oxycodone
+oxycodone hcl cr tablets (similar to nda 22-272)||oxycodone
+baclofen (20mg)||baclofen
+oxycodone hcl cr tablets (similar to nda 22?272)||oxycodone
+oxycodone hcl er||oxycodone
+baclofen (baclofen)||baclofen
+oxycodone hcl ir||oxycodone
+baclofen (baclofen) (baclofen)||baclofen
+doxycyclin [doxycycline]||doxycycline
+transipeg [macrogol]||polyethylene glycol
+oxycodone hcl ir capsules||oxycodone
+baclofen (oral)||baclofen
+oxycodone hcl ir powder 0.5%||oxycodone
+doxycycline (doxycycline)||doxycycline
+oxycodone hcl pr tablet||oxycodone
+baclofen (unknown)||baclofen
+doxycycline (unknown)||doxycycline
+oxycodone hcl tablets (91-490)||oxycodone
+kenalog in orabase||triamcinolone
+baclofen intrathecal (baclofen injection)||baclofen
+oxycodone hcl tablets (91?490)||oxycodone
+kenalog-40 inj||triamcinolone
+oxycodone hcl tablets (rhodes 91-490)||oxycodone
+kenalog?40||triamcinolone
+baclofen oral||baclofen
+oxycodone hcl tablets (rhodes 91?490)||oxycodone
+doxycycline hcl||doxycycline
+oxycodone hydrochloride (aellc)||oxycodone
+baclofen tablets||baclofen
+doxycycline hyclate (unknown)||doxycycline
+oxycodone hydrochloride (similar to nda 20-553)||oxycodone
+doxycycline hyclate 100mg||doxycycline
+keppra (levetiracetam)||levetiracetam
+oxycodone hydrochloride (similar to nda 22-272)||oxycodone
+baclofene||baclofen
+doxycycline hyclate dr||doxycycline
+oxycodone hydrochloride (similar to nda 22?272)||oxycodone
+oxycodone hydrochloride hydrate||oxycodone
+doxycycline hydrochloride||doxycycline
+oxycodone ir||oxycodone
+oxycodone terephthalate||oxycodone
+bactrim (bactrim)||sulfamethoxazole
+ketamine hcl||ketamine
+trazodone (trazodone)||trazodone
+ketamine panpharma||ketamine
+bactrim ds (bactrim)||sulfamethoxazole
+trazodone (trazodone) (trazodone)||trazodone
+doxylamine succinate||doxylamine
+ketamine renaudin||ketamine
+trazodone hydrochloride (watson laboratories)||trazodone
+bactrim forte||sulfamethoxazole
+doxylamine succinate 25 mg 441||doxylamine
+oxycontin (nda 22-272)||oxycodone
+ketoconazole 2%||ketoconazole
+trazodone hydrochloride tablets||trazodone
+oxycontin (oxycodone hydrochloride)||oxycodone
+bactrimel||sulfamethoxazole
+ketoconazole cream||ketoconazole
+trazodone hydrochloride tablets 50mg||trazodone
+dr. scholl's one step corn removers||salicylic acid
+oxycontin tablets||oxycodone
+oxycontin tr||oxycodone
+ketoconazole cream 2%||ketoconazole
+trelstar (watson laboratories)||triptorelin
+oxygen (oxygen)||oxygen
+oxygen therapy||oxygen
+ketoconazole shampoo||ketoconazole
+ketonal [ketoprofen]||ketoprofen
+ketoprofene||ketoprofen
+oxymorphone hcl||oxymorphone
+treprostinil diolamin||treprostinil
+ketoprofene [ketoprofen]||ketoprofen
+oxymorphone hydrochloride (aellc)||oxymorphone
+treprostinil sodium||treprostinil
+oxymorphone hydrochloride er||oxymorphone
+treprostinil sodium (inhaled)||treprostinil
+treprostinil sodium (iv)||treprostinil
+treprostinil sodium (sq)||treprostinil
+oxyquinoline sulfate||oxyquinoline
+dronabinol capsules||dronabinol
+baraclude tabs 0.5 mg||entecavir
+droperidol aguettant||droperidol
+barnidipine hydrochloride||barnidipine
+p-tol [sucroferric oxyhydroxide]||iron sucrose
+tretinoin cap 10mg||tretinoin
+paclitaxel (atllc)||paclitaxel
+paclitaxel (manufacturer unknown)||paclitaxel
+tri-cyclen||levomenthol
+kit for the preparation of technetium (tc-99m) sestamibi injection||tetrakis(2-methoxyisobutylisocyanide)copper(i) tetrafluoroborate
+paclitaxel (manufacturer unknown) (paclitaxel) (paclitaxel)||paclitaxel
+tri-cyclen lo||levomenthol
+paclitaxel (paclitaxel)||paclitaxel
+tri-previfem tablets||norgestimate
+paclitaxel (taxol)||paclitaxel
+paclitaxel (unknown)||paclitaxel
+paclitaxel accord||paclitaxel
+baxter 0.9% sodium chloride 9g_l injection bp bag ahb1324||sodium chloride
+triamcinolon [triamcinolone]||triamcinolone
+paclitaxel actavis||paclitaxel
+klipal codeine||codeine
+paclitaxel albumin||paclitaxel
+baxter sevoflurane||sevoflurane
+paclitaxel ebewe||paclitaxel
+triamcinolonacetonide||triamcinolone
+klonopin (clonazepam)||clonazepam
+paclitaxel hospira||paclitaxel
+klonopin (clonazepam) (tablets)||clonazepam
+paclitaxel kabi||paclitaxel
+triamcinolone acetonid||triamcinolone
+paclitaxel liposome||paclitaxel
+triamcinolone acetonide cream||triamcinolone
+bayaspirin (acetylsalicylic acid) (acetylsalicylic acid)||acetylsalicylic acid
+paclitaxel teva||paclitaxel
+triamcinolone cream||triamcinolone
+triamcinolone hexacetonide||triamcinolone
+dulcolax (docusate sodium)||docusate
+triamterene hctz||triamterene
+triamterene-hctz||triamterene
+bayer aspirin regimen adult low strength||acetylsalicylic acid
+dulcolax nos||docusate
+dulcolax picosulfat||docusate
+triatec (ramipril)||ramipril
+triatec [ramipril]||ramipril
+dulcolax tablets||docusate
+triazide||benzoyl peroxide
+duloxetine (duloxetine) (duloxetine)||duloxetine
+duloxetine 30 mg||duloxetine
+tricor (fenofibrate)||fenofibrate
+palonosetron hcl||palonosetron
+duloxetine 60 mg||duloxetine
+krill omega red oil||levomenthol
+tridol (tramadol hydrochloride)||tramadol
+beclometasone;formoterol||formoterol
+panadol forte||phenylephrine
+panadol osteo||phenylephrine
+duloxetine hcl||duloxetine
+duloxetine hydrochloride (aellc)||duloxetine
+trihexyphenidyl hcl||trihexyphenidyl
+l glutamine||l-glutamine
+trileptal (oxcarbazepine)||oxcarbazepine
+l lysine||l-lysine
+duonebs||ipratropium
+trimebutine maleate||trimebutine
+l thyroxine||levothyroxine
+trimetazidine dihydrochloride||trimetazidine
+l-asparaginase||aspartic acid
+l-carbocisteine||carbocisteine
+trimetazidine hydrochloride||trimetazidine
+trimethoprim (trimethoprim)||trimethoprim
+l-leucovorin||leucovorin
+trimethoprim (unknown)||trimethoprim
+trimethoprim sulfa||trimethoprim
+l-thyroxin [levothyroxine sodium]||levothyroxine
+duphalac easy||lactulose
+l-thyroxin [levothyroxine]||levothyroxine
+l-thyroxine [levothyroxine sodium]||levothyroxine
+pantomed (dexpanthenol)||dexpanthenol
+trimethoprime||trimethoprim
+pantomed (pantoprazole sodium sesquihydrate)||pantoprazole
+belviq (lorcaserin hydrochloride)||lorcaserin
+l-thyroxine [levothyroxine]||levothyroxine
+pantomed (pantoprazole sodium)||pantoprazole
+duragesic (fentanyl)||fentanyl
+bemiparin sodium||bemiparin
+l-thyroxine sodium||levothyroxine
+pantomed (pantoprazole)||pantoprazole
+l?thyroxine||levothyroxine
+pantomed [dexpanthenol]||dexpanthenol
+benadryl (canada)||diphenhydramine
+l?thyroxine [levothyroxine]||levothyroxine
+pantomed [pantoprazole sodium sesquihydrate]||pantoprazole
+benadryl (diphenhydramine hydrochloride)||diphenhydramine
+trimetoprim sulfametoxazol||sulfamethoxazole
+labetalol (labetalol)||labetalol
+pantoprazol [pantoprazole]||pantoprazole
+pantoprazol actavis||pantoprazole
+benadryl (united states)||diphenhydramine
+pantoprazol hexal||pantoprazole
+benadryl 24 d||diphenhydramine
+pantoprazol natrium||pantoprazole
+pantoprazol ratiopharm||pantoprazole
+pantoprazole (pantoprazole)||pantoprazole
+benadryl a||diphenhydramine
+pantoprazole 20mg||pantoprazole
+pantoprazole 40||pantoprazole
+pantoprazole 40 mg||pantoprazole
+pantoprazole 40mg||pantoprazole
+lacosamide ep||lacosamide
+pantoprazole [pantoprazole sodium sesquihydrate]||pantoprazole
+bendamustine accord||bendamustine
+bendamustine hcl||bendamustine
+durotep mt patch||levomenthol
+pantoprazole mylan||pantoprazole
+bendroflumethiazide (bendroflumethiazide)||bendroflumethiazide
+pantoprazole sod||pantoprazole
+pantoprazole sod dr||pantoprazole
+pantoprazole sodium anhydrous||pantoprazole
+pantoprazole sodium sesquihydrate||pantoprazole
+pantoprazole teva||pantoprazole
+pantoprazolo||pantoprazole
+dyclonine hydrochloride||dyclonine
+benicar (olmesartan medoxomil)||olmesartan
+benidipine hydrochloride||benidipine
+triptorelin pamoate||triptorelin
+triptorelin pamoate - bp||triptorelin
+e keppra||levetiracetam
+lactulose (lactulose)||lactulose
+triptorelin pamoate unk||triptorelin
+benzathine benzylpenicillin||benzylpenicillin
+e2007 (perampanel)||perampanel
+benzatropine mesilate||benzatropine
+para?aminosalicylic acid||aminosalicylic acid
+benzodiazepine derivatives||benzodiazepine
+paracetamol  (unknown)||acetaminophen
+benzodiazepine nos||benzodiazepine
+paracetamol (12a)||acetaminophen
+benzodiazepine related drugs||benzodiazepine
+lamictal (lamotrigine)||lamotrigine
+paracetamol (manufacturer unknown)||acetaminophen
+benzodiazepines||benzodiazepine
+paracetamol (paracetamol)||acetaminophen
+paracetamol (unknown)||acetaminophen
+lamisil at continuous spray||terbinafine
+paracetamol b braun||acetaminophen
+paracetamol b. braun||acetaminophen
+benztropine [benzatropine]||benzatropine
+ebrantil [urapidil]||urapidil
+benztropine mesilate||benzatropine
+lamivudine (lamivudine)||lamivudine
+paracetamol tablet||acetaminophen
+benzydamine hcl||benzydamine
+lamivudine (lamivudine) unknown||lamivudine
+paracetamolo||acetaminophen
+benzydamine hydrochloride||benzydamine
+lamivudine-hbv||lamivudine
+benzylpenicillin sodium||benzylpenicillin
+lamivudine-hiv||lamivudine
+bepotastine besilate||bepotastine
+lamotrigine (lamotrigine)||lamotrigine
+lamotrigine (lamotrigine) (lamotrigine)||lamotrigine
+beraprost na||beraprost
+lamotrigine (unknown)||lamotrigine
+beraprost sodium||beraprost
+lamotrigine (watson laboratories)||lamotrigine
+lamotrigine 100mg||lamotrigine
+tropisetron hydrochloride||tropisetron
+berberine hydrochloride||berberine
+lamotrigine 25mg||lamotrigine
+lamotrigine odt||lamotrigine
+lamotrigine tablet||lamotrigine
+parenteral iron||iron
+lamotrigine tablets||lamotrigine
+lamotrigine tablets 100 mg||lamotrigine
+lamotrigine tablets 25 mg||lamotrigine
+pariet (rabeprazole sodium)||rabeprazole
+besivance (besifloxacin ophthalmic suspension) 0.6%||besifloxacin
+pariet (rabeprazole)||rabeprazole
+edoxaban od||edoxaban
+lanreotide autogel||lanreotide
+edoxaban tosilate||edoxaban
+lansoprazole (lansoprazole)||lansoprazole
+edoxaban tosilate hydrate||edoxaban
+lansoprazole (unknown)||lansoprazole
+lansoprazole dr||lansoprazole
+paroxetine (paroxetine)||paroxetine
+lansoprazole generic (lansoprazole) unknown||lansoprazole
+paroxetine 20mg||paroxetine
+lansoprazole mylan||lansoprazole
+paroxetine arrow||paroxetine
+lansoprazole od||lansoprazole
+paroxetine film-coated tablet||paroxetine
+lansoprazole teva||lansoprazole
+paroxetine hcl||paroxetine
+betahistine dihydrochloride||betahistine
+lansoprazole-od||lansoprazole
+paroxetine tablet||paroxetine
+betahistine hydrochloride||betahistine
+lansoprazolo||lansoprazole
+betahistine mesilate||betahistine
+paspertin [metoclopramide hydrochloride]||metoclopramide
+paxil (canada)||paroxetine
+paxil (paroxetine hydrochloride)||paroxetine
+betamethasone diproprionate||betamethasone
+paxil (united states)||paroxetine
+efferalgan codeine||codeine
+pazopanib hydrochloride||pazopanib
+tums antacid||magnesium carbonate
+effervescent potassium||potassium
+effexor (venlafaxine hydrochloride)||venlafaxine
+effexor (venlafaxine hydrochloride) unknown||venlafaxine
+effexor lp||venlafaxine
+lapatinib ditosylate||lapatinib
+effexor-xr||venlafaxine
+turmeric curcumin||curcumin
+peg-l-asparaginase||aspartic acid
+tylenol #1 (canada)||acetaminophen
+tylenol #3||acetaminophen
+lasilix (furosemide)||furosemide
+tylenol #3 (canada)||acetaminophen
+lasilix [furosemide]||furosemide
+tylenol (paracetamol)||acetaminophen
+tylenol (paracetamol) (unknown)||acetaminophen
+lasix (furosemide sodium)||furosemide
+tylenol 3||acetaminophen
+lasix (furosemide)||furosemide
+bi sifrol||pramipexole
+tylenol 8 hour||acetaminophen
+lasix (furosemide) (furosemide)||furosemide
+lasix (furosemide) (unknown)||furosemide
+tylenol [paracetamol]||acetaminophen
+lasix m||furosemide
+bi-sifrol||pramipexole
+tylenol a||acetaminophen
+biafine||bia
+electrolyte solutions||minoxidil
+latanoprost pfizer||latanoprost
+latisse 0.03%||bimatoprost
+bicarbonate (sodium bicarbonate)||sodium bicarbonate
+tylenol childrens suspension||acetaminophen
+tylenol cold||acetaminophen
+eletriptan hbr||eletriptan
+pegylated liposomal doxorubicin||doxorubicin
+pegylated liposomal doxorubicin hydrochloride||doxorubicin
+tylenol er||acetaminophen
+laxatives||polyethylene glycol
+pegylated liposomal irinotecan||irinotecan
+tylenol ex-str||acetaminophen
+tylenol extra-strength||acetaminophen
+pemetrexed (manufacturer unknown)||pemetrexed
+tylenol nos||acetaminophen
+pemetrexed disodium||pemetrexed
+pemetrexed disodium heptahydrate||pemetrexed
+elitek||petrolatum
+tylenol unspecified||acetaminophen
+penicillin [benzylpenicillin]||benzylpenicillin
+penicillin g [benzylpenicillin]||benzylpenicillin
+penicillin g benzathine||benzylpenicillin
+penicillin vk||phenoxymethylpenicillin
+pentacarinat||pentaerythritol tetranitrate
+eltrombopag olamine||eltrombopag
+pentacol||pentaerythritol tetranitrate
+eltroxin lf||levothyroxine
+pentagin||pentaerythritol tetranitrate
+pentaglobin||pentaerythritol tetranitrate
+lenalidomide (cc-5013)||lenalidomide
+pentalong||pentaerythritol tetranitrate
+pentam||pentaerythritol tetranitrate
+lento-kalium||potassium
+pentosan polysulfate sodium||pentosan polysulfate
+lenvatinib mesylate||lenvatinib
+emend (fosaprepitant dimeglumine)||fosaprepitant
+pepcid (famotidine)||famotidine
+pepcid (united states)||famotidine
+emend for injection||fosaprepitant
+pepcid [famotidine]||famotidine
+pepcid ac (otc)||famotidine
+biotene (paste)||sodium fluorophosphate
+pepcid ac otc||famotidine
+biotene dry mouth||sodium fluorophosphate
+pepcid otc||famotidine
+pepcidine||famotidine
+biotene nos||sodium fluorophosphate
+lercanidipine hcl||lercanidipine
+ultra levure||chloroxylenol
+biotin (biotin)||biotin
+empagliflozin (empagliflozin 25mg tab)||empagliflozin
+lercanidipine hydrochloride||lercanidipine
+ultra-levure||chloroxylenol
+biotin 5000||biotin
+lergigan (promethazine hydrochloride)||promethazine
+pepto?bismol||bismuth subsalicylate
+lergigan (promethazine)||promethazine
+emsam (selegiline transdermal system)||selegiline
+lergigan [promethazine hydrochloride]||promethazine
+biperiden hydrochloride||biperiden
+percocet (oxycocet)||oxycodone
+letairis (ambrisentan)||ambrisentan
+umeclidinium bromide||umeclidinium
+letairis (ambrisentan) (tablets)||ambrisentan
+bipresso (quetiapine fumarate)||quetiapine
+letairis (ambrisentan) (unknown)||ambrisentan
+letrozole (manufacturer unknown)||letrozole
+letrozole (unknown)||letrozole
+enalapril (2142a)||enalapril
+letrozole 1a pharma||letrozole
+enalapril (enalapril)||enalapril
+letrozole 2.5mg||letrozole
+enalapril (maleate d')||enalapril
+birth control||chloroxylenol
+letrozole accord||letrozole
+enalapril (unknown)||enalapril
+letrozole tab 2.5mg||letrozole
+enalapril actavis||enalapril
+birth control pill||chloroxylenol
+enalapril comp||enalapril
+perindopril (perindopril)||perindopril
+birth control pills||chloroxylenol
+enalapril maleat||enalapril
+enalapril maleato||enalapril
+unasyn s||sulbactam
+perindopril arrow||perindopril
+enalapril maleato (2142ma)||enalapril
+bisacodyl (bisacodyl)||bisacodyl
+unasyn-s||sulbactam
+leucovorin (folinic acid)||leucovorin
+leucovorin (folinic acid) (folinic acid)||leucovorin
+bisacodyl ec||bisacodyl
+uni diamicron||gliclazide
+peritoneal dialysis solution (lactate- g1.5%)||minoxidil
+leucovorin [folinic acid]||leucovorin
+peritoneal dialysis solution (lactate- g2.5%)||minoxidil
+leucovorin ca||leucovorin
+permethrin (amallc)||permethrin
+leucovorine||leucovorin
+enbrel 50mg amgen||benzyl alcohol
+uniphyl la||theophylline
+uniphyllin||theophylline
+perospirone hydrochloride||perospirone
+uniphyllin continus||theophylline
+leuprolide [leuprorelin]||leuprolide
+unisom sleep||diphenhydramine
+pethidine hcl||meperidine
+pethidine hydrochloride||meperidine
+petrolatum salicylate||petrolatum
+endoxan 1000 mg - powder for solution for injection||minoxidil
+levalbuterol [levosalbutamol]||levosalbutamol
+levalbuterol hcl||levosalbutamol
+levalbuterol tartrate||levosalbutamol
+endoxan 500mg inj. (cyclophosphamide)||cyclophosphamide
+levamlodipine besilate||levamlodipine
+levamlodipine besylate||levamlodipine
+endoxan [cyclophosphamide monohydrate]||cyclophosphamide
+levaquin (levofloxacin)||levofloxacin
+phenazopyrid||phenazopyridine
+endoxan [cyclophosphamide]||cyclophosphamide
+unknown antibiotic||bacitracin
+phenergan (promethazine hydrochloride)||promethazine
+bisoprolol (2328a)||bisoprolol
+unknown birth control||chloroxylenol
+phenergan [promethazine]||promethazine
+endoxan cyclophosphamide 2g (as monohydrate) powder for injection vial||cyclophosphamide
+bisoprolol (bisoprolol)||bisoprolol
+unknown birth control pill||chloroxylenol
+bisoprolol (fumarate acide de)||bisoprolol
+bisoprolol (fumarate de)||bisoprolol
+pheniramine maleate||pheniramine
+levetiracetam (levetiracetam)||levetiracetam
+unknown cholesterol medication||cholesterol
+bisoprolol (hemifumarate de)||bisoprolol
+levetiracetam (manufacturer unknown)||levetiracetam
+bisoprolol (unknown)||bisoprolol
+levetiracetam (unknown)||levetiracetam
+bisoprolol 1a pharma||bisoprolol
+unknown eye drops||glycerin
+levetiracetam 500mg||levetiracetam
+bisoprolol 2.5 mg||bisoprolol
+phenobarbital (phenobarbital)||phenobarbital
+levetiracetam film-coated tablet||levetiracetam
+bisoprolol 5 mg||bisoprolol
+bisoprolol [bisoprolol fumarate]||bisoprolol
+levetiracetam mylan||levetiracetam
+phenoxymethylpenicillin (= penicillin v)||phenoxymethylpenicillin
+levetiracetam tablet||levetiracetam
+bisoprolol actavis||bisoprolol
+levetiracetam tablets usp 500mg||levetiracetam
+bisoprolol film-coated tablets||bisoprolol
+levetiracetam ucb||levetiracetam
+bisoprolol film?coated tablets||bisoprolol
+bisoprolol fumerate||bisoprolol
+unknown thyroid medication||levothyroxine
+bisoprolol hct||bisoprolol
+phenytoin (amallc)||phenytoin
+bisoprolol hemifumarate||bisoprolol
+bisoprolol mylan||bisoprolol
+phenytoin (phenytoin)||phenytoin
+bisoprolol ratiopharm||bisoprolol
+phenytoin sodium (non-specific)||phenytoin
+bisoprolol salt not specified||bisoprolol
+levocetirizine hydrochloride||levocetirizine
+bisoprolol teva||bisoprolol
+unspecified antibiotic||bacitracin
+unspecified antibiotics||bacitracin
+bisoprolol-ratiopharm||bisoprolol
+unspecified birth control||chloroxylenol
+enoxaparin (enoxaparin)||enoxaparin
+phillips colon health||cetylpyridinium
+bisoprololo||bisoprolol
+unspecified birth control pill||chloroxylenol
+levofloxacin (levofloxacin)||levofloxacin
+unspecified birth control pills||chloroxylenol
+enoxaparin (generic)||enoxaparin
+phillips' colon health||cetylpyridinium
+levofloxacin (manufacturer unknown)||levofloxacin
+enoxaparin sodium - winthrop||enoxaparin
+levofloxacin (unknown)||levofloxacin
+phillips' laxative dietary supplement||polyethylene glycol
+levofloxacin 500 mg||levofloxacin
+unspecified cholesterol medication||cholesterol
+enoxaparina||enoxaparin
+levofloxacin 500 mg tablet||levofloxacin
+levofloxacin 500mg||levofloxacin
+enoxaparina sodica||enoxaparin
+unspecified eye drops||glycerin
+levofloxacin 750 mg||levofloxacin
+unspecified fentanyl||fentanyl
+unspecified fentanyl transdermal system||fentanyl
+enoxaparine||enoxaparin
+levofloxacin 750mg||levofloxacin
+levofloxacin filmcoated tablet||levofloxacin
+enoxaparine sodique||enoxaparin
+levofloxacin hemihydrate||levofloxacin
+bleomycin hydrochloride||bleomycin
+levofloxacin hydrochloride||levofloxacin
+bleomycin sulfate||bleomycin
+levofloxacin tablet||levofloxacin
+bleomycin sulphate||bleomycin
+levofloxacin tablets||levofloxacin
+phosphatidyl choline||choline
+bleomycine bellon||bleomycin
+levofloxacin tablets 500 mg||levofloxacin
+unspecified levodopa-based therapy||levodopa
+levofloxacin tablets 500mg||levofloxacin
+levofloxacin tablets 750 mg||levofloxacin
+blinded *aspirin||acetylsalicylic acid
+levofloxacin tablets 750mg||levofloxacin
+unspecified multivitamin||cholecalciferol
+phosphocreatine sodium||phosphocreatine
+entecavir 0.5mg tab (x30)||entecavir
+levofloxacina||levofloxacin
+levofloxacine [levofloxacin]||levofloxacin
+entecavir hydrate||entecavir
+levofloxacine arrow||levofloxacin
+levofloxacino (2791a)||levofloxacin
+entecavir tab 0.5mg||entecavir
+blinded aliskiren||aliskiren
+blinded allopurinol||allopurinol
+unspecified thyroid medication||levothyroxine
+blinded apixaban||apixaban
+levofolinate [calcium levofolinate]||calcium
+blinded aspirin||acetylsalicylic acid
+levofolinate calcium||calcium
+levofolinate de calcium||calcium
+urapidil hydrochloride||urapidil
+blinded carboplatin||carboplatin
+blinded celecoxib||celecoxib
+levomepromazine maleate||methotrimeprazine
+urbason [methylprednisolone]||methylprednisolone
+levonorgestrel (unspecified)||levonorgestrel
+blinded cilostazol||cilostazol
+blinded dabigatran||dabigatran
+levonorgestrel - bp||levonorgestrel
+blinded dabrafenib||dabrafenib
+levonorgestrel ius [unknown]||levonorgestrel
+blinded eltrombopag||eltrombopag
+levonorgestrel unk||levonorgestrel
+blinded enalapril||enalapril
+blinded enzalutamide||enzalutamide
+blinded febuxostat||febuxostat
+levora-28||levonorgestrel
+blinded glasdegib||glasdegib
+blinded ibuprofen||ibuprofen
+blinded idelalisib||idelalisib
+uromitexan 400 mg||coenzyme m
+blinded ixazomib||ixazomib
+levothyrox (levothyroxine sodium)||levothyroxine
+picato gel||ingenol mebutate
+blinded linagliptin||linagliptin
+blinded naproxen||naproxen
+pico-salax (not specified)||picosulfuric acid
+eperisone hydrochloride||eperisone
+levothyroxin-natrium||levothyroxine
+ursodeoxycholic acid - bp||ursodeoxycholic acid
+levothyroxin?natrium||levothyroxine
+picosulfate na||picosulfuric acid
+blinded no treatment received||pyrithione
+blinded olaparib||olaparib
+ursodeoxycholic acid unk||ursodeoxycholic acid
+levothyroxine (levothyroxine sodium)||levothyroxine
+ephedrine hydrochloride||ephedrine
+pilocarpine hcl||pilocarpine
+levothyroxine (levothyroxine sodium) (levothyroxine sodium)||levothyroxine
+blinded paclitaxel||paclitaxel
+levothyroxine (levothyroxine)||levothyroxine
+levothyroxine (unknown)||levothyroxine
+pilsicainide hydrochloride||pilsicainide
+levothyroxine [levothyroxine sodium]||levothyroxine
+levothyroxine na||levothyroxine
+epi-pen (epinephrine hydrochloride)||epinephrine
+pinaverium bromide||pinaverium
+levothyroxine sodique||levothyroxine
+levothyroxine sodium (levothyroxine sodium)||levothyroxine
+levothyroxine sodium tablets||levothyroxine
+pioglitazone (pioglitazone)||pioglitazone
+blinded probucol||probucol
+levothyroxinum natricum||levothyroxine
+pioglitazone (unknown)||pioglitazone
+blinded ramipril||ramipril
+vagifem ld||estradiol
+blinded rivaroxaban||rivaroxaban
+valaciclovir hydrochloride||valaciclovir
+valacyclovir (valaciclovir hydrochloride)||valaciclovir
+epinephrine [epinephrine hydrochloride]||epinephrine
+piperacillin sodium||piperacillin
+valacyclovir [valaciclovir hydrochloride]||valaciclovir
+epinephrine hcl||epinephrine
+blinded tolvaptan||tolvaptan
+valacyclovir hcl||valaciclovir
+blinded trametinib||trametinib
+epinephrine hydrochloride||epinephrine
+valdorm (flurazepam hydrochloride)||flurazepam
+levoxyl (levothyroxine sodium)||levothyroxine
+blinded trilaciclib||trilaciclib
+epinephrine injection usp auto-injector||epinephrine
+blinded vilanterol trifenatate||vilanterol
+lexapro (escitalopram oxalate)||escitalopram
+epinephrine injection usp auto?injector||epinephrine
+piperacilline||piperacillin
+epipen (epinephrine)||epinephrine
+epirubicin (epirubicin) (epirubicin)||epirubicin
+valium (diazepam)||diazepam
+pirarubicin hydrochloride||pirarubicin
+liberty cycler||levomenthol
+liberty cycler cassette||levomenthol
+epirubicin (manufacturer unknown)||epirubicin
+liberty cycler set||levomenthol
+epirubicin (unknown)||epirubicin
+epirubicin hcl||epirubicin
+valproate de sodium||valproic acid
+lidocaine (lidocaine)||epinephrine
+pitavastatin ca||pitavastatin
+lidocaine (manufacturer unknown)||epinephrine
+valproate salt not specified||valproic acid
+lidocaine 1%||epinephrine
+valproate semisodium||valproic acid
+lidocaine 2%||epinephrine
+valproic acid (non-specific)||valproic acid
+valproic acid (unknown)||valproic acid
+valproic acid (valproic acid)||valproic acid
+blu-u light (blu-u blue light photodynamic therapy illuminator)||hemoporfin
+valproic acid unknown product||valproic acid
+epoprostenol act||epoprostenol
+valsartan (valsartan)||valsartan
+valsartan 1 a pharma||valsartan
+epoprostenol teva||epoprostenol
+valsartan 160 mg||valsartan
+valsartan 160mg||valsartan
+valsartan 1a pharma||valsartan
+valsartan 1a pharma plus||valsartan
+valsartan 80mg||valsartan
+valsartan comp||valsartan
+plan b one?step||levonorgestrel
+valsartan dura||valsartan
+linaclotide - bp||linaclotide
+valsartan film-coated tablet||valsartan
+valsartan hexal||valsartan
+valsartan hexal comp||valsartan
+lincomycin hcl||lincomycin
+plaquenil (hydroxychloroquine sulfate) (hydroxychloroquine sulfate)||hydroxychloroquine
+valsartan mylan||valsartan
+linezolid (manufacturer unknown)||linezolid
+linezolide kabi||linezolid
+valtrex (valaciclovir hydrochloride)||valaciclovir
+linzess (linaclotide)||linaclotide
+plaquenil s||hydroxychloroquine
+plaquenil sulfate||hydroxychloroquine
+linzess (linaclotide) (capsules)||linaclotide
+boots paracetamol||acetaminophen
+vancomycin (manufacturer unknown)||vancomycin
+lioresal intratecal||baclofen
+vancomycin (unknown)||vancomycin
+lioresal intrathecal||baclofen
+bortezomib (manufacturer unknown)||bortezomib
+lioresal intrathecal (baclofen injection)||baclofen
+vancomycin (vancomycin)||vancomycin
+bortezomibe||bortezomib
+ergocalciferol (ergocalciferol)||ergocalciferol
+bosentan 125 mg tablets||bosentan
+vancomycin hcl (watson laboratories)||vancomycin
+eribulin mesilate||eribulin
+liothyronine sod||liothyronine
+bosentan 62.5 mg tablets||bosentan
+eribulin mesylate||eribulin
+bosentan tablet 32 mg ped us||bosentan
+vancomycin hydrochloride (non-specific)||vancomycin
+erlotinib tablet||erlotinib
+vancomycin mylan||vancomycin
+vancomycine [vancomycin]||vancomycin
+vancomycine mylan||vancomycin
+erythromycin (erythromycin)||erythromycin
+erythromycin estolate||erythromycin
+lipitor (atorvastatin)||atorvastatin
+erythromycin ophthalmic ointment usp 0.5%||erythromycin
+lipitor (atorvastatin) (unknown)||atorvastatin
+varenicline tartrate||varenicline
+erythromycine||erythromycin
+plavix (clopidogrel bisulfate)||clopidogrel
+liposomal cytarabine||cytarabine
+plavix (clopidogrel bisulfate) (clopidogrel bisulfate)||clopidogrel
+liposomal doxorubicin||doxorubicin
+plavix (clopidogrel sulfate)||clopidogrel
+liposomal doxorubicin hcl||doxorubicin
+liposomal doxorubicin hydrochloride||doxorubicin
+breo ellipta inh||fluticasone furoate
+liposomal irinotecan||irinotecan
+plavix (clopidogrel)||clopidogrel
+escitalopram (escitalopram)||escitalopram
+escitalopram accord||escitalopram
+brimonidine tartrate (alc)||brimonidine
+escitalopram oxalate - bp||escitalopram
+escitalopram oxalate ? bp||escitalopram
+escitalopram oxalate unk||escitalopram
+escitalopram tablets usp 10mg||escitalopram
+lisdexamfetamine dimesylate||lisdexamfetamine
+bromfenac sodium||bromfenac
+lisinopril (lisinopril 10mg tab)||lisinopril
+lisinopril (lisinopril 20mg tab)||lisinopril
+pms azithromycin||azithromycin
+pms-clonazepam||clonazepam
+lisinopril (lisinopril 40mg tab)||lisinopril
+lisinopril (lisinopril)||lisinopril
+lisinopril (lisinopril) (lisinopril)||lisinopril
+pms-hydromorphone||hydromorphone
+brotizolam od||brotizolam
+lisinopril (lisinopril) (unknown)||lisinopril
+lisinopril (unknown)||lisinopril
+brufen [ibuprofen]||ibuprofen
+lisinopril (watson laboratories)||lisinopril
+vegamox ophthalmic solution 0.5%||minoxidil
+lisinopril 10 mg||lisinopril
+lisinopril 20 mg||lisinopril
+btds patch||levomenthol
+esomeprazol [esomeprazole]||esomeprazole
+lisinopril [lisinopril dihydrate]||lisinopril
+lisinopril accord||lisinopril
+esomeprazole (esomeprazole)||esomeprazole
+lisinopril dihydrate||lisinopril
+lisinopril h||lisinopril
+velcade (bortezomib)||bortezomib
+lisinopril hctz||lisinopril
+velcade (bortezomib) (unknown)||bortezomib
+velcade (unknown)||bortezomib
+budesonide (budesonide)||budesonide
+lisinopril tablet||lisinopril
+budesonide ec||budesonide
+lisinopril tablets 10mg||lisinopril
+lisinopril tablets 20mg||lisinopril
+lisinopril tablets usp 10mg||lisinopril
+lisinopril tablets usp 20mg||lisinopril
+venetoclax (verum)||venetoclax
+bumetanide (bumetanide)||bumetanide
+lisinopril(lisinopril)||lisinopril
+lisinopril-hctz||lisinopril
+venlafaxine (unknown)||venlafaxine
+venlafaxine (venlafaxine)||venlafaxine
+bupivacaine (manufacturer unknown)||bupivacaine
+venlafaxine 75mg||venlafaxine
+bupivacaine intrathecal||bupivacaine
+venlafaxine er||venlafaxine
+bupivacaine mylan||bupivacaine
+venlafaxine hcl||venlafaxine
+buprenorphine (similar to nda 21-306)||buprenorphine
+venlafaxine hydrochloride 37.5mg tablet||venlafaxine
+buprenorphine (similar to nda 21?306)||buprenorphine
+estrace vaginal||estradiol
+listerine original||magnesium hydroxide
+buprenorphine generic||buprenorphine
+estradiol (estradiol) (gel)||estradiol
+estradiol hemihydrate||estradiol
+buprenorphine generic tab||buprenorphine
+lithium (lithium)||lithium citrate
+buprenorphine teva||buprenorphine
+estradiol vaginal cream usp||estradiol
+lithium (lithium) unknown||lithium citrate
+estradiol vaginal inserts usp||estradiol
+lithium apogepha||lithium citrate
+poly iron||iron
+lithium carb||lithium citrate
+poly-iron||iron
+polyene phosphatidylcholine||lecithin
+polyethylene glycol [macrogol]||polyethylene glycol
+litican [alizapride hydrochloride]||alizapride
+buprenorphine transdermal system||buprenorphine
+buprenorphine unspecified||buprenorphine
+polymyxin b sulfate||polymyxin b
+estrogen patch||levomenthol
+polysaccharide iron||iron
+lixiana od||edoxaban
+lixiana od tablets||edoxaban
+lixiana od tablets 30mg||edoxaban
+bupropion (bupropion)||bupropion
+lixiana od tablets 60mg||edoxaban
+pomalyst (pomalidomide) (capsules)||pomalidomide
+eszopiclone tablets||eszopiclone
+bupropion er||bupropion
+lixiana tablets||edoxaban
+ventolin (albuterol sulfate)||salbutamol
+ponatinib (ap24534) tablet||ponatinib
+lixiana tablets 30mg||edoxaban
+lixiana tablets 60mg||edoxaban
+ventolin (albuterol)||salbutamol
+ethambutol dihydrochloride||ethambutol
+ventolin (salbutamol)||salbutamol
+lmx (lidocaine)||epinephrine
+ethambutol hcl||ethambutol
+bupropion hcl||bupropion
+lmx [lidocaine]||epinephrine
+ventolin hfa aer||salbutamol
+bupropion hcl er||bupropion
+ventoline||salbutamol
+bupropion hydrobromide||bupropion
+ventoline [salbutamol sulfate]||salbutamol
+bupropion hydrochloride (actavis laboratories fl)||bupropion
+pot cl micro||chloroxylenol
+ventoline [salbutamol]||salbutamol
+etonogestrel implant- implanon next||etonogestrel
+potassium (potassium)||potassium
+bupropion hydrochloride (watson laboratories)||bupropion
+etonogestrel implant- unknown||etonogestrel
+potassium (potassium) (potassium)||potassium
+bupropion hydrochloride tablet||bupropion
+potassium (potassium) (unknown)||potassium
+etoposide (etoposide)||etoposide
+lochol (fluvastatin sodium)||fluvastatin
+vepeside||etoposide
+potassium (unspecified)||potassium
+etoposide (manufacturer unknown)||etoposide
+bupropion hydrochloride tablets||bupropion
+potassium 99||potassium
+etoposide (manufacturer unknown) (etoposide) (etoposide)||etoposide
+potassium [potassium]||potassium
+etoposide (unknown)||etoposide
+potassium bromide||potassium
+etoposide (vp-16)||etoposide
+bupropion tablet||bupropion
+etoposide cap 50mg||etoposide
+verapamil (verapamil)||verapamil
+etoposide mylan||etoposide
+bupropione||bupropion
+verapamil er||verapamil
+etoposide teva||etoposide
+verapamil hydrochloirde||verapamil
+euflexxa||flutamide
+potassium cl||potassium
+potassium cl er||potassium
+lomotil (united states)||diphenoxylate
+eupressyl [urapidil]||urapidil
+potassium cloride 40||potassium
+eurax h||crotamiton
+potassium er||potassium
+busco ranitidine||ranitidine
+potassium supplement||potassium
+potassium supplements||potassium
+buspar (buspirone hydrochloride)||buspirone
+vesicare (solifenacin succinate)||solifenacin
+busulfan injection (0517-0920-01)||busulfan
+eurodin (estazolam)||estazolam
+lopemin [loperamide hydrochloride]||loperamide
+pradaxar||dabigatran etexilate
+loperamide (loperamide)||loperamide
+euthyrox n||levothyroxine
+euthyrox nf||levothyroxine
+lopressor (metoprolol tartrate)||metoprolol
+pramipexole dihcl||pramipexole
+pramipexole hydrochloride||pramipexole
+eutirox (levothyroxine sodium)||levothyroxine
+prasugrel hydrochloride||prasugrel
+pravachol (pravastatin sodium)||pravastatin
+eutirox 75 microgrammi compresse||chloroxylenol
+evacal d3 chewable||bismuth subsalicylate
+loratadine tablets||loratadine
+pravastatin (pravastatin sodium)||pravastatin
+pravastatin (pravastatin)||pravastatin
+pravastatin na||pravastatin
+pravastatin sodium (pravastatin sodium)||pravastatin
+lorazepam (1864a)||lorazepam
+pravastatin tablet||pravastatin
+lorazepam (ativan)||lorazepam
+pravastatine [pravastatin]||pravastatin
+pravastatine sodique||pravastatin
+byetta pen disposable||povidone-iodine
+lorazepam (lorazepam)||lorazepam
+vicks dayquil||levomenthol
+lorazepam (lorazepam) (lorazepam)||lorazepam
+vicodin (vicodin)||hydrocodone
+bystolic (nebivolol hydrochloride)||nebivolol
+lorazepam (unknown)||lorazepam
+lorazepam (watson laboratories)||lorazepam
+victoza (liraglutide) solution for injection||minoxidil
+prazosin hcl||prazosin
+lorazepam a||lorazepam
+victrelis (boceprevir) capsule||boceprevir
+lorazepam actavis||lorazepam
+victrelis 200 mg||boceprevir
+lorazepam tablets||lorazepam
+cacit vitamin d3||cholecalciferol
+lorazepam tablets usp||lorazepam
+vigabatrin (tablet)||vigabatrin
+cacit vitamine d3||vitamin d
+vigantol [colecalciferol]||cholecalciferol
+excedrin unknown||caffeine
+prednisolon [prednisolone]||prednisolone
+excedrine||caffeine
+prednisolone (prednisolone)||prednisolone
+cal-citrate plus vitamin d||cholecalciferol
+prednisolone (unknown)||prednisolone
+viibryd (vilazodone hydrochloride)||vilazodone
+prednisolone sodium succinate||prednisolone
+viibryd (vilazodone hydrochloride) (tablets)||vilazodone
+prednisolone tablets 1^hoei^||prednisolone
+viibryd (vilazodone)||vilazodone
+prednisolone tablets 5mg||prednisolone
+prednisolone unk||prednisolone
+vilanterol trifenatate||vilanterol
+vilazodone hydrochloride||vilazodone
+lortab (united states)||hydrocodone
+exemestane (exemestane)||exemestane
+vildagliptine||vildagliptin
+lortab (vicodin)||hydrocodone
+vinblastine (manufacturer unknown)||vinblastine
+prednisona (886a)||prednisone
+vincristina sulfato||vincristine
+prednisone (prednisone)||prednisone
+vincristine (manufacturer unknown)||vincristine
+exforge d||amlodipine
+vincristine (sulfate de)||vincristine
+prednisone (prednisone) (prednisone)||prednisone
+prednisone (prednisone) (unknown)||prednisone
+vincristine (unknown)||vincristine
+exjade 500mg novartis||deferasirox
+prednisone (unknown)||prednisone
+vincristine (vincristine)||vincristine
+prednisone (watson laboratories)||prednisone
+vincristine (vincristine) (vincristine)||vincristine
+prednisone 5mg||prednisone
+vincristine hospira||vincristine
+calcidose vitamine d||vitamin d
+prednisone 5mg tab||prednisone
+vincristine sulphate||vincristine
+vincristine teva||vincristine
+vindesine sulfate||vindesine
+prednisone arrow||prednisone
+prednisone mylan||prednisone
+vinorelbine ditartrate||vinorelbine
+losartan (losartan)||losartan
+prednisone tablet||prednisone
+external-prednisone||prednisone
+prednisone tablets||prednisone
+losartan (losartan) (losartan)||losartan
+prednisone tablets 10mg||prednisone
+prednisone tablets 5mg||prednisone
+losartan (unknown)||losartan
+calcioral d3||calcium
+prednisone tablets usp||prednisone
+losartan 100mg||losartan
+prednisone teva||prednisone
+losartan 25mg||losartan
+calcipotriene cream 0.005%||calcipotriol
+losartan 50mg||losartan
+losartan film-coated tablets||losartan
+predonine [prednisolone sodium succinate]||prednisolone
+losartan k||losartan
+pregabalin (pregabalin)||pregabalin
+losartan pot||losartan
+calcitrol [calcitriol]||calcitriol
+pregabalin (unknown)||pregabalin
+calcium (calcium)||calcium
+pregabaline||pregabalin
+losartan potasico||losartan
+calcium (calcium) (calcium)||calcium
+calcium (calcium) (unknown)||calcium
+losartan potassique||losartan
+vit d (ergocalciferol)||ergocalciferol
+calcium (unspecified)||calcium
+premarin (estrogens conjugated)||conjugated estrogens
+calcium 500||calcium
+ezetimibe tablets||ezetimibe
+premarin cream||conjugated estrogens
+vit e [tocopherol]||tocopherol
+calcium [calcium]||calcium
+calcium bicarbonate||calcium
+prenatal dha||niacin
+calcium carb||calcium
+prenatal formula||niacin
+prenatal vitamin||niacin
+prenatal vitamins||niacin
+prenatal vitamins [minerals nos;vitamins nos]||niacin
+preparation h nos||phenylephrine
+preparation h suppository||phenylephrine
+losartan potasssium||losartan
+losartan tablets||losartan
+calcium d||calcium
+calcium d3||calcium
+calcium dobesilate||calcium
+vitamin a [retinol]||vitamin a
+calcium folinat||calcium
+calcium gluc||calcium
+famotidine (famotidine)||famotidine
+famotidine (otc)||famotidine
+famotidine d||famotidine
+preservision lutein||lutein
+losartana||losartan
+famotidine dci||famotidine
+losartana potassica||losartan
+famotidine od||famotidine
+famotidine otc||famotidine
+calcium levofolinate||calcium
+vitamin b (vitamin b complex)||flavin mononucleotide
+fampridine (fampridine)||dalfampridine
+prestarium [perindopril]||perindopril
+prevacid (lansoprazole)||lansoprazole
+prevacid 24hr 15mg||lansoprazole
+calcium supplement||calcium
+calcium supplements||calcium
+calcium vit d||calcium
+vitamin b complex nos||flavin mononucleotide
+previscan (fluindione)||fluindione
+vitamin b complex strong||flavin mononucleotide
+previscan (pentoxifylline)||pentoxifylline
+calciumcarbonaat||calcium
+previscan [fluindione]||fluindione
+calciumfolinat||calcium
+lotrimin af||clotrimazole
+felodipine (felodipine)||felodipine
+calcort||silicon
+prezistanaive||darunavir
+calfina [alfacalcidol]||alfacalcidol
+prialt (ziconotide) intrathecal infusion||ziconotide
+prilosec (omeprazole)||omeprazole
+prilosec (omeprazole) (omeprazole)||omeprazole
+lovastatin (lovastatin)||lovastatin
+vitamin b-12 (cyanocobalamin)||8-epi-cyanocobalamin
+prilosec (omeprazole) (unknown)||omeprazole
+fenofibrate (fenofibrate)||fenofibrate
+lovenox (enoxaparin sodium)||enoxaparin
+fenofibrate (fenofibrate) (fenofibrate)||fenofibrate
+fenoterol hydrobromide||fenoterol
+low dose aspirin ec||acetylsalicylic acid
+pristiq (desvenlafaxine succinate)||desvenlafaxine
+camostat mesilate||camostat
+fentanyl (fentanyl)||fentanyl
+fentanyl (fentanyl) (fentanyl)||fentanyl
+low molecular weight heparin||heparin
+fentanyl (manufacturer unknown)||fentanyl
+low-dose aspirin||acetylsalicylic acid
+fentanyl (unknown)||fentanyl
+pritor plus||telmisartan
+fentanyl intrathecal||fentanyl
+vitamin b2 [riboflavin]||riboflavin
+low-molecular-weight heparin (lmwh)||heparin
+fentanyl mylan||fentanyl
+vitamin b50||pantothenic acid
+fentanyl unknown strength (watson laboratories)||fentanyl
+vitamin b50 complex||pantothenic acid
+loxapac [loxapine succinate]||loxapine
+fentanyl-100 (watson laboratories)||fentanyl
+vitamin b6 (pyridoxine hydrochloride)||pyridoxine
+fentanyl-25 (watson laboratories)||fentanyl
+loxapac [loxapine]||loxapine
+fentanyl-50 (watson laboratories)||fentanyl
+loxapine base||loxapine
+fentanyl-75 (watson laboratories)||fentanyl
+proactiv acne clearing body spray||salicylic acid
+capecitabine (manufacturer unknown)||capecitabine
+vitamin c (ascorbic acid)||ascorbic acid
+capecitabine (unknown)||capecitabine
+proactiv cleansing bar||benzethonium
+vitamin c [ascorbic acid]||ascorbic acid
+capecitabine 500 mg||capecitabine
+capecitabine 500 mg teva||capecitabine
+loxen (nicardipine hydrochloride)||nicardipine
+vitamin c acid||ascorbic acid
+capecitabine 500mg accord||capecitabine
+vitamin c er||ascorbic acid
+loxen [nicardipine hydrochloride]||nicardipine
+capecitabine 500mg novadoz||capecitabine
+vitamin c tr||ascorbic acid
+capecitabine 500mg novadoz pharmaceuticals||capecitabine
+capecitabine 500mg tab||capecitabine
+capecitabine 500mg teva||capecitabine
+vitamin d (colecalciferol)||cholecalciferol
+capecitabine 500mg teva pharmaceuticals||capecitabine
+proactiv gentle formula clarifying toner||salicylic acid
+proactiv green tea moisturizer||allantoin
+capecitabine film coated tablet||capecitabine
+capecitabine tab||capecitabine
+capecitabine tab 150mg||capecitabine
+capecitabine tab 500 mg||capecitabine
+loxonin (loxoprofen sodium)||loxoprofen
+capecitabine tab 500 mg ber||capecitabine
+proactiv md deep cleansing face wash||benzethonium
+loxoprofen [loxoprofen sodium]||loxoprofen
+capecitabine tab 500mg||capecitabine
+proactiv oil free moisture spf 15||octocrylene
+loxoprofen na||loxoprofen
+proactiv redness relief serum||sodium phosphate, dibasic
+vitamin d (unspecified)||cholecalciferol
+loxoprofen sodium||loxoprofen
+proactiv revitalizing toner||salicylic acid
+vitamin d (vitamin d)||cholecalciferol
+vitamin d 1000||cholecalciferol
+carbamazepine (carbamazepine)||carbamazepine
+proactiv the silver nano towel||silver
+carbamazepine (carbamazepine) unknown||carbamazepine
+vitamin d 2000||cholecalciferol
+carbamazepine (unknown)||carbamazepine
+proactiv?md deep cleansing face?wash||benzethonium
+vitamin d 3||cholecalciferol
+carbamazepine tablets usp 200 mg||carbamazepine
+vitamin d [colecalciferol]||cholecalciferol
+proair (albuterol sulfate)||salbutamol
+carbazochrome sodium sulfonate||carbazochrome
+carbazochrome sulfonate na||carbazochrome
+lucrin (leuproreline)||leuprolide
+proair hfa aer||salbutamol
+ferrous fumarate (ferrous fumarate)||ferrous fumarate
+vitamin d supplement||cholecalciferol
+ferrous sodium citrate||sodium citrate
+vitamin d-1000||cholecalciferol
+ferrous sulfate (ferrous sulfate)||ferrous sulfate anhydrous
+ferrous sulfate ec||ferrous sulfate anhydrous
+vitamin d-400||cholecalciferol
+ferrous sulphate [ferrous sulfate]||ferrous sulfate anhydrous
+vitamin d1||cholecalciferol
+vitamin d3 (colecalciferol)||cholecalciferol
+carbolithium||lithium carbonate
+carbomers||carbomer
+vitamin d3 streuli||cholecalciferol
+carboplatin (carboplatin)||carboplatin
+fexofenadine 180 mg 571||fexofenadine
+carboplatin (manufacturer unknown)||carboplatin
+fexofenadine hcl  otc||fexofenadine
+lumigan (bimatoprost)||bimatoprost
+carboplatin (manufacturer unknown) (carboplatin) (carboplatin)||carboplatin
+carboplatin (unknown)||carboplatin
+lumigan 0.01%||bimatoprost
+carboplatin (watson laboratories)||carboplatin
+fiber choice||calcium polycarbophil
+fiber gummies||calcium polycarbophil
+lumigan? 0.01%||bimatoprost
+carboplatin accord||carboplatin
+procarbazine hydrochloride||procarbazine
+fiber supplement||calcium polycarbophil
+lumigan� 0.01%||bimatoprost
+vitamin e complex||vitamin e
+procardia (united states)||nifedipine
+carboplatin hospira||carboplatin
+procaterol hydrochloride||procaterol
+carboplatin inj. 50mg ^nk^||carboplatin
+vitamin e nos||vitamin e
+carboplatin injection 50 mg ^nk^||carboplatin
+carboplatin intravenous infusion||carboplatin
+vitamin e-400||vitamin e
+prochlorperazine (prochlorperazine)||prochlorperazine
+carboplatin mylan||carboplatin
+prochlorperazine malea||prochlorperazine
+lunesta (eszopiclone)||eszopiclone
+vitamin e\vitamins||vitamin e
+carboplatin teva||carboplatin
+carboplatine accord||carboplatin
+carboplatine hospira||carboplatin
+carboplatino (2323a)||carboplatin
+vitamin k [phytomenadione]||phylloquinone
+finasteride (finasteride)||finasteride
+carboplatino teva||carboplatin
+finasteride (unknown)||finasteride
+lupron depot 11.25 mg||leuprolide
+carboplatinum||carboplatin
+vitamin k nos||phylloquinone
+finasteride 5mg||finasteride
+lupron depot 3.75 mg||leuprolide
+procyclidine hcl||procyclidine
+fingolimod hydrochloride||fingolimod
+lupron depot 30 mg||leuprolide
+procyclidine hydrochloride||procyclidine
+lupron depot-ped (3 month)||leuprolide
+cardioaspirin (acetylsalicylic acid)||acetylsalicylic acid
+lustral||hydroquinone
+progesterone capsules||progesterone
+lutein [xantofyl]||lutein
+progesterone unk||progesterone
+fish oil omega 3||capsaicin
+fish oil omega-3||omega-3 fatty acids
+luteine||lutein
+prograf (tacrolimus)||tacrolimus
+prograft||tacrolimus
+luteinizing hormone-releasing hormone||lutein
+cardizem (diltiazem hydrochloride)||diltiazem
+cardizem [diltiazem hydrochloride]||diltiazem
+cardura (doxazosin mesilate)||doxazosin
+luteran||levonorgestrel
+carduran||doxazosin
+carduran neo||doxazosin
+lutetium (lu 177)||lutetium lu-177
+carduran xl||doxazosin
+carduraxl||doxazosin
+flaxseed oil [linum usitatissimum oil]||linseed oil
+flaxseed oil [linum usitatissimum seed oil]||linseed oil
+luvion (canrenoic acid)||canrenoic acid
+cariprazine hcl - bp||cariprazine
+luvion (canrenone)||canrenone
+carisoprodol (carisoprodol)||carisoprodol
+flecaine lp||flecainide
+promac (polaprezinc)||polaprezinc
+carisoprodol tablets 350mg||carisoprodol
+flector [diclofenac sodium]||diclofenac
+promac [polaprezinc]||polaprezinc
+luvion [canrenoic acid]||canrenoic acid
+fleet nos||phenylephrine
+vivelle?dot||estradiol
+carmellose sodium||carboxymethylcellulose
+fleet phospho-soda||phenylephrine
+promazine hydrochloride||promazine
+flexeril (cyclobenzaprine hydrochloride)||cyclobenzaprine
+promethazine (promethazine)||promethazine
+cartia [acetylsalicylic acid]||acetylsalicylic acid
+lyrica (pregabalin)||pregabalin
+voglibose od||voglibose
+flintstones complete||chlorpheniramine
+voltaren (diclofenac diethylammonium salt)||diclofenac
+voltaren [diclofenac diethylamine]||diclofenac
+voltaren [diclofenac]||diclofenac
+voltaren forte||diclofenac
+carvedilol (carvedilol)||carvedilol
+carvedilol (coreg)||carvedilol
+voltaren gel||diclofenac
+voltaren resinat||diclofenac
+carvedilol (unknown)||carvedilol
+voltaren sup||diclofenac
+carvedilol film-coated tablets||carvedilol
+voltarene||diclofenac
+carvedilol hexal||carvedilol
+propafenone hcl er||propafenone
+voltarene (diclofenac sodium)||diclofenac
+carvedilol tablet||carvedilol
+carvedilol tablets||carvedilol
+carvedilolo||carvedilol
+flomax (tamsulosin hydrochloride)||tamsulosin
+flomax (tamsulosin)||tamsulosin
+vonoprazan fumarate||vonoprazan
+flomax (united states)||tamsulosin
+flomax ^boehringer ingelheim^||tamsulosin
+flomax capsules||tamsulosin
+vortioxetine hydrobromide||vortioxetine
+caspofungine||caspofungin
+flomaxtra||tamsulosin
+votrient 200mg||pazopanib
+cassia senna||sennosides
+flomox [cefcapene pivoxil hydrochloride]||cefcapene
+flonase (united states)||fluticasone propionate
+propiverine hydrochloride||propiverine
+catapres tts||clonidine
+flonase algy||fluticasone propionate
+propofol (manufacturer unknown)||propofol
+catapresan||clonidine
+catapresan tts||clonidine
+propofol (propofol)||propofol
+catapressan||clonidine
+macrobid (nitrofurantoin)||nitrofurantoin
+cathflo activase||triclosan
+propofol 1% fresenius||propofol
+macrobid (united states)||nitrofurantoin
+propofol fresenius||propofol
+vx-950 (telaprevir)||telaprevir
+propofol fresenius (not specified)||propofol
+macrogol stearate||polyethylene glycol
+vyvanse (lisdexamfetamine dimesylate) capsule||lisdexamfetamine
+propofol lipuro||propofol
+wal zyr nos||cetirizine
+propofol panpharma||propofol
+wal-zyr (cetirizine hydrochloride)||cetirizine
+warfarin (japanese tradename)||warfarin
+warfarin (unknown)||warfarin
+cefazolin injection||cefazolin
+propranolol (propranolol)||propranolol
+warfarin (warfarin na (exelan) 5mg tab)||warfarin
+cefazolin na||cefazolin
+warfarin (warfarin)||warfarin
+cefazoline [cefazolin]||cefazolin
+propranolol er||propranolol
+warfarin (warfarin) (unknown)||warfarin
+cefazoline mylan||cefazolin
+warfarin (warfarin) (warfarin)||warfarin
+cefazoline panpharma||cefazolin
+cefcapene pivoxil||cefcapene
+warfarin 5 mg||warfarin
+cefcapene pivoxil hydrochloride||cefcapene
+propranolol hcl||propranolol
+propranolol hydrochloride ir||propranolol
+cefcapene pivoxil hydrochloride hydrate||cefcapene
+warfarin k||warfarin
+cefepime dihydrochloride||cefepime
+cefepime hcl||cefepime
+warfarin sodium (warfarin sodium)||warfarin
+flucloxacillin (flucloxacillin)||flucloxacillin
+warfarin sodium tablets usp 1mg||warfarin
+flucloxacillin sodium||flucloxacillin
+cefmetazole na||cefmetazole
+warfarin sodium tablets usp 2.5mg||warfarin
+fluconazole (fluconazole)||fluconazole
+cefmetazole sodium||cefmetazole
+fluconazole arrow||fluconazole
+warfarin sodium tablets usp 2mg||warfarin
+warfarin sodium tablets usp 3mg||warfarin
+fluconazole kabi||fluconazole
+cefoperazone sodium||cefoperazone
+warfarin sodium tablets usp 4mg||warfarin
+fluconazole tablets||fluconazole
+cefotaxime base||cefotaxime
+warfarin sodium tablets usp 5mg||warfarin
+fluconazole tablets 150 mg||fluconazole
+cefotaxime sodium||cefotaxime
+warfarine||warfarin
+cefotiam hydrochloride||cefotiam
+cefoxitin sodium||cefoxitin
+fludarabin||fludarabine
+cefozopran hydrochloride||cefozopran
+water bacteriostatic||water
+fludarabine teva||fludarabine
+cefpirome sulfate||cefpirome
+protamine sulfate||protamine
+water for injections||water
+magic mouthwash||levomenthol
+ceftaroline fosamil - bp||ceftaroline fosamil
+fludex (indapamide)||indapamide
+water pill||water
+water pills||water
+ceftaroline fosamil unk||ceftaroline fosamil
+wellbutrin (bupropion hydrochloride)||bupropion
+ceftriaxona (501a)||ceftriaxone
+white soft paraffin||petrolatum
+ceftriaxone (ceftriaxone)||ceftriaxone
+ceftriaxone base||ceftriaxone
+ceftriaxone disodium||ceftriaxone
+ceftriaxone injection||ceftriaxone
+ceftriaxone mylan||ceftriaxone
+ceftriaxone na||ceftriaxone
+women's multivitamin||cholecalciferol
+fluocinonide cream usp 0.05%||fluocinonide
+ceftriaxone panpharma||ceftriaxone
+womens multivitamin||cholecalciferol
+cefuroxime (manufacturer unknown)||cefuroxime
+womens rogaine extra strength||levomenthol
+fluorouracil (fluorouracil)||fluorouracil
+magnesiocard||magnesium
+cefuroxime sodium (unknown)||cefuroxime
+fluorouracil (fluorouracil) (fluorouracil)||fluorouracil
+wp thyroid||levothyroxine
+magnesium (magnesium)||magnesium
+fluorouracil (manufacturer unknown)||fluorouracil
+magnesium (unspecified)||magnesium
+fluorouracil (manufacturer unknown) (fluorouracil) (fluorouracil)||fluorouracil
+celebrex (celecoxib)||celecoxib
+fluorouracil (unknown)||fluorouracil
+magnesium amino acid chelate||magnesium
+fluorouracil 5 fu||fluorouracil
+celecoxib 200mg||celecoxib
+fluorouracil 5%||fluorouracil
+celecoxib capsules 200 mg||celecoxib
+fluorouracil accord||fluorouracil
+xanax (alprazolam)||alprazolam
+fluorouracil teva||fluorouracil
+magnesium chelate||magnesium
+xanax (alprazolam) (alprazolam)||alprazolam
+fluorouracil topical cream usp 5%||fluorouracil
+magnesium gluceptate||magnesium
+fluorouracile||fluorouracil
+fluorouracile accord||fluorouracil
+protonix (pantoprazole sodium sesquihydrate)||pantoprazole
+magnesium glycerophosphate||magnesium
+celestone chronodose||betamethasone
+fluorouracile ahcl||fluorouracil
+celexa (citalopram hydrobromide)||citalopram
+fluorouracile pfizer||fluorouracil
+xarelto (rivaroxaban)||rivaroxaban
+magnesium isoglycyrrhizinate||magnesium
+protonix (pantoprazole)||pantoprazole
+fluorouracile teva||fluorouracil
+xatral [alfuzosin hydrochloride]||alfuzosin
+celexa (united states)||citalopram
+protonix (united states)||pantoprazole
+fluoxetine (fluoxetine)||fluoxetine
+celexa tablets||citalopram
+xatral lp||alfuzosin
+magnesium pidolate||magnesium
+celiprolol hydrochloride||celiprolol
+xenazine 12.5 mg (not specified)||tetrabenazine
+fluoxetine (unknown)||fluoxetine
+protonix ^pharmacia^||pantoprazole
+xenazine 25 mg (not specified)||tetrabenazine
+protonix dr||pantoprazole
+fluoxetine (watson laboratories)||fluoxetine
+protriptyline hcl||protriptyline
+fluoxetine hcl unk||fluoxetine
+magnesium verla||magnesium
+fluoxetine hydrochloride (unknown)||fluoxetine
+magnesium-ox||magnesium
+centrum a to zinc||zinc
+flupentixol decanoate||flupentixol
+magnesiumhydroxide||magnesium
+flupentixol dihydrochloride||flupentixol
+flurazepam hcl||flurazepam
+flurazepam monohydrochloride||flurazepam
+fluticasone (fluticasone)||fluticasone
+centrum complete||chlorpheniramine
+magnesiumoxide||magnesium
+centrum materna||selenic acid
+fluticasone prop||fluticasone
+xopenex inhaler||levosalbutamol
+proventil [salbutamol sulfate]||salbutamol
+centrum multivitamin||cholecalciferol
+centrum multivitamins||cholecalciferol
+proventil hfa [salbutamol]||salbutamol
+xylocaine viscous||epinephrine
+xylocaine-mpf||epinephrine
+proventil inhaler||salbutamol
+xylometazoline hydrochloride||xylometazoline
+centrum silver||silver
+xyzall||levocetirizine
+provigil (modafinil)||modafinil
+centrum silver (centrum silver)||silver
+fluticasone proprionate||fluticasone
+yasminelle||drospirenone
+fluticasone spr||fluticasone
+fluticasone spray||fluticasone
+prozac (fluoxetine hydrochloride)||fluoxetine
+centrum silver for women||silver
+youplus vitamin c||ascorbic acid
+centrum silver vitamin||silver
+centrum silver women||silver
+manidipine hydrochloride||manidipine
+centyl med kaliumklorid||potassium
+psyllium fiber||calcium polycarbophil
+z-ribavirin||ribavirin
+fluzone [fluconazole]||fluconazole
+cephalexin [cefalexin]||cephalexin
+cephalexin amel||cephalexin
+cephalexin hcl||cephalexin
+cephalexin hydrochloride||cephalexin
+folacin [folic acid]||folic acid
+cephalexin monohydrate||cephalexin
+cephalexine||cephalexin
+folate sodium||folic acid
+zanaflex (tizanidine hydrochloride)||tizanidine
+pulmicort (budesonide)||budesonide
+zantac (ranitidine hydrochloride)||ranitidine
+zantac 150 (otc)||ranitidine
+zantac 150 (ranitidine hydrochloride)||ranitidine
+zantac 150 otc||ranitidine
+zantac 300||ranitidine
+zantac 75 (otc)||ranitidine
+folic acid (folic acid)||folic acid
+zantac 75 (ranitidine hydrochloride)||ranitidine
+folic acid (folic acid) (folic acid)||folic acid
+zantac cool mint (tablets)||ranitidine
+folic acid (folic acid) (unknown)||folic acid
+folic acid (unknown)||folic acid
+folic acid almus||folic acid
+folic acid tablets||folic acid
+pursana||chloroxylenol
+folina [folic acid]||folic acid
+pursennid (sennosides)||sennosides
+matulane capsules||procarbazine
+follistim aq||water
+follistim aq cartridge||water
+certoparin sodium||certoparin
+maxalt mlt||rizatriptan
+zegerid otc capsules||sodium bicarbonate
+zemplar (paricalcitol)||paricalcitol
+cetirizine (cetirizine)||cetirizine
+cetirizine (dichlorhydrate de)||cetirizine
+pyridostigmine br||pyridostigmine
+maximum d3||chloroxylenol
+cetirizine (unknown)||cetirizine
+folvite [folic acid]||folic acid
+cetirizine 10 mg||cetirizine
+cetirizine dihydrochloride||cetirizine
+zestril (lisinopril)||lisinopril
+zetia (ezetimibe)||ezetimibe
+pyridoxine hcl||pyridoxine
+formoterol fumarate||formoterol
+zicam cold remedy||phenylephrine
+mebeverine hydrochloride||mebeverine
+formoterol fumarate dihydrate||formoterol
+zicam cold remedy rapidmelts||phenylephrine
+cevimeline hcl||cevimeline
+zicam nos||phenylephrine
+zidovudine (zidovudine)||zidovudine
+meclozine hydrochloride||meclizine
+zidovudine (zidovudine) unknown)||zidovudine
+fortecortin [dexamethasone]||dexamethasone
+zinc (unspecified)||zinc
+zinc chelate||zinc
+zincate||zinc
+zingiber officinale||calcium
+chibro-proscar||finasteride
+children's allegra allergy||fexofenadine
+ziprasidone hcl||ziprasidone
+children's aspirin||acetylsalicylic acid
+ziprasidone mesilate||ziprasidone
+fosamax (alendronate sodium)||alendronic acid
+quercetin dihydrate||quercetin
+fosamax d||alendronic acid
+foscarnet?sodium||foscarnet
+chlor-trimeton||chlorine
+quetiapina (1136a)||quetiapine
+zocor (simvastatin)||simvastatin
+quetiapina doc generici compresse rivestite con film||quetiapine
+medicon (dextromethorphan hydrobromide)||dextromethorphan
+zofran (ondansetron hydrochloride)||ondansetron
+quetiapine (agptc)||quetiapine
+medicon [dextromethorphan hydrobromide]||dextromethorphan
+quetiapine (quetiapine)||quetiapine
+zofran (ondansetron)||ondansetron
+fragmin p||dalteparin
+zofran [ondansetron hydrochloride]||ondansetron
+quetiapine (quetiapine) (quetiapine)||quetiapine
+fragmin p forte||dalteparin
+fragmine||dalteparin
+chlorhex||chlorine
+quetiapine (unknown)||quetiapine
+chlorhex glu||chlorine
+zofran [ondansetron]||ondansetron
+chlorhexadine||chlorine
+quetiapine accord||quetiapine
+zoledronic acid (manufacturer unknown)||zoledronic acid
+zoledronic acid (unknown)||zoledronic acid
+medrol [methylprednisolone]||methylprednisolone
+quetiapine film-coated tablet||quetiapine
+zoledronic acid hydrate||zoledronic acid
+medrol dose pack||methylprednisolone
+quetiapine film?coated tablet||quetiapine
+medroxy||capsaicin
+zolinza capsules 100mg||vorinostat
+quetiapine fumarat||quetiapine
+quetiapine fumarate tablets||quetiapine
+medroxypr ac||capsaicin
+quetiapine mylan||quetiapine
+medroxyprogesteron||capsaicin
+frusemide [furosemide]||furosemide
+zolpidem (unknown)||zolpidem
+zolpidem (zolpidem)||zolpidem
+zolpidem er||zolpidem
+chlorophyll||chlorine
+quinapril hcl||quinapril
+zolpidem hemitartrate||zolpidem
+zolpidem tartarate||zolpidem
+quinine bisulfate||quinine
+quinine sulfate (watson laboratories)||quinine
+fucidin (fusidic acid)||fusidic acid
+chlorpheniramin||chlorine
+zolpidem tartate||zolpidem
+zolpidem tartrate (watson laboratories)||zolpidem
+megace f||megestrol acetate
+fucidine||fusidic acid
+megace oral||megestrol acetate
+quinine sulphate||quinine
+zolpidem tartrate (zolpidem tartrate)||zolpidem
+qvar (beclometasone dipropionate)||beclomethasone dipropionate
+chlorthalid||chlorine
+chlorthalidon||chlorine
+chlortrimeton||chlorine
+zolpidem tartrate od||zolpidem
+chlorure de sodium||chlorine
+chlorvescent||chlorine
+megared omega 3 krill oil||capsaicin
+zolpidem tartrate tablet||zolpidem
+cholecalciferol (vitamin d3)||cholecalciferol
+zolpidem tartrate tablets||zolpidem
+rabeprazole na||rabeprazole
+megestrol ac||megestrol acetate
+zolpidem tartrate tablets 10 mg||zolpidem
+zolpidem tartrate tablets 10mg||zolpidem
+cholesterol medication||cholesterol
+zolpidem tartrate tablets 5 mg||zolpidem
+zometa (zoledronate) unknown||zoledronic acid
+cholesterol medicine||cholesterol
+zometa (zoledronic acid)||zoledronic acid
+melatonin (melatonin)||melatonin
+zometa (zoledronic acid) (unknown)||zoledronic acid
+melatonine||melatonin
+cholesterol pill||cholesterol
+zomigoro||zolmitriptan
+zonisamide capsule||zonisamide
+furadantine||nitrofurantoin
+zophren (ondansetron hydrochloride)||ondansetron
+zophren (ondansetron)||ondansetron
+meloxican||magnesium hydroxide
+cholestyramine for oral suspension usp||cholestyramine
+zophren [ondansetron hydrochloride]||ondansetron
+raloxifene hcl||raloxifene
+choline bitartrate||choline
+zophren [ondansetron]||ondansetron
+melperone hydrochloride||melperone
+melphalan hydrochloride for injection||melphalan
+zopiclone (unknown)||zopiclone
+furix (furosemide)||furosemide
+zopiclone (zopiclone)||zopiclone
+ramipril (ramipril)||ramipril
+memantine hcl||memantine
+furon [furosemide]||furosemide
+memantine hcl - bp||memantine
+ramipril (unknown)||ramipril
+chondroitin glucosamin||dextrose, unspecified form
+memantine hcl ? bp||memantine
+furosemid [furosemide]||furosemide
+memantine hcl unk||memantine
+ramipril 10mg||ramipril
+furosemida (1615a)||furosemide
+furosemida [furosemide]||furosemide
+chondroitin sulfate sodium||chondroitin sulfate
+ramipril 1a pharma||ramipril
+furosemide (furosemide)||furosemide
+ramipril 2.5mg||ramipril
+furosemide (furosemide) (furosemide)||furosemide
+ramipril 5mg||ramipril
+furosemide (furosemide) (tablets)||furosemide
+ramipril actavis||ramipril
+furosemide (furosemide) (unknown)||furosemide
+ramipril beta comp||ramipril
+furosemide (manufacturer unknown)||furosemide
+ramipril capsule||ramipril
+furosemide (unknown)||furosemide
+ramipril comp||ramipril
+furosemide 20 mg||furosemide
+ramipril hct||ramipril
+zuclopenthixol decanoate||zuclopenthixol
+furosemide 20mg||furosemide
+ramipril hexal||ramipril
+zuclopenthixol hydrochloride||zuclopenthixol
+furosemide 40 mg||furosemide
+ramipril mylan||ramipril
+furosemide [furosemide sodium]||furosemide
+meperidine [pethidine]||meperidine
+ramipril plus||ramipril
+mepivacaine hcl||mepivacaine
+furosemide [furosemide]||furosemide
+ramipril tablet||ramipril
+furosemide arrow||furosemide
+ramosetron hydrochloride||ramosetron
+furosemide mylan||furosemide
+furosemide renaudin||furosemide
+mepronizine||atovaquone
+furosemide sodium||furosemide
+ranexa (ranolazine)||ranolazine
+furosemide tablets||furosemide
+furosemide tablets usp||furosemide
+zyloric (allopurinol)||allopurinol
+mercaptamine bitartrate||cysteamine
+furosemide teva||furosemide
+zyprexa (olanzapine)||olanzapine
+furosemide teva 40 mg||furosemide
+zyrtec (cetirizine hydrochloride)||cetirizine
+mercilon  conti||desogestrel
+zyrtec 10mg ir tablet||cetirizine
+zyrtec allgy||cetirizine
+ranitidine (ranitidine)||ranitidine
+zyrtec ir||cetirizine
+fusidate sodium||fusidic acid
+ranitidine (unknown)||ranitidine
+zyrtec liquid gels 10 mg||cetirizine
+ranitidine capsules 150 mg||ranitidine
+meropenem (manufacturer unknown)||meropenem
+zyrtec?d||cetirizine
+ranitidine hci||ranitidine
+meropenem (meropenem)||meropenem
+zytiga tab 500mg||abiraterone
+ranitidine hcl||ranitidine
+meropenem anhydre||meropenem
+fycompa (perampanel)||perampanel
+ranitidine hydrochloride capsule||ranitidine
+meropenem hydrate||meropenem
+ranitidine tablets 75 mg||ranitidine
+zyvoxid||linezolid
+meropenem injection||meropenem
+meropenem trihydrate||meropenem
+mesalazine - bp||mesalazine
+mesalazine unk||mesalazine
+rapaflo (watson laboratories)||silodosin
+mesna eg||coenzyme m
+mesna for injection 1 gram||coenzyme m
+mesna injection||coenzyme m
+gabapentin (aellc)||gabapentin
+gabapentin (gabapentin)||gabapentin
+rasagiline mesilate||rasagiline
+gabapentin (gabapentin) (gabapentin)||gabapentin
+gabapentin (gabapentin) (unknown) (gabapentin)||gabapentin
+metamfetamine hydrochloride||metamfetamine
+metamizol (111a)||metamizole
+gabapentin (neurontin)||gabapentin
+metamizol natrium||metamizole
+gabapentin (unknown)||gabapentin
+gabapentin 100mg||gabapentin
+metamizole sodium||metamizole
+gabapentin 300 mg||gabapentin
+gabapentin 300mg||gabapentin
+gabapentin 600mg||gabapentin
+metamucil therapy for regularity||sodium fluorophosphate
+gabapentin ^pcd^||gabapentin
+gabapentin actavis||gabapentin
+gabapentin capsules 100 mg||gabapentin
+gabapentin capsules 300 mg||gabapentin
+gabapentin tablets||gabapentin
+gabapentin tablets usp 600mg||gabapentin
+gabapentin teva||gabapentin
+metex (methotrexate sodium)||methotrexate
+gabapentine arrow||gabapentin
+rebetol (ribavirin) capsule||ribavirin
+gabexate mesilate||gabexate
+gadobenate dimeglumine||gadobenic acid
+rebetol capsules 200mg||ribavirin
+rebif (interferon beta-1a)||sodium chloride
+gadolinium (unspecified)||gadolinium
+rebif rebidose||sodium chloride
+gadolinium in unspecified drug||gadolinium
+metformin (metformin hydrochloride)||metformin
+metformin (metformin)||metformin
+gadoxetate disodium||gadoxetic acid
+galantamine hbr||galantamine
+metformin (metformin) (metformin)||metformin
+metformin (metformin) (unknown)||metformin
+metformin (unknown)||metformin
+metformin 500mg||metformin
+metformin [metformin hydrochloride]||metformin
+galvus met||vildagliptin
+metformin actavis||metformin
+galvusmet||vildagliptin
+metformin er||metformin
+metformin film-coated tablet||metformin
+metformin film?coated tablet||metformin
+metformin hcl (metformin hydrochloride)||metformin
+metformin hcl tablets||metformin
+metformin hcl tabs||metformin
+metformin hydrochloride (metformin hydrochloride)||metformin
+metformin hydrochloride (unknown)||metformin
+metformin hydrochloride (watson laboratories)||metformin
+metformin hydrochloride tablets usp 1000 mg||metformin
+metformin hydrochloride tablets usp 500 mg||metformin
+reduced glutathione sodium||glutathione
+ganciclovir sodium||ganciclovir
+metformin hydrochloridetablets||metformin
+metformin tablet||metformin
+metformina (1359a)||metformin
+refresh p.m||polyvinyl alcohol
+metformina [metformin]||metformin
+metformine [metformin]||metformin
+metformine arrow||metformin
+metformine hcl||metformin
+metformine hydrochloride||metformin
+regular insulin||sodium fluorophosphate
+regular insulin novo nordisk||sodium fluorophosphate
+methadone (methadone)||methadone
+methadone (methadone) (methadone)||methadone
+methadone ap hp||methadone
+methadone ap-hp||methadone
+methamphetamine [metamfetamine]||metamfetamine
+methamphetamine hcl||metamfetamine
+remdesivir (eua) (remdesivir (eua))||remdesivir
+gaster [famotidine]||famotidine
+remeron (mirtazapine)||mirtazapine
+methotrexat [methotrexate]||methotrexate
+methotrexate (manufacturer unknown)||methotrexate
+methotrexate (manufacturer unknown) (methotrexate) (methotrexate)||methotrexate
+remifentanil mylan||remifentanil
+methotrexate (methotrexate sodium)||methotrexate
+methotrexate (methotrexate)||methotrexate
+methotrexate (methotrexate) (methotrexate)||methotrexate
+remodulin (injection for infusion) (treprostinil sodium)||treprostinil
+methotrexate (trade name unknown)||methotrexate
+methotrexate (unknown)||methotrexate
+gaviscon advance||magnesium carbonate
+methotrexate 2.5mg tab||methotrexate
+methotrexate [methotrexate sodium]||methotrexate
+methotrexate biodim||methotrexate
+methotrexate disodium||methotrexate
+methotrexate injection||methotrexate
+methotrexate mylan||methotrexate
+methotrexate pfizer||methotrexate
+methoxy polyethylene glycol-epoetin beta||polyethylene glycol
+gemcitabine (gemcitabine)||gemcitabine
+repaglinide (unknown)||repaglinide
+gemcitabine (unknown)||gemcitabine
+gemcitabine accord||gemcitabine
+methyl folate||folic acid
+methyl prednisolone||prednisolone
+gemfibrozil (gemfibrozil)||gemfibrozil
+methyl prednisolone sodium succinate||prednisolone
+methyldopa msd||methyldopa
+generic buprenorphine||buprenorphine
+requip (ropinirole hydrochloride)||ropinirole
+requip lp||ropinirole
+generic fentanyl||fentanyl
+methylphenid||methenamine
+generic lipitor||atorvastatin
+methylphenidat||methenamine
+methylprednisolon [methylprednisolone]||methylprednisolone
+restamin [diphenhydramine]||diphenhydramine
+methylprednisolone (manufacturer unknown)||methylprednisolone
+methylprednisolone (methylprednisolone)||methylprednisolone
+gentamicin (manufacturer unknown)||gentamicin
+restasis (ciclosporin)||cyclosporine
+methylprednisolone (unknown)||methylprednisolone
+restasis?||cyclosporine
+gentamicin (unknown)||gentamicin
+methylprednisolone merck||methylprednisolone
+gentamicin sulphate||gentamicin
+methylprednisolone mylan||methylprednisolone
+gentamicin unk||gentamicin
+methylprednisolone na succinate||methylprednisolone
+restoril (temazepam)||temazepam
+gentamicine||gentamicin
+methylprednisolone nos||methylprednisolone
+gentamicine panpharma||gentamicin
+methylprednisolone tablets||methylprednisolone
+methylprednisolone tablets 4mg||methylprednisolone
+methylprednisolone tablets usp||methylprednisolone
+geritol complete||chlorpheniramine
+reuquinol (hydroxychloroquine sulfate)||hydroxychloroquine
+revatio (sildenafil citrate)||sildenafil
+revatio (sildenafil citrate) (unknown)||sildenafil
+revatio (sildenafil citrate) (unknown) (sildenafil)||sildenafil
+metoclopramid [metoclopramide]||metoclopramide
+metoclopramide (metoclopramide)||metoclopramide
+metoclopramide (unknown)||metoclopramide
+metoclopramide dihydrochloride||metoclopramide
+metoclopramide hcl||metoclopramide
+metoject pen||methotrexate
+metoprolol (metoprolol tartrate)||metoprolol
+metoprolol (metoprolol)||metoprolol
+metoprolol (metoprolol) (metoprolol)||metoprolol
+metoprolol (metoprolol) (unknown)||metoprolol
+metoprolol (unknown)||metoprolol
+metoprolol (watson laboratories)||metoprolol
+metoprolol 50mg||metoprolol
+metoprolol [metoprolol tartrate]||metoprolol
+metoprolol er||metoprolol
+metoprolol er succinate||metoprolol
+metoprolol fumarate||metoprolol
+metoprolol mylan||metoprolol
+metoprolol salt not specified||metoprolol
+metoprolol stada||metoprolol
+metoprolol suc||metoprolol
+metoprolol succ||metoprolol
+metoprolol succ ct||metoprolol
+metoprolol succ er||metoprolol
+metoprolol succinate (metoprolol succinate)||metoprolol
+metoprolol tar||metoprolol
+metoprolol tart||metoprolol
+metoprolol tartarate||metoprolol
+metoprolol tartras||metoprolol
+metoprolol tartrate (metoprolol tartrate)||metoprolol
+metoprolol tartrate (metoprolol tartrate) unknown||metoprolol
+metoprolol tartrate tablets usp||metoprolol
+metoprolol xl||metoprolol
+metoprololsuccinaat||metoprolol
+metoprololsuccinat||metoprolol
+metoprololsuccinat 1a pharma||metoprolol
+metoprololsuccinat hexal||metoprolol
+metoprololtartrat||metoprolol
+metotrexato (418a)||methotrexate
+metotrexato [methotrexate]||methotrexate
+metronidazol [metronidazole]||metronidazole
+metronidazole (metronidazole)||metronidazole
+metronidazole (unknown)||metronidazole
+metronidazole b braun||metronidazole
+metronidazole cream (metronidazole) 0.75%||metronidazole
+metronidazole tablet||metronidazole
+metypred [methylprednisolone]||methylprednisolone
+mevacor tablet||lovastatin
+mezavant also known as mesalamine||mesalazine
+mezavant xl||mesalazine
+mianserin hydrochloride||mianserin
+mianserine [mianserin hydrochloride]||mianserin
+mianserine arrow||mianserin
+mianserine hcl||mianserin
+micafungin sodium||micafungin
+micardis (telmisartan)||telmisartan
+micro k||chloroxylenol
+micro-k||chloroxylenol
+microgynon||chloroxylenol
+microlax||chloroxylenol
+microlet||chloroxylenol
+micropakine||chloroxylenol
+micropirin||chloroxylenol
+microval||chloroxylenol
+midazolam (midazolam)||midazolam
+midazolam hydrochloride injection||midazolam
+midazolam maleate||midazolam
+midazolam mylan||midazolam
+milnacipran - bp||milnacipran
+milnacipran hydrochloride||milnacipran

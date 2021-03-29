@@ -1,0 +1,9 @@
+*.pyc
+.idea
+__pycache__/*
+Data/*
+figs/*
+misc/F*
+misc/FAERS/*
+old/*
+*.zip
