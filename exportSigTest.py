@@ -56,7 +56,6 @@ def exportBySE(seNames):
 
         ses = set(ses.split(","))
 
-
         for se in seNames:
             dCombCountx = utils.get_insert_key_dict(dCombCount, se, dict())
             utils.add_dict_counter(dCombCountx, drugCmb)
@@ -159,7 +158,12 @@ def exportAllSes():
     # seList = ['product dose omission']
     nSize = 10
     import os
-    os.system("rm '%s/FTest/*'" % params.FADER_OUT)
+    p = "%s/FTest/*" % params.FADER_OUT
+    p = p.replace(" ", '\ ')
+
+    cmd = "rm %s" % p
+
+    os.system(cmd)
     fFileNameMap = open("%s/FTest/FileMap.txt" % params.FADER_OUT, "w")
     fFileNameMap.close()
 
@@ -167,7 +171,7 @@ def exportAllSes():
 
     for i in range(nSeg):
         start = i * nSize
-        end = min((i+1) * nSize, len(seList))
+        end = min((i + 1) * nSize, len(seList))
 
         exportBySE(seList[start:end])
 
