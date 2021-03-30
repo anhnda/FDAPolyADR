@@ -15,13 +15,17 @@ def producer(queue, arrs):
         queue.put([com, p])
 
 
-def consumer(queue, counter, counter2, fout=None):
+def consumer(queue, counter, counter2, fout=None, caches = None):
     while True:
         data = queue.get()
         if data is None:
             print("Receive terminate signal")
             with counter.get_lock():
                 counter.value = 1
+            if caches is not None:
+                for line in caches:
+                    fout.write("%s" % line)
+
             fout.flush()
             break
         com, p = data
@@ -32,11 +36,14 @@ def consumer(queue, counter, counter2, fout=None):
         if fout is not None:
             ord, pv = p
             if pv <= P_THRESHOLD:
-                fout.write("%s\t%s\t%s\n" % (com, ord, pv))
+                if caches is None:
+                    fout.write("%s\t%s\t%s\n" % (com, ord, pv))
+                else:
+                    caches.append("%s\t%s\t%s\n" % (com, ord, pv))
 
 
 def exportBySE(seNames):
-    fin = open("%s/FDrug2SeList_20050.txt" % params.FADER_OUT)
+    fin = open("%s/FDrug2SeList_19984.txt" % params.FADER_OUT)
     dCombCount = dict()
     dCombSe = dict()
     dSe = dict()
@@ -65,7 +72,7 @@ def exportBySE(seNames):
                 utils.add_dict_counter(dComSEx, drugCmb)
 
     fin.close()
-    print("Cal Contigence table...")
+    print("Cal Contingency table...")
     dContigenTable = dict()
 
     for se in seNames:
@@ -75,7 +82,9 @@ def exportBySE(seNames):
         for drugComb, nComb in dCombCountx.items():
             ar = np.zeros((2, 2))
             nCombSe = utils.get_dict(dComSEx, drugComb, 0)
-
+            if nCombSe == 0:
+                # print("SKIP")
+                continue
             ar[0, 0] = nCombSe
             ar[1, 0] = nComb - nCombSe
             ar[0, 1] = nSe - nCombSe
@@ -110,7 +119,7 @@ def exportBySE(seNames):
     fFileNameMap.close()
 
     fout = open("%s/FTest/%s" % (params.FADER_OUT, seNameString), "w")
-    p = Process(target=consumer, args=(queue, counter, counter2, fout))
+    p = Process(target=consumer, args=(queue, counter, counter2, fout, []))
     p.daemon = True
     consumers.append(p)
 
@@ -156,7 +165,7 @@ def exportAllSes():
     seList = list(validSEs)
 
     # seList = ['product dose omission']
-    nSize = 10
+    nSize = 40
     import os
     p = "%s/FTest/*" % params.FADER_OUT
     p = p.replace(" ", '\ ')
