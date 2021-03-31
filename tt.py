@@ -47,9 +47,7 @@ re[~mask] = float('-inf')
 # print(re)
 
 
-
 ere = torch.exp(re)
-
 
 print(ere)
 
