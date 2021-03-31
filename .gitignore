@@ -1,9 +1,10 @@
 *.pyc
 .idea
 __pycache__/*
-Data/*
+Data/DrugBank/DrugMo*
 figs/*
 misc/F*
 misc/FAERS/*
 old/*
 *.zip
+logs/
