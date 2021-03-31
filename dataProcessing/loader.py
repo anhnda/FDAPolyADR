@@ -76,7 +76,7 @@ def exportPolySes():
                 seg = trains
             seg.append(kv)
 
-        utils.save_obj((dDrug, dSe, trains, tests, validates), "%s_%s" % (params.FADER_KFOLD, iFold))
+        utils.save_obj((dDrug, dSe, trains, tests, validates), "%s/_%s" % (params.FADER_KFOLD, iFold))
 
 
 def loadFold(iFold):

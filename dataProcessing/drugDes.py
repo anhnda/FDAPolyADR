@@ -56,6 +56,6 @@ def fillMissingSMILEs():
     utils.save_obj(d, "%s/DrugBank/DrugMorganDes" % params.DATA_DIR)
 
 if __name__ == "__main__":
-    # exportMorginFingerprint()
+    exportMorginFingerprint()
     # fillMissingSMILEs()
     pass
