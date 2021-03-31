@@ -9,7 +9,7 @@ FIG_DIR = "%s/figs" % C_DIR
 FADER_DIR = "/media/anhnd/Data/FAERS/Extract"
 
 FADER_OUT = "%s/FAERS" % OUTPUT_DIR
-
+FADER_KFOLD = "%s/KFolds" % FADER_OUT
 FULL_DRUGBANK_NAMES = "%s/DrugBank/DrugBankNames.txt" % DATA_DIR
 
 DRUGBANK_ATC_INCHI = "%s/DrugBank/ATC_2_Inchikeys.txt" % DATA_DIR
@@ -81,8 +81,9 @@ R_TYPE = "L1"
 
 
 LAYER_WEIGHT = True
-EMBEDDING_SIZE = 20
+EMBEDDING_SIZE = 100
 
+MAX_N_DRUG = 10
 
 NUM_LISTI_WORKER = 10
 N_DATA_WORKER = 5
@@ -93,3 +94,4 @@ VISUAL = False
 EXPORT_TOP_NEG = False
 
 
+BATCH_SIZE = 20000

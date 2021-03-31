@@ -1,0 +1,26 @@
+class FFNN(torch.nn.Module):
+    def __init__(self, embeddingSize, nSe, nD, nLayer=params.N_LAYER, device=torch.device('cpu')):
+        super(FFNN, self).__init__()
+
+        self.model = nn.Sequential()
+        self.model.add_module('inp', nn.Linear(nD, embeddingSize).to(device))
+        self.model.add_module('relu1', nn.ReLU())
+        for i in range(nLayer):
+            self.model.add_module('layer_%s' % i, nn.Linear(embeddingSize, embeddingSize).to(device))
+            self.model.add_module('relu_%s' % i, nn.ReLU())
+        self.model.add_module('out', nn.Linear(embeddingSize, nSe).to(device))
+        self.model.add_module('reluo',  nn.ReLU())
+
+    def forward(self, inp):
+        return self.model(inp)
+
+('Test: ', 0.4911808124111805, 0.004779143943082105)
+('Valid: ', 0.4919772491882164, 0.004810230353867605)
+('Test: ', 0.5272206133844071, 0.007278943232008584)
+('Valid: ', 0.5259869145217099, 0.007184838116019267)
+('Test: ', 0.5314069772706926, 0.010527795849961902)
+('Valid: ', 0.5300485659102608, 0.010340909059197642)
+('Test: ', 0.5314481652961993, 0.012754334625241184)
+('Valid: ', 0.529936145713785, 0.012327070891150382)
+('Test: ', 0.5365035746740793, 0.014187283596804759)
+('Valid: ', 0.534734649451503, 0.013658927332794581)

@@ -1,0 +1,16 @@
+class FFNN(torch.nn.Module):
+    def __init__(self, embeddingSize, nSe, nD, nLayer=params.N_LAYER, device=torch.device('cpu')):
+        super(FFNN, self).__init__()
+
+        self.model = nn.Sequential()
+        self.model.add_module('inp', nn.Linear(nD, embeddingSize).to(device))
+        self.model.add_module('relu1', F.relu)
+        for i in range(nLayer):
+            self.model.add_module('layer_%s' % i, nn.Linear(embeddingSize, embeddingSize).to(device))
+            self.model.add_module('relu_%s' % i, F.relu)
+        self.model.add_module('out', nn.Linear(embeddingSize, nSe).to(device))
+        self.model.add_module('reluo', F.relu)
+
+    def forward(self, inp):
+        return self.model(inp)
+
