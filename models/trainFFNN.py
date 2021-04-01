@@ -6,10 +6,17 @@ from dataProcessing.loader import PolySEData
 from sklearn.metrics import roc_auc_score, average_precision_score
 import inspect
 
+
 def getMSE(a1, a2):
     v = a1 - a2
     v = np.multiply(v, v)
     return np.sqrt(np.sum(v) / (v.shape[0] * v.shape[0]))
+
+
+def weightMSELoss(target, pred):
+    mask = torch.ones(target.size())
+    mask[target == 0] = params.WEIGHT_ZERO
+    return torch.sum(mask * (target - pred) ** 2)
 
 
 class FFNNModel:
@@ -28,7 +35,7 @@ class FFNNModel:
     def train(self, iFold):
         polySeData = PolySEData(iFold)
 
-        model = FFNN(params.EMBEDDING_SIZE, polySeData.nSe, polySeData.nD, nLayer= params.N_LAYER,
+        model = FFNN(params.EMBEDDING_SIZE, polySeData.nSe, polySeData.nD, nLayer=params.N_LAYER,
                      device=self.device)
         self.model = model.to(self.device)
 
@@ -43,7 +50,7 @@ class FFNNModel:
             optimizer.zero_grad()
             trainInp, trainOut = polySeData.getNextMinibatchTrain(params.BATCH_SIZE, totorch=True)
             trainPred = self.model(trainInp)
-            lss = lossFunc(trainOut, trainPred)
+            lss = weightMSELoss(trainOut, trainPred)  # lossFunc(trainOut, trainPred)
             lss.backward()
             optimizer.step()
 
@@ -65,12 +72,7 @@ class FFNNModel:
                     self.logger.infoAll(("Valid: ", aucValid, auprValid))
 
 
-
-
-
-
 def evalAUCAUPR1(target, pred):
-
     target = target.reshape(-1)
     pred = pred.reshape(-1)
 
