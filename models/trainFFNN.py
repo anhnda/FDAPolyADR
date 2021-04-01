@@ -13,10 +13,15 @@ def getMSE(a1, a2):
     return np.sqrt(np.sum(v) / (v.shape[0] * v.shape[0]))
 
 
-def weightMSELoss(target, pred):
+def weightMSELoss(target, pred, device=None, avg=True):
     mask = torch.ones(target.size())
+    if device is not None:
+        mask = mask.to(device)
     mask[target == 0] = params.WEIGHT_ZERO
-    return torch.sum(mask * (target - pred) ** 2)
+    loss = torch.sum(mask * (target - pred) ** 2)
+    if avg:
+        loss /= target.size()[0]
+    return loss
 
 
 class FFNNModel:
@@ -48,25 +53,27 @@ class FFNNModel:
 
         for i in range(params.N_ITER):
             optimizer.zero_grad()
-            trainInp, trainOut = polySeData.getNextMinibatchTrain(params.BATCH_SIZE, totorch=True)
+            trainInp, trainOut = polySeData.getNextMinibatchTrain(params.BATCH_SIZE, totorch=True, device=self.device)
+
             trainPred = self.model(trainInp)
-            lss = weightMSELoss(trainOut, trainPred)  # lossFunc(trainOut, trainPred)
+            lss = weightMSELoss(trainOut, trainPred, self.device)  # lossFunc(trainOut, trainPred)
             lss.backward()
             optimizer.step()
+            print(lss)
 
             if i % 20 == 0:
                 with torch.no_grad():
                     # testPred = []
                     # validPred = []
-
-                    testInp, testOut, _ = polySeData.getNextMinibatchTest(-1, True)
-                    validInp, validOut, _ = polySeData.getNextMinibatchValid(-1, True)
+                    polySeData.resetOnePassIndx()
+                    testInp, testOut, _ = polySeData.getNextMinibatchTest(-1, True, device=self.device)
+                    validInp, validOut, _ = polySeData.getNextMinibatchValid(-1, True, device=self.device)
 
                     testPred = self.model(testInp)
                     validPred = self.model(validInp)
 
-                    aucTest, auprTest = evalAUCAUPR1(testOut, testPred)
-                    aucValid, auprValid = evalAUCAUPR1(validOut, validPred)
+                    aucTest, auprTest = evalAUCAUPR1(testOut, testPred.cpu().detach())
+                    aucValid, auprValid = evalAUCAUPR1(validOut, validPred.cpu().detach())
 
                     self.logger.infoAll(("Test: ", aucTest, auprTest))
                     self.logger.infoAll(("Valid: ", aucValid, auprValid))

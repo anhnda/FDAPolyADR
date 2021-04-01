@@ -1,10 +1,8 @@
 cisplatin
 temoporfin
 tricarbonyl(1,10-phenanthroline)rhenium(1+)
-chlorine dioxide
 n-methylmesoporphyrin containing copper
 tetrafluoroaluminate ion
-5-chloryl-2,4,6-quinazolinetriamine
 trifluoro-[hydroxy-[hydroxy-[2-(n-methyl-2-nitro-anilino)ethoxy]phosphoryl]oxy-phosphoryl]oxy-beryllium(1-)
 cyanocobalamin co-57
 oxaliplatin

@@ -152,25 +152,30 @@ class PolySEData:
         self.currentTestIdx = 0
         self.currentValidIdx = 0
 
-    def getNextMinibatchTrain(self, batchSize, totorch=False):
+    def getNextMinibatchTrain(self, batchSize, totorch=False, device=None):
         trainMinibatch, self.currentTrainIdx = self.__getNextRaw(self.trains, batchSize, self.currentTrainIdx)
         matInp, matOut = self.__convertSegData2Binary(trainMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
             matOut = torch.from_numpy(matOut).float()
+            if device is not None:
+                matInp = matInp.to(device)
+                matOut = matOut.to(device)
         return matInp, matOut
 
-    def getNextMinibatchTest(self, batchSize, totorch=False):
+    def getNextMinibatchTest(self, batchSize, totorch=False, device=None):
 
-        testMinibatch, self.currentTestIdx = self.__getNextRaw(self.tests, batchSize, self.currentTestIdx,
-                                                               shuffle=False, onePass=True)
+        testMinibatch, self.currentTestIdx = self.__getNextRaw(self.tests, batchSize, self.currentTestIdx, shuffle=False, onePass=True)
         matInp, matOut = self.__convertSegData2Binary(testMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
             matOut = torch.from_numpy(matOut).float()
+            if device is not None:
+                matInp = matInp.to(device)
+                # matOut = matOut.to(device)
         return matInp, matOut, self.currentTestIdx
 
-    def getNextMinibatchValid(self, batchSize, totorch=False):
+    def getNextMinibatchValid(self, batchSize, totorch=False, device=None):
 
         validMinibatch, self.currentValidIdx = self.__getNextRaw(self.validates, batchSize, self.currentValidIdx,
                                                                  shuffle=False, onePass=True)
@@ -178,6 +183,9 @@ class PolySEData:
         if totorch:
             matInp = torch.from_numpy(matInp).float()
             matOut = torch.from_numpy(matOut).float()
+            if device is not None:
+                matInp = matInp.to(device)
+                # matOut = matOut.to(device)
         return matInp, matOut, self.currentTestIdx
 
 
