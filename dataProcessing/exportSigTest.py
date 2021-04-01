@@ -12,7 +12,7 @@ def producer(queue, arrs):
     for comAr in arrs:
         com, ar = comAr
         p = fisher_exact(ar, 'greater')
-        queue.put([com, p])
+        queue.put([com, ar[0,0], p])
 
 
 def consumer(queue, counter, counter2, fout=None, caches = None):
@@ -28,7 +28,7 @@ def consumer(queue, counter, counter2, fout=None, caches = None):
 
             fout.flush()
             break
-        com, p = data
+        com, cc, p = data
         with counter2.get_lock():
             counter2.value += 1
 
@@ -37,9 +37,9 @@ def consumer(queue, counter, counter2, fout=None, caches = None):
             ord, pv = p
             if pv <= P_THRESHOLD:
                 if caches is None:
-                    fout.write("%s\t%s\t%s\n" % (com, ord, pv))
+                    fout.write("%s\t%s\t%s\t%s\n" % (com, cc, ord, pv))
                 else:
-                    caches.append("%s\t%s\t%s\n" % (com, ord, pv))
+                    caches.append("%s\t%s\t%s\t%s\n" % (com,cc, ord, pv))
 
 
 def exportBySE(seNames):

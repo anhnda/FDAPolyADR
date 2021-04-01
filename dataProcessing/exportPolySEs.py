@@ -25,7 +25,10 @@ def exportPolySEs():
         for polySe in polySes:
             polySe = polySe.strip().split("_")
             drugComb = polySe[0]
-            se = polySe[1].split("\t")[0]
+            seParts = polySe[1].split("\t")
+            se = seParts[0]
+            if seParts[1] == 'inf':
+                pass
             drugs = drugComb.split(",")
             isValidComb = True
             # print(drugs)
