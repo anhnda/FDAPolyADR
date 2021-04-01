@@ -74,7 +74,8 @@ LEARN_WEIGHT_LAST = True
 
 
 
-N_LAYER = 2
+N_LAYER = 1
+
 
 LAMBDA_R = 0.1
 R_TYPE = "L1"

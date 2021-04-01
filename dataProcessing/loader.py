@@ -80,7 +80,7 @@ def exportPolySes():
 
 
 def loadFold(iFold):
-    path = "%s_%s" % (params.FADER_KFOLD, iFold)
+    path = "%s/_%s" % (params.FADER_KFOLD, iFold)
     dDes = utils.load_obj("%s/DrugBank/DrugMorganDes" % params.DATA_DIR)
     dDrug, dSe, trains, tests, validates = utils.load_obj(path)
     return dDrug, dSe, trains, tests, validates, dDes

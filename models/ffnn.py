@@ -9,13 +9,27 @@ class FFNN(torch.nn.Module):
         super(FFNN, self).__init__()
 
         self.model = nn.Sequential()
-        self.model.add_module('inp', nn.Linear(nD, embeddingSize).to(device))
+        mm = nn.Linear(nD, embeddingSize).to(device)
+        # mm.weight.data.uniform_(0.001, 1)
+        torch.nn.init.xavier_uniform_(mm.weight.data)
+        self.model.add_module('inp', mm)
         self.model.add_module('relu1', nn.ReLU())
         for i in range(nLayer):
-            self.model.add_module('layer_%s' % i, nn.Linear(embeddingSize, embeddingSize).to(device))
+            mm = nn.Linear(embeddingSize, embeddingSize).to(device)
+            # mm.weight.data.uniform_(0.001, 1)
+            torch.nn.init.xavier_uniform_(mm.weight.data)
+
+            self.model.add_module('layer_%s' % i, mm)
             self.model.add_module('relu_%s' % i, nn.ReLU())
-        self.model.add_module('out', nn.Linear(embeddingSize, nSe).to(device))
-        self.model.add_module('reluo',  nn.ReLU())
+
+
+        mm = nn.Linear(embeddingSize, nSe).to(device)
+        # mm.weight.data.uniform_(0.001, 1)
+        torch.nn.init.xavier_uniform_(mm.weight.data)
+
+
+        self.model.add_module('out', mm)
+        self.model.add_module('reluo', nn.ReLU())
 
     def forward(self, inp):
         return self.model(inp)
