@@ -59,10 +59,11 @@ class FFNNModel:
             lss = weightMSELoss(trainOut, trainPred, self.device)  # lossFunc(trainOut, trainPred)
             lss.backward()
             optimizer.step()
-            print(lss)
+            # print(lss)
 
             if i % 20 == 0:
                 with torch.no_grad():
+                    print("ITER: ", i)
                     # testPred = []
                     # validPred = []
                     polySeData.resetOnePassIndx()
