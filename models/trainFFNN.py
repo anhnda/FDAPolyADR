@@ -45,6 +45,7 @@ class FFNNModel:
         self.model = model.to(self.device)
 
         lossFunc = torch.nn.MSELoss()
+        topks = [i * 5 for i in range(1, 10)]
 
         if params.OPTIMIZER == "Adam":
             optimizer = torch.optim.Adam(self.model.parameters(), lr=0.01)
@@ -73,12 +74,35 @@ class FFNNModel:
                     testPred = self.model(testInp)
                     validPred = self.model(validInp)
 
-                    aucTest, auprTest = evalAUCAUPR1(testOut, testPred.cpu().detach())
-                    aucValid, auprValid = evalAUCAUPR1(validOut, validPred.cpu().detach())
+                    # aucTest, auprTest = evalAUCAUPR1(testOut, testPred.cpu().detach())
+                    # aucValid, auprValid = evalAUCAUPR1(validOut, validPred.cpu().detach())
+                    # self.logger.infoAll(("Test: ", aucTest, auprTest))
+                    # self.logger.infoAll(("Valid: ", aucValid, auprValid))
 
-                    self.logger.infoAll(("Test: ", aucTest, auprTest))
-                    self.logger.infoAll(("Valid: ", aucValid, auprValid))
+                    precTests, recallTests = evalX(testOut, testPred.cpu().detach())
+                    precVals, recallValis = evalX(validOut, validPred.cpu().detach())
 
+                    self.logger.infoAll(("Test: ", precTests, recallTests))
+                    self.logger.infoAll(("Valid: ", precVals, recallValis))
+def getPrecisionRecall(target, predictIndices):
+    pred = torch.zeros(target.size())
+    topk = predictIndices.shape[-1]
+    pred[predictIndices] = 1
+    pred[pred == target] = 1
+    s0 = torch.sum(pred, dim=-1)
+    ln = topk.sum(target, dim=-1)
+    prec = s0 / topk
+    recall = s0 / ln
+    return prec, recall
+
+def evalX(target, pred, topks):
+    precisionKs, recallKs = [], []
+    for topk in topks:
+        _, predTopKIndices = torch.topk(topk, pred)
+        prec, recall = getPrecisionRecall(target, predTopKIndices)
+        precisionKs.append(prec)
+        recallKs.append(recall)
+    return precisionKs, recallKs
 
 def evalAUCAUPR1(target, pred):
     target = target.reshape(-1)

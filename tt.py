@@ -48,7 +48,7 @@ re[~mask] = float('-inf')
 
 
 ere = torch.exp(re)
-
+re2 = torch.softmax(re, dim=-1)
 print(ere)
 
 sere = torch.sum(ere, -1)
@@ -59,3 +59,4 @@ print(v)
 
 re2 = torch.softmax(re, dim=-1)
 print(re2)
+
