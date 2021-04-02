@@ -14,6 +14,7 @@ def convertToIndices(indices):
     return ar
 
 def setValue(tensor, indices, value):
+    indices = convertToIndices(indices)
     tensor[tuple(indices)] = value
 
 indices  = convertToIndices(indices)

@@ -194,9 +194,10 @@ def getPrecisionRecall(target, predictIndices):
     pred = torch.zeros(target.size())
     nP, topk = predictIndices.shape[0], predictIndices.shape[-1]
     print(predictIndices.shape)
-    print(predictIndices)
+    # print(predictIndices)
     print(nP, topk, target.shape, predictIndices.shape)
-    pred[predictIndices] = 1
+    setValue(pred, predictIndices, 1)
+    # pred[predictIndices] = 1
     pred[target == 0] = 0
 
     s0 = torch.sum(pred, dim=-1)
@@ -231,6 +232,18 @@ def evalAUCAUPR1(target, pred):
     auc = roc_auc_score(target, pred)
     return auc, aupr
 
+
+
+def convertToIndices(indices):
+    nD, nC = indices.shape
+    ar = torch.arange(0, nD)
+    ar = ar.repeat(nC, 1).t()
+    ar = torch.vstack([ar.reshape(-1), indices.reshape(-1)])
+    return ar
+
+def setValue(tensor, indices, value):
+    indices = convertToIndices(indices)
+    tensor[tuple(indices)] = value
 
 if __name__ == "__main__":
     pass
