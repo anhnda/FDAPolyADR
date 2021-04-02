@@ -94,6 +94,8 @@ class PolySEData:
 
     def __loadRawFold(self, iFold):
         self.dDrug, self.dSe, self.trains, self.tests, self.validates, self.dDes = loadFold(iFold)
+        self.id2Drug = utils.reverse_dict(self.dDrug)
+        self.id2Se = utils.reverse_dict(self.dSe)
         self.nD = len(self.dDrug)
         self.nSe = len(self.dSe)
         self.currentTrainIdx = 0
@@ -188,8 +190,27 @@ class PolySEData:
                 # matOut = matOut.to(device)
         return matInp, matOut, self.currentTestIdx
 
+def debug():
+    iFold = 1
+    polySE = PolySEData(iFold)
+    matInp, matOut, _ = polySE.getNextMinibatchTest(-1)
+
+    for ii in range(10):
+        print(ii)
+        t3 = matInp[ii]
+        to3 =  matOut[ii]
+        nzd = np.nonzero(t3)[0]
+        nzs = np.nonzero(to3)[0]
+        dId2Drug = utils.reverse_dict(polySE.dDrug)
+        dId2Se = utils.reverse_dict(polySE.dSe)
+
+        drugNames = [dId2Drug[i] for i in nzd]
+        seNames = [dId2Se[i] for i in nzs]
+        print(",".join(drugNames))
+        print(",".join(seNames))
 
 if __name__ == "__main__":
     np.random.seed(params.TORCH_SEED)
     random.seed(params.TORCH_SEED)
-    exportPolySes()
+    # exportPolySes()
+    debug()

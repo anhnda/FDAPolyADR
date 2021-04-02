@@ -28,7 +28,7 @@ class ModelRunner:
         self.model.setLogger(self.logger)
 
     def run(self):
-        folds = np.arange(0, params.K_FOLD)
+        folds = np.arange(1, params.K_FOLD)
         for iFold in folds:
             self.model.train(iFold)
 
