@@ -1,4 +1,4 @@
-from models.ffnn import FFNN
+from models.mili import MILI
 import params
 import torch
 import numpy as np
@@ -26,29 +26,29 @@ def weightMSELoss(target, pred, device=None, avg=True):
     return loss
 
 
-class FFNNModel:
+class MILIModel:
     def __init__(self):
         if params.FORCE_CPU:
             self.device = torch.device('cpu')
         else:
             self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        self.name = "FFNN"
+        self.name = "MILI"
         self.isFitAndPredict = True
 
     def setLogger(self, logger):
         self.logger = logger
-        self.logger.infoAll(inspect.getsource(FFNN))
+        self.logger.infoAll(inspect.getsource(MILI))
 
     def train(self, iFold):
         print("Fold: ", iFold)
         polySeData = PolySEData(iFold, nmaxDrug=params.MAX_N_DRUG, nChanel=params.N_CHANEL)
 
-        model = FFNN(params.EMBEDDING_SIZE, polySeData.nSe, polySeData.nD, nLayer=params.N_LAYER,
-                     device=self.device)
+        model = MILI(embeddingSize=params.EMBEDDING_SIZE, inputDim=polySeData.featureSize, C=params.N_CHANEL,
+                     DK=params.DK, nSe=polySeData.nSe, nD=polySeData.nD, nLayer=params.N_LAYER, )
         self.model = model.to(self.device)
 
         lossFunc = torch.nn.MSELoss()
-        topks = [i  for i in range(1, 20)]
+        topks = [i for i in range(1, 20)]
 
         if params.OPTIMIZER == "Adam":
             optimizer = torch.optim.Adam(self.model.parameters(), lr=0.01)
@@ -57,9 +57,9 @@ class FFNNModel:
 
         for i in range(params.N_ITER):
             optimizer.zero_grad()
-            trainInp, trainOut, _ = polySeData.getNextMinibatchTrain(params.BATCH_SIZE, totorch=True, device=self.device)
+            trainInp, trainOut, mask = polySeData.getNextMinibatchTrain(params.BATCH_SIZE, isFeature=True, device=self.device)
             # self.db(polySeData)
-            trainPred = self.model(trainInp)
+            trainPred = self.model(trainInp, mask)
             lss = weightMSELoss(trainOut, trainPred, self.device)  # lossFunc(trainOut, trainPred)
             lss.backward()
             optimizer.step()
@@ -73,14 +73,14 @@ class FFNNModel:
                     polySeData.resetOnePassIndx()
                     # print("DB BEFORE")
                     # db(polySeData)
-                    testInp, testOut, _ = polySeData.getNextMinibatchTest(-1, True, device=self.device)
-                    validInp, validOut, _ = polySeData.getNextMinibatchValid(-1, True, device=self.device)
+                    testInp, testOut, maskTest = polySeData.getNextMinibatchTest(-1, totorch=True, isFeature=True, device=self.device)
+                    validInp, validOut, maskValid = polySeData.getNextMinibatchValid(-1,totorch= True, isFeature=True, device=self.device)
 
                     polySeData.resetOnePassIndx()
-                    testInp2, testOut2, _ = polySeData.getNextMinibatchTest(-1)
+                    # testInp2, testOut2, _ = polySeData.getNextMinibatchTest(-1)
 
                     testInpNumpy = testInp.cpu().detach().numpy()
-                    testOutNumpy = testOut.numpy()
+                    testOutNumpy = testOut.cpu().numpy()
 
                     # print(testInpNumpy.shape, testOutNumpy.shape)
                     # print(torch.nonzero(testInp[0]).squeeze(), torch.sum(testInp))
@@ -93,7 +93,7 @@ class FFNNModel:
                     # print("DB2")
                     # db2(testInpNumpy, testOutNumpy, polySeData)
 
-                    testPred = self.model(testInp)
+                    testPred = self.model(testInp, maskTest)
                     # validPred = self.model(validInp)
 
                     # aucTest, auprTest = evalAUCAUPR1(testOut, testPred.cpu().detach())
@@ -109,7 +109,7 @@ class FFNNModel:
 
                     # evalX(testOut[:10], testPred.cpu().detach()[:10], topks, testInp.cpu().detach()[:10], polySeData)
                     # evalX(testOut, testPred.cpu().detach(), topks)
-                    evalX(testOut, testPred.cpu().detach(), topks, testInp.cpu().detach(), polySeData)
+                    # evalX(testOut, testPred.cpu().detach(), topks, testInp.cpu().detach(), polySeData)
 
                     # exit(-1)
 
@@ -234,7 +234,6 @@ def evalAUCAUPR1(target, pred):
     return auc, aupr
 
 
-
 def convertToIndices(indices):
     nD, nC = indices.shape
     ar = torch.arange(0, nD)
@@ -242,9 +241,11 @@ def convertToIndices(indices):
     ar = torch.vstack([ar.reshape(-1), indices.reshape(-1)])
     return ar
 
+
 def setValue(tensor, indices, value):
     indices = convertToIndices(indices)
     tensor[tuple(indices)] = value
+
 
 if __name__ == "__main__":
     pass

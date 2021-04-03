@@ -1,5 +1,6 @@
 from utils.logger.logger2 import MyLogger
 from models.trainFFNN import FFNNModel
+from models.trainMili import MILIModel
 import params
 import random
 import torch
@@ -22,8 +23,9 @@ class ModelRunner:
         utils.ensure_dir("%s/logs" % params.C_DIR)
 
         PREX = "FDA"
-        logPath = "%s/logs/%s_%s_%s" % (params.C_DIR, PREX, "FFNN", utils.getCurrentTimeString())
-        self.model = FFNNModel()
+        logPath = "%s/logs/%s_%s_%s" % (params.C_DIR, PREX, "MILI", utils.getCurrentTimeString())
+        # self.model = FFNNModel()
+        self.model = MILIModel()
         self.logger = MyLogger(logPath)
         self.model.setLogger(self.logger)
         self.logger.infoAll((params.N_LAYER, params.EMBEDDING_SIZE, params.WEIGHT_ZERO))

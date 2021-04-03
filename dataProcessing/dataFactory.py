@@ -4,6 +4,7 @@ import random
 import numpy as np
 import torch
 
+
 def exportPolySes():
     dDrug = dict()
     dSe = dict()
@@ -87,8 +88,10 @@ def loadFold(iFold):
 
 
 class PolySEData:
-    def __init__(self, iFold):
+    def __init__(self, iFold, nmaxDrug=params.MAX_N_DRUG, nChanel = params.N_CHANEL):
         self.iFold = iFold
+        self.nMaxDrug = nmaxDrug
+        self.nChanel = nChanel
         self.__loadRawFold(iFold)
         pass
 
@@ -101,6 +104,8 @@ class PolySEData:
         self.currentTrainIdx = 0
         self.currentTestIdx = 0
         self.currentValidIdx = 0
+        self.featureSize = self.dDes[list(self.dDes.keys())[0]].shape[0]
+        print("Feature size: ", self.featureSize)
 
     def __getNextRaw(self, inps, batchSize, currentIdx, shuffle=True, onePass=False):
         l = len(inps)
@@ -136,7 +141,6 @@ class PolySEData:
             k, v = kv
             inp = np.zeros(self.nD)
             for drug in k:
-
                 inp[self.dDrug[drug]] = 1
             out = np.zeros(self.nSe)
             for se in v:
@@ -148,14 +152,61 @@ class PolySEData:
         matInp = np.vstack(matInp)
         matOut = np.vstack(matOut)
 
-        return matInp, matOut
+        return matInp, matOut, 0
+
+    def __genMask(self, maxSize, nInput, nChannel, anchors):
+
+        idx = torch.arange(maxSize).unsqueeze(0).unsqueeze(0).repeat((nInput, nChannel, 1))
+        len_expanded = anchors.unsqueeze(-1).unsqueeze(-1).expand((nInput, nChannel, maxSize))
+        mask = len_expanded > idx
+        return mask
+
+    def __convertSegData2FeatureTensor(self, data, device):
+        matOut = []
+
+        drugFeatureTensors = []
+        drugAnchors = []
+
+        for kv in data:
+            # print(kv)
+            drugs, ses = kv
+            drugCombFeature = []
+            for drug in drugs:
+
+                feature = self.dDes[drug]
+                drugCombFeature.append(feature)
+            zeros = np.zeros(self.featureSize)
+            drugAnchors.append(len(drug))
+            for ii in range(self.nMaxDrug - len(drugs)):
+                drugCombFeature.append(zeros)
+            drugCombFeature = np.asarray(drugCombFeature)
+            drugFeatureTensors.append(drugCombFeature)
+
+            out = np.zeros(self.nSe)
+            for se in ses:
+                out[self.dSe[se]] = 1
+
+            matOut.append(out)
+
+        matOut = torch.from_numpy(np.vstack(matOut)).float()
+        anchors = torch.tensor(drugAnchors)
+        drugFeatureTensors = np.asarray(drugFeatureTensors)
+        drugFeatureTensors = torch.from_numpy(drugFeatureTensors).float()
+        mask = self.__genMask(self.nMaxDrug, len(anchors), self.nChanel, anchors)
+
+        return drugFeatureTensors.to(device),matOut.to(device) ,mask.to(device)
 
     def resetOnePassIndx(self):
         self.currentTestIdx = 0
         self.currentValidIdx = 0
 
-    def getNextMinibatchTrain(self, batchSize, totorch=False, device=None):
+    def getNextMinibatchTrain(self, batchSize, isFeature = False, totorch=False, device=None):
         trainMinibatch, self.currentTrainIdx = self.__getNextRaw(self.trains, batchSize, self.currentTrainIdx)
+        if isFeature:
+            matInp, matOut, mask = self.__convertSegData2FeatureTensor(trainMinibatch, device)
+
+            return matInp, matOut, mask
+
         matInp, matOut = self.__convertSegData2Binary(trainMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
@@ -165,9 +216,13 @@ class PolySEData:
                 matOut = matOut.to(device)
         return matInp, matOut
 
-    def getNextMinibatchTest(self, batchSize, totorch=False, device=None):
+    def getNextMinibatchTest(self, batchSize,isFeature = False, totorch=False, device=None):
 
-        testMinibatch, self.currentTestIdx = self.__getNextRaw(self.tests, batchSize, self.currentTestIdx, shuffle=False, onePass=True)
+        testMinibatch, self.currentTestIdx = self.__getNextRaw(self.tests, batchSize, self.currentTestIdx,
+                                                               shuffle=False, onePass=True)
+        if isFeature:
+            matInp, matOut, mask = self.__convertSegData2FeatureTensor(testMinibatch, device)
+            return matInp, matOut, mask
         matInp, matOut = self.__convertSegData2Binary(testMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
@@ -177,10 +232,14 @@ class PolySEData:
                 # matOut = matOut.to(device)
         return matInp, matOut, self.currentTestIdx
 
-    def getNextMinibatchValid(self, batchSize, totorch=False, device=None):
+    def getNextMinibatchValid(self, batchSize,isFeature = False, totorch=False, device=None):
 
         validMinibatch, self.currentValidIdx = self.__getNextRaw(self.validates, batchSize, self.currentValidIdx,
                                                                  shuffle=False, onePass=True)
+        if isFeature:
+            matInp, matOut, mask = self.__convertSegData2FeatureTensor(validMinibatch, device)
+            return matInp, matOut, mask
+
         matInp, matOut = self.__convertSegData2Binary(validMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
@@ -190,6 +249,7 @@ class PolySEData:
                 # matOut = matOut.to(device)
         return matInp, matOut, self.currentTestIdx
 
+
 def debug():
     iFold = 1
     polySE = PolySEData(iFold)
@@ -198,7 +258,7 @@ def debug():
     for ii in range(10):
         print(ii)
         t3 = matInp[ii]
-        to3 =  matOut[ii]
+        to3 = matOut[ii]
         nzd = np.nonzero(t3)[0]
         nzs = np.nonzero(to3)[0]
         dId2Drug = utils.reverse_dict(polySE.dDrug)
@@ -208,6 +268,7 @@ def debug():
         seNames = [dId2Se[i] for i in nzs]
         print(",".join(drugNames))
         print(",".join(seNames))
+
 
 if __name__ == "__main__":
     np.random.seed(params.TORCH_SEED)

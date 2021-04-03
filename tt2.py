@@ -1,9 +1,8 @@
 import torch
-
+import numpy as np
 ar1 = torch.ones(3,5)
 indices = torch.tensor([[0,1, 2], [0, 2, 3], [0, 3, 4]]).long()
-print(ar1)
-print(indices)
+
 
 
 def convertToIndices(indices):
@@ -17,7 +16,14 @@ def setValue(tensor, indices, value):
     indices = convertToIndices(indices)
     tensor[tuple(indices)] = value
 
-indices  = convertToIndices(indices)
-print(indices)
-ar1[tuple(indices)] = 0
-print(ar1)
+
+v  = []
+for i in range(10000):
+    vv = []
+    for ii in range(4):
+        vi = np.zeros(2000)
+        vv.append(vi)
+    vv = np.asarray(vv)
+    v.append(vv)
+v = np.asarray(v)
+print(v.shape)
