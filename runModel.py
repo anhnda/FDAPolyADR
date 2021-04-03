@@ -26,6 +26,7 @@ class ModelRunner:
         self.model = FFNNModel()
         self.logger = MyLogger(logPath)
         self.model.setLogger(self.logger)
+        self.logger.infoAll((params.N_LAYER, params.EMBEDDING_SIZE, params.WEIGHT_ZERO))
 
     def run(self):
         folds = np.arange(1, params.K_FOLD)

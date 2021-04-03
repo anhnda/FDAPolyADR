@@ -48,7 +48,7 @@ class FFNNModel:
         self.model = model.to(self.device)
 
         lossFunc = torch.nn.MSELoss()
-        topks = [i * 20 for i in range(1, 5)]
+        topks = [i  for i in range(1, 20)]
 
         if params.OPTIMIZER == "Adam":
             optimizer = torch.optim.Adam(self.model.parameters(), lr=0.01)
@@ -107,20 +107,21 @@ class FFNNModel:
                     # self.logger.infoAll(("Test: ", precTests, recallTests))
                     # self.logger.infoAll(("Valid: ", precVals, recallValis))
 
-                    evalX(testOut[:10], testPred.cpu().detach()[:10], topks, testInp.cpu().detach()[:10], polySeData)
+                    # evalX(testOut[:10], testPred.cpu().detach()[:10], topks, testInp.cpu().detach()[:10], polySeData)
                     # evalX(testOut, testPred.cpu().detach(), topks)
+                    evalX(testOut, testPred.cpu().detach(), topks, testInp.cpu().detach(), polySeData)
 
                     # exit(-1)
 
 
 def evalX(target, pred, topks, input=None, polySE=None):
     if input is not None:
-        print(input.shape, target.shape, pred.shape)
+        # print(input.shape, target.shape, pred.shape)
 
         # db2(input.numpy(), target.numpy(), polySE)
         _, predTopK = torch.topk(pred, 5)
         predTopK = predTopK.numpy()
-        ids = [i for i in range(10)]
+        ids = [i for i in range(2)]
         # print(drugs, ses, predTopK)
         for id in ids:
             drugx = torch.nonzero(input[id]).squeeze().numpy()
@@ -128,7 +129,7 @@ def evalX(target, pred, topks, input=None, polySE=None):
             psesx = predTopK[id]
             drugx = np.atleast_1d(drugx)
             sesx = np.atleast_1d(sesx)
-            print(drugx, sesx, drugx.shape, sesx.shape)
+            # print(drugx, sesx, drugx.shape, sesx.shape)
             drugNames = [polySE.id2Drug[d] for d in drugx]
             seNames = [polySE.id2Se[s] for s in sesx]
             pses = [polySE.id2Se[s] for s in psesx]
@@ -193,9 +194,9 @@ def db(polySE):
 def getPrecisionRecall(target, predictIndices):
     pred = torch.zeros(target.size())
     nP, topk = predictIndices.shape[0], predictIndices.shape[-1]
-    print(predictIndices.shape)
+    # print(predictIndices.shape)
     # print(predictIndices)
-    print(nP, topk, target.shape, predictIndices.shape)
+    # print(nP, topk, target.shape, predictIndices.shape)
     setValue(pred, predictIndices, 1)
     # pred[predictIndices] = 1
     pred[target == 0] = 0
