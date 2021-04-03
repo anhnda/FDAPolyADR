@@ -11,6 +11,12 @@ class MILI(torch.nn.Module):
         self.WW = []
         self.VV = []
         self.device = device
+        self.nLayer = nLayer
+        self.nSe = nSe
+        self.nD = nD
+        self.C = C
+        self.DK = DK
+        self.embeddingSize = embeddingSize
         for i in range(nLayer):
             vi = torch.rand((C, embeddingSize, DK), requires_grad=True).to(device)
             wi = torch.rand((C, DK, 1), requires_grad=True).to(device)
@@ -23,13 +29,21 @@ class MILI(torch.nn.Module):
         outSize = C * nSe
 
         self.lo = nn.Linear(outSize, nSe).to(device)
-        self.nLayer = nLayer
     def forward(self, inp, mask):
-        x = self.li(inp)
+        re = self.li(inp)
         for i in range(self.nLayer):
-            re = torch.matmul(x, self.VV[i])
+            re1 = torch.matmul(re, self.VV[i])
+            re1 = torch.tanh(re1)
+            re1 = torch.matmul(re1, self.WW[i])
             if i == 0:
-                re[~mask] = float('-inf')
-            re = torch.softmax(re, dim=-1)
+                re1[~mask] = float('-inf')
+            re1 = torch.softmax(re1, dim=-1)
+            re1 = torch.unsqueeze(re1, -1)
+            re = torch.mul(re, re1)
+            re = torch.sum(re, dim=2)
+            re = torch.unsqueeze(re, 1)
 
-        return
+        re = re.reshape(re.size(0), -1)
+        out = F.relu(self.lo(re))
+
+        return out
