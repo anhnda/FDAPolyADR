@@ -24,8 +24,9 @@ re = torch.matmul(ipad, V)
 print("MULL V", re.shape)
 re = torch.tanh(re)
 
+print("MUL W", re.shape, w.shape)
 re = torch.matmul(re, w)
-
+print("AFTER MUL W", re.shape)
 idx = torch.arange(NP).unsqueeze(0).unsqueeze(0).repeat((B, C, 1))
 print(idx.shape)
 # print(idx)

@@ -1,4 +1,4 @@
-from models.mili import MILI
+from models.mil import MIL
 import params
 import torch
 import numpy as np
@@ -26,24 +26,24 @@ def weightMSELoss(target, pred, device=None, avg=True):
     return loss
 
 
-class MILIModel:
+class MILModel:
     def __init__(self):
         if params.FORCE_CPU:
             self.device = torch.device('cpu')
         else:
             self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        self.name = "MILI"
+        self.name = "MIL"
         self.isFitAndPredict = True
 
     def setLogger(self, logger):
         self.logger = logger
-        self.logger.infoAll(inspect.getsource(MILI))
+        self.logger.infoAll(inspect.getsource(MIL))
 
     def train(self, iFold):
         print("Fold: ", iFold)
         polySeData = PolySEData(iFold, nmaxDrug=params.MAX_N_DRUG, nChanel=params.N_CHANEL)
 
-        model = MILI(embeddingSize=params.EMBEDDING_SIZE, inputDim=polySeData.featureSize, C=params.N_CHANEL,
+        model = MIL(embeddingSize=params.EMBEDDING_SIZE, inputDim=polySeData.featureSize, C=params.N_CHANEL,
                      DK=params.DK, nSe=polySeData.nSe, nD=polySeData.nD, nLayer=params.N_LAYER, )
         self.model = model.to(self.device)
 

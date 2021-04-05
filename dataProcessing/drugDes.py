@@ -38,6 +38,7 @@ def exportMorginFingerprint():
                 fsmileMissng.write("%s\n" % drugName)
                 continue
     fin.close()
+    print(len(dName2Morgan))
     utils.save_obj(dName2Morgan, "%s/DrugBank/DrugMorganDes" % params.DATA_DIR)
 
 def fillMissingSMILEs():

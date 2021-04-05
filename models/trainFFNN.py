@@ -67,20 +67,20 @@ class FFNNModel:
 
             if i % 20 == 0:
                 with torch.no_grad():
-                    print("ITER: ", i)
+                    self.logger.infoAll(("ITER: ", i))
                     # testPred = []
                     # validPred = []
                     polySeData.resetOnePassIndx()
                     # print("DB BEFORE")
                     # db(polySeData)
-                    testInp, testOut, _ = polySeData.getNextMinibatchTest(-1, True, device=self.device)
-                    validInp, validOut, _ = polySeData.getNextMinibatchValid(-1, True, device=self.device)
+                    testInp, testOut, _ = polySeData.getNextMinibatchTest(-1, totorch=True, device=self.device)
+                    validInp, validOut, _ = polySeData.getNextMinibatchValid(-1, totorch=True, device=self.device)
 
                     polySeData.resetOnePassIndx()
                     testInp2, testOut2, _ = polySeData.getNextMinibatchTest(-1)
 
-                    testInpNumpy = testInp.cpu().detach().numpy()
-                    testOutNumpy = testOut.numpy()
+                    # testInpNumpy = testInp.cpu().detach().numpy()
+                    # testOutNumpy = testOut.cpu().numpy()
 
                     # print(testInpNumpy.shape, testOutNumpy.shape)
                     # print(torch.nonzero(testInp[0]).squeeze(), torch.sum(testInp))
@@ -92,7 +92,7 @@ class FFNNModel:
                     # db(polySeData)
                     # print("DB2")
                     # db2(testInpNumpy, testOutNumpy, polySeData)
-
+                    # print(testInp.shape)
                     testPred = self.model(testInp)
                     # validPred = self.model(validInp)
 
@@ -109,7 +109,12 @@ class FFNNModel:
 
                     # evalX(testOut[:10], testPred.cpu().detach()[:10], topks, testInp.cpu().detach()[:10], polySeData)
                     # evalX(testOut, testPred.cpu().detach(), topks)
-                    evalX(testOut, testPred.cpu().detach(), topks, testInp.cpu().detach(), polySeData)
+                    # evalX(testOut, testPred.cpu().detach(), topks, testInp.cpu().detach(), polySeData)
+                    # evalX(testOut, testPred.cpu().detach(), topks,None, None)
+
+                    prec, recall = evalX(testOut.cpu().detach(), testPred.cpu().detach(), topks, None, None)
+                    self.logger.infoAll(("Prec: ", prec))
+                    self.logger.infoAll(("Recal: ", recall))
 
                     # exit(-1)
 
@@ -146,8 +151,8 @@ def evalX(target, pred, topks, input=None, polySE=None):
         prec, recall = getPrecisionRecall(target, predTopKIndices)
         precisionKs.append(prec)
         recallKs.append(recall)
-    print(precisionKs)
-    print(recallKs)
+    # print(precisionKs)
+    # print(recallKs)
     return precisionKs, recallKs
 
 

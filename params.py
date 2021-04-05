@@ -6,7 +6,10 @@ OUTPUT_DIR = "%s/misc" % C_DIR
 FIG_DIR = "%s/figs" % C_DIR
 
 
-FADER_DIR = "/media/anhnd/Data/FAERS/Extract"
+if C_DIR.__contains__("ubuntu"):
+    FADER_DIR = "/home/ubuntu/Downloads/Data/FDA/Extract"
+else:
+    FADER_DIR = "/media/anhnd/Data/FAERS/Extract"
 
 FADER_OUT = "%s/FAERS" % OUTPUT_DIR
 FADER_KFOLD = "%s/KFolds" % FADER_OUT
@@ -71,14 +74,16 @@ LEARN_WEIGHT_IN = False
 LEARN_WEIGHT_LAST = True
 
 
-
-N_LAYER = 1
+METHOD = "MILI"
+N_LAYER = 2
 EMBEDDING_SIZE = 50
-N_ITER = 100
+N_ITER = 1000
+BATCH_SIZE = 30000
 
-N_CHANEL = 10
-DK = 20
-LAMBDA_R = 0.1
+
+WEIGHT_ZERO = 0.05
+N_CHANEL = 2
+DK = 40
 R_TYPE = "L1"
 
 
@@ -95,6 +100,4 @@ VISUAL = False
 EXPORT_TOP_NEG = False
 
 
-BATCH_SIZE = 10000
 
-WEIGHT_ZERO = 0.1

@@ -110,13 +110,15 @@ class PolySEData:
     def __getNextRaw(self, inps, batchSize, currentIdx, shuffle=True, onePass=False):
         l = len(inps)
         data = []
-        if batchSize == -1:
+        if batchSize == -1 or batchSize > l:
             batchSize = l
+
         end = currentIdx + batchSize
         remain = 0
         if end > l:
             remain = end - l
             end = l
+
         for i in range(currentIdx, end):
             data.append(inps[i])
         if remain > 0:
@@ -207,14 +209,14 @@ class PolySEData:
 
             return matInp, matOut, mask
 
-        matInp, matOut = self.__convertSegData2Binary(trainMinibatch)
+        matInp, matOut, _ = self.__convertSegData2Binary(trainMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
             matOut = torch.from_numpy(matOut).float()
             if device is not None:
                 matInp = matInp.to(device)
                 matOut = matOut.to(device)
-        return matInp, matOut
+        return matInp, matOut, 0
 
     def getNextMinibatchTest(self, batchSize,isFeature = False, totorch=False, device=None):
 
@@ -223,7 +225,7 @@ class PolySEData:
         if isFeature:
             matInp, matOut, mask = self.__convertSegData2FeatureTensor(testMinibatch, device)
             return matInp, matOut, mask
-        matInp, matOut = self.__convertSegData2Binary(testMinibatch)
+        matInp, matOut, _ = self.__convertSegData2Binary(testMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
             matOut = torch.from_numpy(matOut).float()
@@ -240,7 +242,7 @@ class PolySEData:
             matInp, matOut, mask = self.__convertSegData2FeatureTensor(validMinibatch, device)
             return matInp, matOut, mask
 
-        matInp, matOut = self.__convertSegData2Binary(validMinibatch)
+        matInp, matOut, _ = self.__convertSegData2Binary(validMinibatch)
         if totorch:
             matInp = torch.from_numpy(matInp).float()
             matOut = torch.from_numpy(matOut).float()
@@ -273,5 +275,5 @@ def debug():
 if __name__ == "__main__":
     np.random.seed(params.TORCH_SEED)
     random.seed(params.TORCH_SEED)
-    # exportPolySes()
-    debug()
+    exportPolySes()
+    # debug()
