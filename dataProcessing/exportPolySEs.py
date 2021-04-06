@@ -1,7 +1,7 @@
 import params
 from utils import utils
 
-N_SE = 400
+N_SE = 200
 N_SEG = 40
 N_FILE = int(N_SE / N_SEG)
 

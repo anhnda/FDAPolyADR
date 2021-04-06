@@ -43,7 +43,7 @@ def consumer(queue, counter, counter2, fout=None, caches = None):
 
 
 def exportBySE(seNames):
-    fin = open("%s/FDrug2SeList_19984.txt" % params.FADER_OUT)
+    fin = open("%s/FDrug2SeList_19814.txt" % params.FADER_OUT)
     dCombCount = dict()
     dCombSe = dict()
     dSe = dict()

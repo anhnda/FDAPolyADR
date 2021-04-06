@@ -359,11 +359,12 @@ def loadValidSEs():
     return validSes
 
 def exportDrugCom2Side():
-    fin = open("%s/FDrug2SeList_19814.txt" % params.FADER_OUT)
-    fout = open("%s/FDrug2AllSeList.txt" % params.FADER_OUT, "w")
+    fin = open("%s/JADER.txt" % params.JADER_OUT)
+    fout = open("%s/JADER2AllSeList.txt" % params.JADER_OUT, "w")
     dDrugComb2Se = dict()
     dDrugCombCount = dict()
     dDrugCom2Lenght = dict()
+    drugCont = dict()
     seCount = dict()
     cc = 0
     while True:
@@ -374,13 +375,12 @@ def exportDrugCom2Side():
         line = line.strip()
         parts = line.split("$")
         drugCom = parts[0]
-        drugLength = len(drugCom.split(","))
-        dDrugCom2Lenght[drugCom] = drugLength
+        dDrugCom2Lenght[drugCom] = len(drugCom.split(","))
 
         ses = parts[1].split(",")
-
-
         utils.add_dict_counter(dDrugCombCount, drugCom, 1)
+        for drug in drugCom.split(","):
+            utils.add_dict_counter(drugCont, drug, 1)
         sesComb = utils.get_insert_key_dict(dDrugComb2Se, drugCom, dict())
         for se in ses:
             utils.add_dict_counter(sesComb, se, 1)
@@ -397,50 +397,11 @@ def exportDrugCom2Side():
 
         fout.write("%s:%s$%s$%s\n" % (k, v, len(sString), ",".join(sString)))
     fout.close()
-    utils.save_obj(seCount, "%s/FSeCountFX" % params.FADER_OUT)
-    utils.save_obj(dDrugCom2Lenght, "%s/FDrugCombLength" % params.FADER_OUT)
-
-def plotDrugLength2NSEs():
-    import numpy as np
-
-    dDrugLength2NSes = dict()
-    fin = open("%s/FDrug2AllSeList.txt" % params.FADER_OUT)
-
-
-    while True:
-        line = fin.readline()
-        if line == "":
-            break
-        parts = line.strip().split("$")
-        drugCombs = parts[0].split(":")[0]
-        nDrug = len(drugCombs.split(","))
-        nSe = int(parts[1])
-        if nDrug == 1:
-
-            if nSe > 1000:
-                print(drugCombs, parts[0].split(":")[1])
-                print(nSe)
-        seLengths = utils.get_insert_key_dict(dDrugLength2NSes, nDrug, [])
-        seLengths.append(nSe)
-
-
-    x = dDrugLength2NSes.keys()
-    xmax = max(x)
-    x  = [i for i in range(1, xmax + 1)]
-    y = np.zeros(xmax)
-    for k, v in dDrugLength2NSes.items():
-        # avg = sum(v) / len(v)
-        y[k-1] = np.median(v)
-
-    import matplotlib.pyplot as plt
-    plt.scatter(x,y)
-    plt.xlabel("DrugComb length")
-    plt.ylabel("Median SEs")
-    plt.tight_layout()
-    plt.savefig("%s/%s.png" % (params.FIG_DIR, "FDAAvgSEDrugCombLength"))
-
+    utils.save_obj(seCount, "%s/JADERSeCountFX" % params.JADER_OUT)
+    utils.save_obj(dDrugCom2Lenght, "%s/DrugCombLength" % params.JADER_OUT)
+    print(len(drugCont), len(seCount))
 def plotDrugCombCount():
-    fin = open("%s/FDrug2AllSeList.txt" % params.FADER_OUT)
+    fin = open("%s/JADER2AllSeList.txt" % params.JADER_OUT)
     dLength2NReports = dict()
     kv = []
     vs = []
@@ -469,85 +430,29 @@ def plotDrugCombCount():
     plt.xlabel("DrugComb length")
     plt.ylabel("Num Reports")
     plt.tight_layout()
-    plt.savefig("%s/FDAReportsOnDrugLength.png" % params.FIG_DIR)
-    # plotHistD(vs, 100, "HistDrugCombFrequency")
+    plt.savefig("%s/JADERReportsOnDrugLength.png" % params.FIG_DIR)
 
     from dataProcessing.plotLib import plotCul2, plotCul, plotHistD
     print(len(kv), kv[-1])
     print(kv[0])
     print(max(vs), min(vs))
-    plotCul(kv[::-1], 10, 1, "DrugCombFreq", xLabel="Threshold of DrugComb Frequency", yLabel="Num DrugComb")
-    plotCul2(kv[::-1], 10, 1, "DrugCombReports",  xLabel="Threshold of DrugComb Frequency", yLabel="Num Reports" )
+    plotCul(kv[::-1], 10, 1, "JADERDrugCombFreq", xLabel="Threshold of DrugComb Frequency", yLabel="Num DrugComb")
+    plotCul2(kv[::-1], 10, 1, "JADERDrugCombReports",  xLabel="Threshold of DrugComb Frequency", yLabel="Num Reports" )
+
+    # plotHistD(vs, 100, "HistDrugCombFrequency")
 
 def plotSeCount():
-    seCount = utils.load_obj( "%s/FSeCountFX" % params.FADER_OUT)
+    seCount = utils.load_obj( "%s/JADERSeCountFX" % params.JADER_OUT)
     kvs = utils.sort_dict(seCount)
 
 
     from dataProcessing.plotLib import plotCul2, plotCul, plotHistD
 
-    plotCul(kvs[::-1], 50, 1, "SEFreq", xLabel="Thresholds of SE Frequency", yLabel="Num. SEs")
+    plotCul(kvs[::-1], 50, 1, "JADERSEFreq", xLabel="Thresholds of SE Frequency", yLabel="Num. SEs")
     # plotCul2(kvs[::-1], 50, 1, "SeReports")
 
-def plot3X():
-    dLength = utils.load_obj("%s/FDrugCombLength" % params.FADER_OUT)
-
-    kvs = utils.sort_dict(dLength)
-    dCount = dict()
-    for kv in kvs:
-        _, v = kv
-        utils.add_dict_counter(dCount, v)
-
-    maxLength = max(dCount.keys())
-    x = [i for i in range(1, maxLength+1)]
-    import numpy as np
-
-    y = np.zeros(maxLength)
-    for k, v in dCount.items():
-        y[k-1] = v
-
-
-    fin = open("%s/FDrug2AllSeList.txt" % params.FADER_OUT)
-    dLength2NReports = dict()
-    kv = []
-    vs = []
-    while True:
-        line = fin.readline()
-        if line == "":
-            break
-        line = line.strip().split("$")
-        parts = line[0].split(":")
-        c = int(parts[1])
-        drugCombLenght = len(parts[0].split(","))
-        utils.add_dict_counter(dLength2NReports, drugCombLenght, c)
-        vs.append(c)
-        kv.append([parts[0], c])
-
-
-    # import matplotlib.pyplot as plt
-    # import numpy as np
-    # maxX = max(dLength2NReports.keys())
-    x = [ i for i in range(1, maxLength+1)]
-    z = np.zeros(maxLength)
-    for k, v in dLength2NReports.items():
-        z[k-1] = v
-
-    import matplotlib.pyplot as plt
-    import numpy as np
-
-    fig = plt.figure()
-    ax = fig.add_subplot(projection='3d')
-
-    ax.plot(x, y, z, marker='>')
-
-    ax.set_xlabel('DrugComb Length')
-    ax.set_ylabel('DrugComb Count')
-    ax.set_zlabel('NReport')
-    plt.tight_layout
-    plt.savefig("%s/3DDrugCombLengthReport.png" % params.FIG_DIR)
-
 def plotDrugCombLength():
-    dLength = utils.load_obj("%s/FDrugCombLength" % params.FADER_OUT)
+    dLength = utils.load_obj("%s/DrugCombLength" % params.JADER_OUT)
 
     kvs = utils.sort_dict(dLength)
     dCount = dict()
@@ -568,21 +473,47 @@ def plotDrugCombLength():
     plt.xlabel("DrugComb length")
     plt.ylabel("Num DrugComb")
     plt.tight_layout()
-    plt.savefig("%s/%s.png" % (params.FIG_DIR, "FDADrugLength"))
+    plt.savefig("%s/%s.png" % (params.FIG_DIR, "JADERDrugLength"))
 
 
+def plotDrugLength2NSEs():
+    import numpy as np
+
+    dDrugLength2NSes = dict()
+    fin = open("%s/JADER2AllSeList.txt" % params.JADER_OUT)
+
+
+    while True:
+        line = fin.readline()
+        if line == "":
+            break
+        parts = line.strip().split("$")
+        drugCombs = parts[0].split(":")[0]
+        nDrug = len(drugCombs.split(","))
+        nSe = int(parts[1])
+        seLengths = utils.get_insert_key_dict(dDrugLength2NSes, nDrug, [])
+        seLengths.append(nSe)
+
+
+    x = dDrugLength2NSes.keys()
+    xmax = max(x)
+    x  = [i for i in range(1, xmax + 1)]
+    y = np.zeros(xmax)
+    for k, v in dDrugLength2NSes.items():
+        # avg = sum(v) / len(v)
+        y[k-1] = np.median(v)
+    import matplotlib.pyplot as plt
+    plt.scatter(x,y)
+    plt.xlabel("DrugComb length")
+    plt.ylabel("Median SEs")
+    plt.tight_layout()
+    plt.savefig("%s/%s.png" % (params.FIG_DIR, "JADERAvgSEDrugCombLength"))
 if __name__ == "__main__":
-    # nSize = len(loadValidDrugMap())
 
-    # getAllDrugSet()
-    # stats1(nSize)
-    # stats2(nSize)
-    # exportValidSEs()
-    # getAllDrugSEMap()
+
     # exportDrugCom2Side()
-    # plotDrugCombLength()
     # plotDrugCombCount()
-    # plot3X()
     # plotSeCount()
+    # plotDrugCombLength()
     plotDrugLength2NSEs()
     pass

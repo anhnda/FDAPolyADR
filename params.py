@@ -12,6 +12,8 @@ else:
     FADER_DIR = "/media/anhnd/Data/FAERS/Extract"
 
 FADER_OUT = "%s/FAERS" % OUTPUT_DIR
+JADER_OUT = "%s/JADER" % OUTPUT_DIR
+
 FADER_KFOLD = "%s/KFolds" % FADER_OUT
 FULL_DRUGBANK_NAMES = "%s/DrugBank/DrugBankNames.txt" % DATA_DIR
 
@@ -74,8 +76,8 @@ LEARN_WEIGHT_IN = False
 LEARN_WEIGHT_LAST = True
 
 
-METHOD = "MILI"
-N_LAYER = 2
+METHOD = "MIL"
+N_LAYER = 1
 EMBEDDING_SIZE = 50
 N_ITER = 1000
 BATCH_SIZE = 30000
@@ -83,7 +85,7 @@ BATCH_SIZE = 30000
 
 WEIGHT_ZERO = 0.05
 N_CHANEL = 2
-DK = 40
+DK = 30
 R_TYPE = "L1"
 
 

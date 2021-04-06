@@ -116,6 +116,8 @@ class MILIModel:
                     self.logger.infoAll(("Prec: ", prec))
                     self.logger.infoAll(("Recal: ", recall))
                     # exit(-1)
+                    aucTest, auprTest = evalAUCAUPR1(testOut.cpu().detach(), testPred.cpu().detach())
+                    self.logger.infoAll(("AUC, AUPR", aucTest, auprTest))
 
 
 def evalX(target, pred, topks, input=None, polySE=None):

@@ -115,6 +115,8 @@ class FFNNModel:
                     prec, recall = evalX(testOut.cpu().detach(), testPred.cpu().detach(), topks, None, None)
                     self.logger.infoAll(("Prec: ", prec))
                     self.logger.infoAll(("Recal: ", recall))
+                    aucTest, auprTest = evalAUCAUPR1(testOut.cpu().detach(), testPred.cpu().detach())
+                    self.logger.infoAll(("AUC, AUPR", aucTest, auprTest))
 
                     # exit(-1)
 
