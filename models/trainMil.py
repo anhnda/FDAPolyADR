@@ -48,7 +48,7 @@ class MILModel:
         self.model = model.to(self.device)
 
         lossFunc = torch.nn.MSELoss()
-        topks = [i for i in range(1, 20)]
+        topks = [i for i in range(1, 40)]
         topks = torch.LongTensor(topks).to(self.device)
 
         if params.OPTIMIZER == "Adam":

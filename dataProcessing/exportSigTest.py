@@ -78,7 +78,9 @@ def exportBySE(seNames):
     for se in seNames:
         dCombCountx = dCombCount[se]
         dComSEx = utils.get_dict(dCombSe, se, dict())
-        nSe = dSe[se]
+        nSe = utils.get_dict(dSe,se, 0)
+        if nSe == 0:
+            continue
         for drugComb, nComb in dCombCountx.items():
             ar = np.zeros((2, 2))
             nCombSe = utils.get_dict(dComSEx, drugComb, 0)
@@ -165,7 +167,7 @@ def exportAllSes():
     seList = list(validSEs)
 
     # seList = ['product dose omission']
-    nSize = 40
+    nSize = 50
     import os
     p = "%s/FTest/*" % params.FADER_OUT
     p = p.replace(" ", '\ ')
