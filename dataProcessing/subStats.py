@@ -219,6 +219,11 @@ def exportAllSes1():
         exportBySE(seList[start:end], pathIn1, dirOut1, pathInfo1)
 
 
+def ensureDIR():
+    utils.ensure_dir("%s/FSUBTEST" % params.FADER_OUT)
+    utils.ensure_dir("%s/FSUBTEST/1" % params.FADER_OUT)
+    utils.ensure_dir("%s/SUB" % params.FADER_OUT)
 
 if __name__ == "__main__":
+    ensureDIR()
     exportSub()
