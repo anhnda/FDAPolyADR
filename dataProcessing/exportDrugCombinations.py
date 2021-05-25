@@ -151,14 +151,16 @@ def getSideEffectSet2(path, seCounter, dValidSes=set()):
     fin.close()
 
     return dCase2Se
-def getDrugSEMappingFile(path, fout, dMap, dCaseSE):
+def getDrugSEMappingFile(path, fout, dMap, dCaseSE,nC = 0):
     fin = open(path, encoding="utf8", errors='ignore')
+    fout = open("%s/MissingDrugByCases.txt" % params.FADER_OUT, "a")
     fin.readline()
 
     currentId = -1
     currentDrugSet = set()
     print("Loading: ...", path)
     skipCase = False
+
     while True:
         line = fin.readline()
         if line == "":
@@ -173,7 +175,7 @@ def getDrugSEMappingFile(path, fout, dMap, dCaseSE):
             currentId = caseId
             currentDrugSet = set()
             continue
-
+        dO = drugName
         drugName = utils.get_dict(dMap, drugName, -1)
 
         if drugName == -1:
@@ -189,6 +191,9 @@ def getDrugSEMappingFile(path, fout, dMap, dCaseSE):
             currentDrugSet = set()
             if drugName != -1:
                 skipCase = False
+            if skipCase:
+                nC += 1
+                fout.write("%s\n" % dO)
 
         if not skipCase:
             if type(drugName) == int:
@@ -197,7 +202,8 @@ def getDrugSEMappingFile(path, fout, dMap, dCaseSE):
                 exit(-1)
             currentDrugSet.add(drugName)
     fin.close()
-
+    fout.close()
+    return nC
 
 def getDrugFile(dir):
     suff = dir[-4:]
@@ -247,16 +253,17 @@ def getAllDrugSEMap():
     nSize = len(dMap)
     print("DMAP SIZE: ", nSize)
     seCount = dict()
+    nC = 0
     for dir in dirs:
         pathDrug = getDrugFile(dir)
         assert os.path.isfile(pathDrug)
         pathSE = getSEFile(dir)
         caseSEMap = getSideEffectSet(pathSE, seCount, validSes)
-        getDrugSEMappingFile(pathDrug, fout, dMap, caseSEMap)
+        nC = getDrugSEMappingFile(pathDrug, fout, dMap, caseSEMap, nC)
 
     print("Saving...")
     utils.save_obj(seCount, "%s/FSECount_%s_%s" % (params.FADER_OUT, nSize, nSE))
-
+    print("Skip: ", nC, " cases.")
     fout.close()
 
 
@@ -574,15 +581,15 @@ def plotDrugCombLength():
 if __name__ == "__main__":
     # nSize = len(loadValidDrugMap())
 
-    # getAllDrugSet()
+    getAllDrugSet()
     # stats1(nSize)
     # stats2(nSize)
     # exportValidSEs()
-    # getAllDrugSEMap()
+    getAllDrugSEMap()
     # exportDrugCom2Side()
     # plotDrugCombLength()
     # plotDrugCombCount()
     # plot3X()
     # plotSeCount()
-    plotDrugLength2NSEs()
+    # plotDrugLength2NSEs()
     pass
