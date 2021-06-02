@@ -6,7 +6,7 @@ import params
 import numpy as np
 import time
 from multiprocessing import Process, Value, Queue
-from psmxExporter import loadDictName2Id
+from dataProcessing.jexport.psmxExporter import loadDictName2Id
 import statsmodels.api as sm
 
 from statsmodels.genmod.generalized_linear_model import GLM
@@ -134,10 +134,13 @@ def producer(queue, datas):
         r1, r2 = matching(scores1, scores2)
         r1 = getSubList(rExposeIds, r1)
         r2 = getSubList(rNonExposeIds, r2)
+        del glm
+        del res
         queue.put([pId, r1, r2])
+        print("\rPut...%s" % queue.size(), end="")
 
 
-def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=1000):
+def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=20):
     while True:
         data = queue.get()
         if data is None:
@@ -158,7 +161,6 @@ def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=1000):
             if counter2.value % 1000 == 0:
                 print("\r%s" % counter2.value, end="")
 
-        # print(drugJader,">>", drugBankName)
         if fout is not None:
 
             if caches is None:
@@ -169,6 +171,7 @@ def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=1000):
                     for line in caches:
                         fout.write("%s" % line)
                     fout.flush()
+                    print("Flush...", end="")
                     caches.clear()
 
 
@@ -208,6 +211,7 @@ def pExport():
     dInd2Id, _ = loadDictName2Id("%s/%sAInd.txt" % (OUT_DIR, PREF))
 
     inputList = loadRawExpose()
+    print("inputLen: ", len(inputList))
     nInputList = len(drugPairList)
     nDPerWorker = int(nInputList / params.N_DATA_WORKER)
     # assert 'g-csf' in allDrugNames
