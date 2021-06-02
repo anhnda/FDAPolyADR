@@ -13,6 +13,7 @@ else:
 
 FADER_OUT = "%s/FAERS" % OUTPUT_DIR
 JADER_OUT = "%s/JADER" % OUTPUT_DIR
+CAD_OUT = "%s/CAD" % OUTPUT_DIR
 
 FADER_KFOLD = "%s/KFolds" % FADER_OUT
 FULL_DRUGBANK_NAMES = "%s/DrugBank/DrugBankNames.txt" % DATA_DIR

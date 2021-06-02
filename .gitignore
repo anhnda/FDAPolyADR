@@ -4,6 +4,7 @@ __pycache__/*
 Data/DrugBank/DrugMo*
 misc/F*
 misc/FAERS/*
+misc/CAD/*
 old/*
 *.zip
 logs/

@@ -14,50 +14,6 @@ P_THRESHOLD = 0.05
 
 _exact = fisher_exact
 
-def exportSub():
-    fin = open("%s/JADER.txt" % params.JADER_OUT)
-    foutDict = dict()
-    dlen2SeCount = dict()
-    nA = 0
-    print("Reading...")
-
-    while True:
-        line = fin.readline()
-        if line == "":
-            break
-        nA += 1
-        print("\r%s" % nA, end="")
-        parts = line.strip().split("$")
-        drugCmb = parts[0]
-        ses = parts[1]
-        drugs = drugCmb.split(",")
-        nD = len(drugs)
-        sortNames = ",".join(sorted(drugs))
-
-        fO = utils.get_dict(foutDict, nD, -1)
-        if fO == -1:
-            fO = open("%s/SUB/%s" % (params.JADER_OUT, nD), "w")
-            foutDict[nD] = fO
-        fO.write("%s$%s\n" % (sortNames, ses))
-        len2SeCount = utils.get_insert_key_dict(dlen2SeCount, nD, dict())
-        sess = ses.split(",")
-        for se in sess:
-            utils.add_dict_counter(len2SeCount, se)
-
-    for k, v in foutDict.items():
-        v.close()
-
-    d2 = dict()
-    for k, v in dlen2SeCount.items():
-        kvs = utils.sort_dict(v)
-        ks = []
-        for kv in kvs:
-            kk, _ = kv
-            ks.append(kk)
-        d2[k] = ks
-    utils.save_obj(d2, "%s/SUB/drugSize2CommonSEs" % params.JADER_OUT)
-
-
 
 
 def exportSubG2():
