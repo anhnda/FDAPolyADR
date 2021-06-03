@@ -137,7 +137,7 @@ def producer(queue, datas):
         del glm
         del res
         queue.put([pId, r1, r2])
-        print("\rPut...%s" % queue.size(), end="")
+        # print("\rPut...%s" % queue.size(), end="")
 
 
 def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=20):
@@ -158,8 +158,8 @@ def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=20):
         nonExpose = ["%s" % i for i in nonExpose]
         with counter2.get_lock():
             counter2.value += 1
-            if counter2.value % 1000 == 0:
-                print("\r%s" % counter2.value, end="")
+            # if counter2.value % 1000 == 0:
+            print("\r Processed %s" % counter2.value, end="")
 
         if fout is not None:
 

@@ -182,3 +182,9 @@ def get3WJaccardOnSets(set1, set2):
         if s in set2:
             nMatch += 1
     return 3.0 * nMatch / (len1 + len2 + nMatch + 0.01)
+
+def getSubList(list, ids):
+    subList = []
+    for id in ids:
+        subList.append(list[id])
+    return subList

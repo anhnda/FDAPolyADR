@@ -8,6 +8,7 @@ from multiprocessing import Process, Value, Queue
 import time
 
 OUT_DIR = params.CAD_OUT
+PREF = "SCAD"
 P_THRESHOLD = 0.05
 
 def loadDictName2Id(path, nMax=1000, min=1):
@@ -52,24 +53,25 @@ def producer(queue, datas):
                 seSet.add(se)
         n1 = max(int(len(rExposeIds) / 10), 1)
         n2 = max(int(len(rNonExposeIds) / 10), 1)
-        ar1 = np.random.choice(rExposeIds, (1000, n1), replace=False)
-        ar2 = np.random.choice(rNonExposeIds, (1000, n2), replace=False)
+        # print(n1, n2, len(rExposeIds), len(rNonExposeIds))
+        # ar1 = np.random.choice(rExposeIds, (1000, n1), replace=False)
+        # ar2 = np.random.choice(rNonExposeIds, (1000, n2), replace=False)
         nSe = len(seSet)
-        dSe2Id = dict()
+        dOldSeId2NewId = dict()
         for se in seSet:
-            dSe2Id[se] = len(dSe2Id)
-        dId2Se = utils.reverse_dict(dSe2Id)
+            dOldSeId2NewId[se] = len(dOldSeId2NewId)
+        dId2NewSeIdOld = utils.reverse_dict(dOldSeId2NewId)
         def calRatio(dList, ar, nSe, nCount):
             appears = np.zeros((1000, nSe))
             for i in range(1000):
-                rIds = ar[i]
-                rs = dList[rIds]
+                rIds = np.random.choice(ar, nCount, replace=False)
+                rs = getSubList(dList, rIds)
 
                 for r in rs:
                     _, _, seIds = r
                     see = []
                     for seId in seIds:
-                        newSeId = utils.get_dict(dSe2Id, seId, -1)
+                        newSeId = utils.get_dict(dOldSeId2NewId, seId, -1)
                         if newSeId != -1:
                             see.append(newSeId)
                         appears[i, see] += 1
@@ -78,21 +80,20 @@ def producer(queue, datas):
             ratio = appears / notAppear
             return ratio
 
-        ratioExpose = calRatio(dList, ar1, nSe, n1)
-        ratioNonExpose = calRatio(dList, ar2, nSe, n2)
+        ratioExpose = calRatio(dList, rExposeIds, nSe, n1)
+        ratioNonExpose = calRatio(dList, rNonExposeIds, nSe, n2)
         sigSes = []
         for i in range(nSe):
             _, p = ttest_ind(ratioExpose[ :, i], ratioNonExpose[ :, i],  alternative="greater")
             if p <= P_THRESHOLD:
-                sigSes.append([dId2Se[i], p])
+                sigSes.append([dId2NewSeIdOld[i], p])
         for v in sigSes:
             se, p = v
             seName = dId2Se[se]
             queue.put([dPair, seName, p])
 
 
-
-def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=5000):
+def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=100):
     while True:
         data = queue.get()
         if data is None:
@@ -108,7 +109,7 @@ def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=5000):
         drugPair, seName, p = data
         with counter2.get_lock():
             counter2.value += 1
-            if counter2.value % 1000 == 0:
+            if counter2.value % 10 == 0:
                 print("\r%s"% counter2.value, end="")
 
         # print(drugJader,">>", drugBankName)
@@ -123,6 +124,29 @@ def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=5000):
                         fout.write("%s" % line)
                     fout.flush()
                     caches.clear()
+
+
+def loadRawExpose():
+    fin = open("%s/%s" % (OUT_DIR, "rawExpose"))
+    ors = []
+    while True:
+        line = fin.readline()
+        if line == "":
+            break
+        parts = line.strip().split("\t")
+        pid = int(parts[0])
+        exposeIds = []
+        nonExposeIds = []
+        try:
+            for ep in parts[1].split(","):
+                exposeIds.append(int(ep))
+            for ne in parts[2].split(","):
+                nonExposeIds.append(int(ne))
+        except:
+            print(line)
+        ors.append([pid, exposeIds, nonExposeIds])
+    fin.close()
+    return ors
 
 
 def loadPSMExpose():
@@ -155,14 +179,15 @@ def runTTest():
     counter2 = Value('i', 0)
 
     dList = utils.load_obj("%s/DataDump.o" % OUT_DIR)
-    dDrugPair2Id, drugPairList = loadDictName2Id("%s/SJADERPairs.txt" % OUT_DIR, nMax=-1, min=1)
-    dDrug2Id, _ = loadDictName2Id("%s/SJADERADrugs.txt" % OUT_DIR)
-    dInd2Id, _ = loadDictName2Id("%s/SJADERAInd.txt" % OUT_DIR)
-    dSe2Id, _ = loadDictName2Id("%s/SJADERASe.txt" % OUT_DIR)
+    dDrugPair2Id, drugPairList = loadDictName2Id("%s/%sPairs.txt" % (OUT_DIR, PREF), nMax=-1, min=1)
+    dDrug2Id, _ = loadDictName2Id("%s/%sADrugs.txt" % (OUT_DIR, PREF))
+    dInd2Id, _ = loadDictName2Id("%s/%sAInd.txt" % (OUT_DIR, PREF))
+    dSe2Id, _ = loadDictName2Id("%s/%sASe.txt" % (OUT_DIR, PREF))
     dId2Se = utils.reverse_dict(dSe2Id)
 
-    nInputList = len(drugPairList)
-    inputList = [i for i in range(nInputList)]
+    inputList = loadRawExpose()
+    nInputList = len(inputList)
+
     nDPerWorker = int(nInputList / params.N_DATA_WORKER)
     # assert 'g-csf' in allDrugNames
     for i in range(params.N_DATA_WORKER):
@@ -200,8 +225,6 @@ def runTTest():
             break
     fout.flush()
     fout.close()
-
-
 
 
 def exportPolySE():

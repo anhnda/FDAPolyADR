@@ -13,6 +13,7 @@ MAX_NEG = 5000
 OUT_DIR = params.CAD_OUT
 PREF = "SCAD"
 
+
 def loadDictName2Id(path, nMax=1000, min=1):
     fin = open(path)
     d = dict()
@@ -24,7 +25,12 @@ def loadDictName2Id(path, nMax=1000, min=1):
             break
         parts = line.strip().split("\t")
         name = parts[0]
-        cout = float(parts[1])
+        if len(parts) == 1:
+            continue
+        try:
+            cout = float(parts[1])
+        except:
+            print(line)
         if cout <= min:
             break
         utils.get_update_dict_index(d, name)
@@ -48,7 +54,7 @@ def exportOData():
         if line == "":
             break
         parts = line.strip().split("$")
-        drugs = parts[0].split(",")
+        drugs = parts[1].split(",")
         inds = parts[2].split(",")
         ses = parts[-1].split(",")
         drugIds = []
@@ -116,7 +122,7 @@ def consumer(queue, counter, counter2, fout=None, caches=None, maxCache=5000):
         with counter2.get_lock():
             counter2.value += 1
             if counter2.value % 1000 == 0:
-                print("\r%s"% counter2.value, end="")
+                print("\r%s" % counter2.value, end="")
 
         # print(drugJader,">>", drugBankName)
         if fout is not None:
@@ -186,7 +192,6 @@ def pExport():
     fout.close()
 
 
-
 if __name__ == "__main__":
-    # exportOData()
+    exportOData()
     pExport()

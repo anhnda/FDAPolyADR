@@ -24,10 +24,11 @@ def exportPair():
             break
         line = line.strip()
         parts = line.split("$")
-        drugComb = parts[0]
+        drugComb = parts[1]
         indications = parts[2]
         ses = parts[3]
         drugs = drugComb.split(",")
+        # print(drugs)
         for drug in drugs:
             utils.add_dict_counter(validDrugs, drug)
         for ind in indications.split(","):
@@ -47,6 +48,7 @@ def exportPair():
     cInd = utils.sort_dict(validIndicates)
     cSe = utils.sort_dict(validSes)
     cPair = utils.sort_dict(validPairs)
+    print(len(cPair))
     writeSortedDictC(cDrug, "%s/%sADrugs.txt" % (OUT_DIR,PREF))
     writeSortedDictC(cInd, "%s/%sAInd.txt" % (OUT_DIR,PREF))
     writeSortedDictC(cSe, "%s/%sASe.txt" % (OUT_DIR,PREF))
